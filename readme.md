@@ -21,4 +21,5 @@ After p-wACSF calculation, run **ndw2g_1.py** and **ndw2g_2.py** to generate cry
 Run **ndfsc.py** to split data and resample training set.
 ### 2.5 Train classification models
 Run **ndml2_gen.py** to generate job files for model training.
+Note that datasets directly for model training canbe found in `https://figshare.com/account/items/28052765`
 Then copy **nd_ml2.py** to the job directory.
