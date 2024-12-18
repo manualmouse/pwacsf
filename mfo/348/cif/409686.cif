@@ -1,0 +1,93 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409686-ICSD
+_database_code_ICSD 409686
+_audit_creation_date 2004-04-01
+_chemical_name_common 'Potassium bismuth hexathiodiphosphate(IV)'
+_chemical_formula_structural 'K Bi (P2 S6)'
+_chemical_formula_sum 'Bi1 K1 P2 S6'
+_chemical_name_structure_type KSbP2Se6
+_exptl_crystal_density_diffrn 3.44
+_citation_title
+'Crystal structure of potassium bismuth hexathiodiphosphate, K Bi P2 S6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2003 218
+151 152 ZKNSFT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Manriquez, V.'
+primary 'Galdamez, A.'
+primary 'Ruiz Leon, D.'
+primary 'Garland, M.T.'
+primary 'Jimenez, M.'
+_cell_length_a 6.6200(6)
+_cell_length_b 7.4058(7)
+_cell_length_c 9.9002(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.108(1)
+_cell_angle_gamma 90.
+_cell_volume 485.04
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21 1'
+_space_group_IT_number 4
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+K1+ 1
+P4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Bi1 Bi3+ 2 a 0.79399(4) 0.77391(6) 0.98012(3) 0.02185(9) 1.
+K1 K1+ 2 a 0.7017(3) 1.0236(3) 0.5016(2) 0.0312(5) 1.
+P1 P4+ 2 a 0.6876(3) 0.3148(2) 0.8258(2) 0.0147(5) 1.
+P2 P4+ 2 a 0.7956(3) 0.5409(3) 0.7003(2) 0.0142(4) 1.
+S1 S2- 2 a 0.6585(3) 0.4287(3) 1.0136(2) 0.0194(4) 1.
+S2 S2- 2 a 0.9127(3) 0.1262(3) 0.8259(2) 0.0180(4) 1.
+S3 S2- 2 a 0.4251(3) 0.2268(2) 0.7458(2) 0.0193(5) 1.
+S4 S2- 2 a 1.0521(3) 0.6229(3) 0.8071(2) 0.0190(4) 1.
+S5 S2- 2 a 0.5845(3) 0.7341(2) 0.7305(2) 0.0203(5) 1.
+S6 S2- 2 a 0.8230(4) 0.4592(3) 0.5134(2) 0.0240(5) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.02447(16) 0.01881(14) 0.02227(16) -0.00115(18) 0.00087(11)
+-0.00475(18)
+K1 K1+ 0.0315(13) 0.0354(12) 0.0264(12) -0.0025(9) -0.0014(10) 0.0003(9)
+P1 P4+ 0.0172(10) 0.0139(12) 0.013(1) -0.0003(7) -0.0014(8) 0.0005(7)
+P2 P4+ 0.015(1) 0.0139(9) 0.0135(10) -0.0008(8) -0.0017(8) 0.0004(8)
+S1 S2- 0.0260(11) 0.0197(11) 0.0126(10) -0.0044(9) 0.0015(9) -0.0015(8)
+S2 S2- 0.0187(11) 0.0153(9) 0.0199(11) 0.0016(8) -0.0028(9) -0.0003(9)
+S3 S2- 0.0179(10) 0.0203(12) 0.0195(11) -0.0050(7) -0.0033(8) -0.0004(8)
+S4 S2- 0.0145(10) 0.0231(10) 0.0194(11) -0.0013(8) -0.0010(8) -0.0024(9)
+S5 S2- 0.0212(10) 0.0185(13) 0.021(1) 0.0043(8) -0.0048(8) -0.0008(8)
+S6 S2- 0.0290(13) 0.0306(12) 0.0125(11) -0.0036(10) 0.0017(9) -0.0020(9)
+#End of TTdata_409686-ICSD

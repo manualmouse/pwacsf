@@ -1,0 +1,96 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_291600-ICSD
+_database_code_ICSD 291600
+_audit_creation_date 2016-08-01
+_chemical_name_common 'Rubidium iodate(V) fluoride'
+_chemical_formula_structural 'Rb I O2 F2'
+_chemical_formula_sum 'F2 I1 O2 Rb1'
+_chemical_name_structure_type KIO2F2
+_exptl_crystal_density_diffrn 4.11
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Rb I O3 and Rb I O2 F2: two promising nonlinear optical materials in mid-IR
+region and influence of partially replacing oxygen with fluorine for improving
+laser damage threshold
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2016 28 1413 1418 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wu, Qi'
+primary 'Liu, Hongming'
+primary 'Jiang, Fangchao'
+primary 'Kang, Lei'
+primary 'Yang, Lei'
+primary 'Lin, Zheshuai'
+primary 'Hu, Zhanggui'
+primary 'Chen, Xingguo'
+primary 'Meng, Xianggao'
+primary 'Qin, Jingui'
+_cell_length_a 8.567(4)
+_cell_length_b 6.151(3)
+_cell_length_c 8.652(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 455.92
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P c a 21'
+_space_group_IT_number 29
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+F1- -1
+I5+ 5
+O2- -2
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+F1 F1- 4 a 0.4269(4) 1.2415(4) 0.5338(4) 0.0484(7) 1
+F2 F1- 4 a 0.5678(4) 0.6534(4) 0.3936(3) 0.0355(6) 1
+I1 I5+ 4 a 0.49321(3) 0.94720(3) 0.46628(7) 0.01892(8) 1
+O1 O2- 4 a 0.2974(3) 0.8583(5) 0.4418(4) 0.0321(7) 1
+O2 O2- 4 a 0.5299(5) 0.8687(7) 0.6589(4) 0.0393(9) 1
+Rb1 Rb1+ 4 a 0.21229(6) 0.53082(5) 0.68916(5) 0.02840(11) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+F1 F1- 0.052(2) 0.0274(13) 0.0661(19) 0.0037(14) 0.0089(15) -0.0141(13)
+F2 F1- 0.0391(17) 0.0325(13) 0.0350(14) 0.0099(13) 0.0046(13) -0.0064(11)
+I1 I5+ 0.01850(13) 0.02045(11) 0.01780(12) -0.00042(8) 0.00088(12) -0.00131(10)
+O1 O2- 0.0187(14) 0.0360(14) 0.0418(19) -0.0027(11) 0.0030(13) -0.0032(14)
+O2 O2- 0.048(2) 0.050(2) 0.0197(19) 0.0082(17) 0.0028(14) 0.0024(14)
+Rb1 Rb1+ 0.0294(2) 0.02876(17) 0.0270(2) 0.00385(12) -0.0024(2) -0.0031(2)
+#End of TTdata_291600-ICSD

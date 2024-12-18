@@ -1,0 +1,113 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20970-ICSD
+_database_code_ICSD 20970
+_audit_creation_date 1988-05-17
+_audit_update_record 2009-08-01
+_chemical_name_common 'Potassium oxotitanium phosphate(V)'
+_chemical_formula_structural 'K (Ti O) (P O4)'
+_chemical_formula_sum 'K1 O5 P1 Ti1'
+_chemical_name_structure_type KTiOPO4#KFePO4F
+_exptl_crystal_density_diffrn 3.03
+_citation_title
+
+;
+Electron density distribution in a nonlinear K Ti O P O4 crystal according to
+precision x-ray data.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1985 30 668 676 KRISAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Voloshina, I.V.'
+primary 'Gerr, R.G.'
+primary 'Antipin, M.Yu.'
+primary 'Tsirel'son, V.G. (Tsirelson, V.G.)'
+primary 'Pavlova, N.I.'
+primary 'Struchkov, Yu.T.'
+primary 'Ozerov, R.P.'
+primary 'Rez, I.S.'
+_cell_length_a 12.8164(14)
+_cell_length_b 10.5897(14)
+_cell_length_c 6.4033(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 869.07
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'P n 21 a'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ti1 Ti4+ 4 a 0.37289(2) 0 0.50007(4) . 1.
+Ti2 Ti4+ 4 a 0.24661(2) 0.25129(4) 0.26935(4) . 1.
+P1 P5+ 4 a 0.49801(4) 0.25993(6) 0.33624(8) . 1.
+P2 P5+ 4 a 0.18091(4) 0.51242(4) 0.50204(9) . 1.
+K1 K1+ 4 a 0.3769(1) 0.3105(1) 0.7800(1) . 1.
+K2 K1+ 4 a 0.1055(1) 0.0653(1) 0.7002(2) . 1.
+O1 O2- 4 a 0.4858(1) 0.1499(1) 0.4868(3) . 1.
+O2 O2- 4 a 0.5100(1) 0.3827(1) 0.4652(3) . 1.
+O3 O2- 4 a 0.4005(1) 0.2792(2) 0.1991(2) . 1.
+O4 O2- 4 a 0.5936(1) 0.2406(2) 0.1932(3) . 1.
+O5 O2- 4 a 0.2237(1) 0.3900(1) 0.0412(3) . 1.
+O6 O2- 4 a 0.2248(1) 0.6431(2) -.0332(2) . 1.
+O7 O2- 4 a 0.1124(1) 0.5409(2) 0.3111(2) . 1.
+O8 O2- 4 a 0.1114(1) 0.4870(2) 0.6920(2) . 1.
+O9 O2- 4 a 0.2528(2) 0.6278(1) 0.5389(2) . 1.
+O10 O2- 4 a 0.2532(2) 0.3993(1) 0.4612(2) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ti1 Ti4+ 0.444(6) 0.373(6) 0.392(6) -.019(4) -.012(4) 0.045(5)
+Ti2 Ti4+ 0.395(6) 0.350(5) 0.434(5) 0.039(4) -.012(5) -.009(5)
+P1 P5+ 0.338(9) 0.42(1) 0.452(9) -.057(7) -.004(7) 0.007(9)
+P2 P5+ 0.544(9) 0.38(1) 0.854(9) 0.025(6) -.015(9) -.048(7)
+K1 K1+ 1.74(2) 1.66(2) 0.84(1) 0.43(2) 0.31(1) 0.07(1)
+K2 K1+ 1.04(1) 1.95(2) 1.58(2) -.03(1) 0.39(1) -.10(2)
+O1 O2- 0.73(3) 0.70(3) 0.76(3) -.21(2) -.17(3) 0.31(2)
+O2 O2- 0.65(3) 0.65(3) 0.89(3) -.22(2) 0.14(2) -.26(2)
+O3 O2- 0.33(2) 0.90(3) 0.66(2) 0.00(2) -.06(2) 0.06(2)
+O4 O2- 0.44(2) 0.88(3) 0.69(2) 0.02(2) 0.11(2) -.10(2)
+O5 O2- 0.65(3) 0.63(3) 0.74(3) 0.22(2) 0.06(2) 0.13(2)
+O6 O2- 0.65(3) 0.60(2) 0.65(3) -.16(2) -.03(2) 0.16(2)
+O7 O2- 0.79(3) 0.84(3) 0.38(2) 0.20(2) -.13(2) 0.00(2)
+O8 O2- 0.90(3) 0.88(3) 0.40(2) -.20(2) 0.05(2) 0.01(2)
+O9 O2- 0.82(3) 0.59(2) 0.75(3) -.18(3) 0.15(3) -.25(2)
+O10 O2- 0.90(3) 0.58(2) 0.77(3) 0.27(3) -.21(3) -.23(2)
+#End of TTdata_20970-ICSD

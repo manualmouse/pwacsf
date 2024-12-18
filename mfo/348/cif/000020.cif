@@ -1,0 +1,474 @@
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+; 
+ ? 
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          'Ba3 Cl2 Cs Ga5 Se10 ' 
+_chemical_formula_sum 
+ 'Ba3 Cl2 Cs Ga5 Se10' 
+_chemical_formula_weight          1754.00
+ 
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'Ga'  'Ga'   0.2307   1.6083 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Se'  'Se'  -0.0929   2.2259 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Ba'  'Ba'  -0.3244   2.2819 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Cs'  'Cs'  -0.3680   2.1192 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Cl'  'Cl'   0.1484   0.1585 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 
+_symmetry_cell_setting            'Tetragonal' 
+_symmetry_space_group_name_H-M    'I -4'  
+ 
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-x, -y, z' 
+ 'y, -x, -z' 
+ '-y, x, -z' 
+ 'x+1/2, y+1/2, z+1/2' 
+ '-x+1/2, -y+1/2, z+1/2' 
+ 'y+1/2, -x+1/2, -z+1/2' 
+ '-y+1/2, x+1/2, -z+1/2' 
+ 
+_cell_length_a                    8.7348(6) 
+_cell_length_b                    8.7348(6) 
+_cell_length_c                    15.697(3) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  90.00 
+_cell_angle_gamma                 90.00 
+_cell_volume                      1197.6(3) 
+_cell_formula_units_Z             2 
+_cell_measurement_temperature     293(2) 
+_cell_measurement_reflns_used     1504.0
+_cell_measurement_theta_min       2.60 
+_cell_measurement_theta_max       27.43  
+ 
+_exptl_crystal_description        'Chunk' 
+_exptl_crystal_colour             'Orange–yellow' 
+_exptl_crystal_size_max           0.2210  
+_exptl_crystal_size_mid           0.2000 
+_exptl_crystal_size_min           0.1030 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     4.864 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              1504.0  
+_exptl_absorpt_coefficient_mu     27.286 
+_exptl_absorpt_correction_type    'Multi-scan' 
+_exptl_absorpt_correction_T_min   0.003
+_exptl_absorpt_correction_T_max   0.060 
+_exptl_absorpt_process_details    ? 
+ 
+_exptl_special_details 
+; 
+ ? 
+; 
+ 
+_diffrn_ambient_temperature       293(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   MercuryCCD
+_diffrn_measurement_method        'CCD_Profile_fitting' 
+_diffrn_detector_area_resol_mean  14.6306  
+_diffrn_standards_number          ? 
+_diffrn_standards_interval_count  ? 
+_diffrn_standards_interval_time   ? 
+_diffrn_standards_decay_%         ? 
+_diffrn_reflns_number             4697 
+_diffrn_reflns_av_R_equivalents   0.0367 
+_diffrn_reflns_av_sigmaI/netI     0.0361 
+_diffrn_reflns_limit_h_min        -11 
+_diffrn_reflns_limit_h_max        11 
+_diffrn_reflns_limit_k_min        -10 
+_diffrn_reflns_limit_k_max        11 
+_diffrn_reflns_limit_l_min        -19 
+_diffrn_reflns_limit_l_max        20 
+_diffrn_reflns_theta_min          2.60 
+_diffrn_reflns_theta_max          27.43 
+_reflns_number_total              1366 
+_reflns_number_gt                 1335 
+_reflns_threshold_expression      >2sigma(I) 
+ 
+_computing_data_collection        'CrystalClear (Rigaku/MSC Inc., 2005)' 
+_computing_cell_refinement        'CrystalClear (Rigaku/MSC Inc., 2005)' 
+_computing_data_reduction         'CrystalClear (Rigaku/MSC Inc., 2005)' 
+_computing_structure_solution     'SHELXS-97 (Sheldrick, 1990)' 
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     'Bruker SHELXTL'
+_computing_publication_material   'Bruker SHELXTL'
+ 
+_refine_special_details 
+; 
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and 
+ goodness of fit S are based on F^2^, conventional R-factors R are based 
+ on F, with F set to zero for negative F^2^. The threshold expression of 
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is 
+ not relevant to the choice of reflections for refinement.  R-factors based 
+ on F^2^ are statistically about twice as large as those based on F, and R- 
+ factors based on ALL data will be even larger. 
+; 
+ 
+_refine_ls_structure_factor_coef  Fsqd  
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc  
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0000P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    .
+_refine_ls_hydrogen_treatment     .                                        
+_refine_ls_extinction_method      SHELXL 
+_refine_ls_extinction_coef        0.00258(7) 
+_refine_ls_extinction_expression 
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^' 
+_refine_ls_abs_structure_details 
+ 'Flack H D (1983), Acta Cryst. A39, 876-881' 
+_refine_ls_abs_structure_Flack    0.000(16) 
+_refine_ls_number_reflns          1366 
+_refine_ls_number_parameters      50 
+_refine_ls_number_restraints      0 
+_refine_ls_R_factor_all           0.0203 
+_refine_ls_R_factor_gt            0.0192 
+_refine_ls_wR_factor_ref          0.0346 
+_refine_ls_wR_factor_gt           0.0342 
+_refine_ls_goodness_of_fit_ref    1.021 
+_refine_ls_restrained_S_all       1.021 
+_refine_ls_shift/su_max           0.002 
+_refine_ls_shift/su_mean          0.000 
+ 
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+Ba1 Ba 0.13031(4) 0.26141(4) 0.38636(2) 0.02816(11) Uani 0.75 1 d P . . 
+Cs1 Cs 0.13031(4) 0.26141(4) 0.38636(2) 0.02816(11) Uani 0.25 1 d P . . 
+Ga2 Ga 0.0000 0.0000 0.0000 0.0140(2) Uani 1 4 d S . . 
+Ga1 Ga 0.30838(6) 0.09548(6) 0.16546(3) 0.01417(13) Uani 1 1 d . . . 
+Se3 Se 0.0000 0.5000 0.57107(5) 0.0286(2) Uani 1 2 d S . . 
+Se2 Se 0.41270(6) 0.31109(6) 0.24087(3) 0.01976(13) Uani 1 1 d . . . 
+Se1 Se 0.12063(6) 0.20931(6) 0.07431(3) 0.01726(12) Uani 1 1 d . . . 
+Cl1 Cl 0.0000 0.5000 0.2500 0.0387(8) Uani 1 4 d S . . 
+Cl2 Cl 0.0000 0.0000 0.5000 0.0472(9) Uani 1 4 d S . . 
+ 
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+Ba1 0.0354(2) 0.02364(19) 0.02548(19) 0.00331(15) 0.00241(17) -0.00568(15) 
+Cs1 0.0354(2) 0.02364(19) 0.02548(19) 0.00331(15) 0.00241(17) -0.00568(15) 
+Ga2 0.0140(3) 0.0140(3) 0.0140(6) 0.000 0.000 0.000 
+Ga1 0.0134(3) 0.0135(3) 0.0156(3) 0.0012(2) -0.0017(2) 0.0003(2) 
+Se3 0.0215(4) 0.0480(5) 0.0163(5) 0.000 0.000 0.0155(4) 
+Se2 0.0200(3) 0.0132(2) 0.0261(3) 0.0003(2) -0.0083(2) -0.0003(2) 
+Se1 0.0178(3) 0.0137(2) 0.0204(3) -0.0021(2) -0.0070(2) 0.0028(2) 
+Cl1 0.0340(10) 0.0340(10) 0.048(2) 0.000 0.000 0.000 
+Cl2 0.0519(13) 0.0519(13) 0.038(2) 0.000 0.000 0.000 
+ 
+_geom_special_details 
+; 
+ All esds (except the esd in the dihedral angle between two l.s. planes) 
+ are estimated using the full covariance matrix.  The cell esds are taken 
+ into account individually in the estimation of esds in distances, angles 
+ and torsion angles; correlations between esds in cell parameters are only 
+ used when they are defined by crystal symmetry.  An approximate (isotropic) 
+ treatment of cell esds is used for estimating esds involving l.s. planes. 
+; 
+ 
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+Ba1 Cl2 3.1131(4) . ? 
+Ba1 Cl1 3.1969(5) . ? 
+Ba1 Se2 3.3894(7) . ? 
+Ba1 Se1 3.4912(6) 8 ? 
+Ba1 Se1 3.6745(8) 6 ? 
+Ba1 Se2 3.6780(7) 8_545 ? 
+Ba1 Se3 3.7478(9) . ? 
+Ba1 Se2 3.7518(7) 7_455 ? 
+Ga2 Se1 2.4111(5) . ? 
+Ga2 Se1 2.4111(5) 4 ? 
+Ga2 Se1 2.4111(5) 2 ? 
+Ga2 Se1 2.4111(5) 3 ?  
+Ga1 Se3 2.3858(8) 5_544 ? 
+Ga1 Se1 2.3928(7) . ? 
+Ga1 Se2 2.4039(7) . ? 
+Ga1 Se2 2.4083(7) 8_545 ? 
+Se3 Ga1 2.3858(8) 6 ? 
+Se3 Ga1 2.3858(8) 5_455 ? 
+Se3 Ba1 3.7478(9) 2_565 ? 
+Se2 Ga1 2.4083(7) 7 ? 
+Se2 Ba1 3.6780(7) 7 ? 
+Se2 Cs1 3.6780(7) 7 ? 
+Se2 Ba1 3.7518(7) 8 ? 
+Se2 Cs1 3.7518(7) 8 ? 
+Se1 Cs1 3.4912(6) 7_455 ? 
+Se1 Ba1 3.4912(6) 7_455 ? 
+Se1 Ba1 3.6745(8) 6_554 ? 
+Se1 Cs1 3.6745(8) 6_554 ? 
+Se1 Cs1 3.8686(7) 8 ? 
+Cl1 Cs1 3.1969(5) 7_455 ? 
+Cl1 Ba1 3.1969(5) 7_455 ? 
+Cl1 Cs1 3.1969(5) 2_565 ? 
+Cl1 Ba1 3.1969(5) 2_565 ? 
+Cl1 Cs1 3.1969(5) 8 ? 
+Cl1 Ba1 3.1969(5) 8 ? 
+Cl2 Cs1 3.1131(4) 2 ? 
+Cl2 Ba1 3.1131(4) 2 ? 
+Cl2 Cs1 3.1131(4) 3_556 ? 
+Cl2 Ba1 3.1131(4) 3_556 ? 
+Cl2 Cs1 3.1131(4) 4_556 ? 
+Cl2 Ba1 3.1131(4) 4_556 ? 
+ 
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+Cl2 Ba1 Cl1 137.021(13) . . ? 
+Cl2 Ba1 Se2 138.253(15) . . ? 
+Cl1 Ba1 Se2 74.010(14) . . ? 
+Cl2 Ba1 Se1 134.794(16) . 8 ? 
+Cl1 Ba1 Se1 71.059(12) . 8 ? 
+Se2 Ba1 Se1 73.267(15) . 8 ? 
+Cl2 Ba1 Se1 78.898(14) . 6 ? 
+Cl1 Ba1 Se1 134.667(14) . 6 ? 
+Se2 Ba1 Se1 95.809(18) . 6 ? 
+Se1 Ba1 Se1 63.761(16) 8 6 ? 
+Cl2 Ba1 Se2 75.795(14) . 8_545 ? 
+Cl1 Ba1 Se2 103.053(17) . 8_545 ? 
+Se2 Ba1 Se2 68.833(17) . 8_545 ? 
+Se1 Ba1 Se2 141.671(16) 8 8_545 ? 
+Se1 Ba1 Se2 114.281(16) 6 8_545 ? 
+Cl2 Ba1 Se3 81.575(13) . . ? 
+Cl1 Ba1 Se3 92.714(17) . . ? 
+Se2 Ba1 Se3 132.153(15) . . ? 
+Se1 Ba1 Se3 59.021(10) 8 . ? 
+Se1 Ba1 Se3 61.311(14) 6 . ? 
+Se2 Ba1 Se3 157.346(13) 8_545 . ? 
+Cl2 Ba1 Se2 74.690(15) . 7_455 ? 
+Cl1 Ba1 Se2 69.099(12) . 7_455 ? 
+Se2 Ba1 Se2 103.538(15) . 7_455 ? 
+Se1 Ba1 Se2 139.171(15) 8 7_455 ? 
+Se1 Ba1 Se2 153.585(16) 6 7_455 ? 
+Se2 Ba1 Se2 58.580(16) 8_545 7_455 ? 
+Se3 Ba1 Se2 114.300(14) . 7_455 ? 
+Cl2 Ba1 Cs1 117.933(11) . 2_565 ? 
+Cl1 Ba1 Cs1 42.031(9) . 2_565 ? 
+Se2 Ba1 Cs1 103.679(13) . 2_565 ? 
+Se1 Ba1 Cs1 53.387(11) 8 2_565 ? 
+Se1 Ba1 Cs1 102.868(10) 6 2_565 ? 
+Se2 Ba1 Cs1 142.513(13) 8_545 2_565 ? 
+Se3 Ba1 Cs1 50.683(11) . 2_565 ? 
+Se2 Ba1 Cs1 89.972(12) 7_455 2_565 ? 
+Cl2 Ba1 Ba1 117.933(11) . 2_565 ? 
+Cl1 Ba1 Ba1 42.031(9) . 2_565 ? 
+Se2 Ba1 Ba1 103.679(13) . 2_565 ? 
+Se1 Ba1 Ba1 53.387(11) 8 2_565 ? 
+Se1 Ba1 Ba1 102.868(10) 6 2_565 ? 
+Se2 Ba1 Ba1 142.513(13) 8_545 2_565 ? 
+Se3 Ba1 Ba1 50.683(11) . 2_565 ? 
+Se2 Ba1 Ba1 89.972(12) 7_455 2_565 ? 
+Cs1 Ba1 Ba1 0.000(11) 2_565 2_565 ? 
+Cl2 Ba1 Cs1 35.416(4) . 4_556 ? 
+Cl1 Ba1 Cs1 112.196(13) . 4_556 ? 
+Se2 Ba1 Cs1 173.402(14) . 4_556 ? 
+Se1 Ba1 Cs1 110.429(15) 8 4_556 ? 
+Se1 Ba1 Cs1 81.397(17) 6 4_556 ? 
+Se2 Ba1 Cs1 106.782(12) 8_545 4_556 ? 
+Se3 Ba1 Cs1 51.444(11) . 4_556 ? 
+Se2 Ba1 Cs1 77.387(15) 7_455 4_556 ? 
+Cs1 Ba1 Cs1 82.809(11) 2_565 4_556 ? 
+Ba1 Ba1 Cs1 82.809(11) 2_565 4_556 ? 
+Cl2 Ba1 Cs1 35.416(4) . 3_556 ? 
+Cl1 Ba1 Cs1 172.174(11) . 3_556 ? 
+Se2 Ba1 Cs1 113.319(16) . 3_556 ? 
+Se1 Ba1 Cs1 113.025(15) 8 3_556 ? 
+Se1 Ba1 Cs1 49.368(13) 6 3_556 ? 
+Se2 Ba1 Cs1 77.992(15) 8_545 3_556 ? 
+Se3 Ba1 Cs1 84.234(17) . 3_556 ? 
+Se2 Ba1 Cs1 105.583(13) 7_455 3_556 ? 
+Cs1 Ba1 Cs1 134.425(9) 2_565 3_556 ? 
+Ba1 Ba1 Cs1 134.425(9) 2_565 3_556 ? 
+Cs1 Ba1 Cs1 60.372(10) 4_556 3_556 ? 
+Se1 Ga2 Se1 103.535(11) . 4 ? 
+Se1 Ga2 Se1 122.14(3) . 2 ? 
+Se1 Ga2 Se1 103.535(11) 4 2 ? 
+Se1 Ga2 Se1 103.535(11) . 3 ? 
+Se1 Ga2 Se1 122.14(3) 4 3 ? 
+Se1 Ga2 Se1 103.535(11) 2 3 ? 
+Se1 Ga2 Cs1 155.463(13) . 5_444 ? 
+Se1 Ga2 Cs1 55.484(13) 4 5_444 ? 
+Se1 Ga2 Cs1 59.845(16) 2 5_444 ? 
+Se1 Ga2 Cs1 99.165(14) 3 5_444 ? 
+Se1 Ga2 Cs1 59.845(16) . 6_554 ? 
+Se1 Ga2 Cs1 99.165(14) 4 6_554 ? 
+Se1 Ga2 Cs1 155.463(13) 2 6_554 ? 
+Se1 Ga2 Cs1 55.484(13) 3 6_554 ? 
+Cs1 Ga2 Cs1 130.203(13) 5_444 6_554 ? 
+Se1 Ga2 Cs1 99.165(13) . 8_545 ? 
+Se1 Ga2 Cs1 155.463(13) 4 8_545 ? 
+Se1 Ga2 Cs1 55.484(13) 2 8_545 ? 
+Se1 Ga2 Cs1 59.845(16) 3 8_545 ? 
+Cs1 Ga2 Cs1 100.210(5) 5_444 8_545 ? 
+Cs1 Ga2 Cs1 100.210(5) 6_554 8_545 ? 
+Se1 Ga2 Cs1 55.484(13) . 7_455 ? 
+Se1 Ga2 Cs1 59.845(16) 4 7_455 ? 
+Se1 Ga2 Cs1 99.165(14) 2 7_455 ? 
+Se1 Ga2 Cs1 155.463(13) 3 7_455 ? 
+Cs1 Ga2 Cs1 100.210(5) 5_444 7_455 ? 
+Cs1 Ga2 Cs1 100.210(5) 6_554 7_455 ? 
+Cs1 Ga2 Cs1 130.202(13) 8_545 7_455 ? 
+Se3 Ga1 Se1 104.76(3) 5_544 . ? 
+Se3 Ga1 Se2 108.29(3) 5_544 . ? 
+Se1 Ga1 Se2 103.22(3) . . ? 
+Se3 Ga1 Se2 116.83(3) 5_544 8_545 ? 
+Se1 Ga1 Se2 110.09(3) . 8_545 ? 
+Se2 Ga1 Se2 112.52(3) . 8_545 ? 
+Se3 Ga1 Cs1 69.047(13) 5_544 8_545 ? 
+Se1 Ga1 Cs1 100.791(19) . 8_545 ? 
+Se2 Ga1 Cs1 155.62(2) . 8_545 ? 
+Se2 Ga1 Cs1 54.013(18) 8_545 8_545 ? 
+Ga1 Se3 Ga1 103.22(4) 6 5_455 ? 
+Ga1 Se3 Ba1 94.185(19) 6 . ? 
+Ga1 Se3 Ba1 152.610(19) 5_455 . ? 
+Ga1 Se3 Ba1 152.610(18) 6 2_565 ? 
+Ga1 Se3 Ba1 94.185(19) 5_455 2_565 ? 
+Ba1 Se3 Ba1 78.63(2) . 2_565 ? 
+Ga1 Se3 Cs1 152.610(18) 6 2_565 ? 
+Ga1 Se3 Cs1 94.185(19) 5_455 2_565 ? 
+Ba1 Se3 Cs1 78.63(2) . 2_565 ? 
+Ba1 Se3 Cs1 0.000(12) 2_565 2_565 ? 
+Ga1 Se3 Cs1 77.208(16) 6 3_566 ? 
+Ga1 Se3 Cs1 90.830(18) 5_455 3_566 ? 
+Ba1 Se3 Cs1 113.808(14) . 3_566 ? 
+Ba1 Se3 Cs1 81.612(12) 2_565 3_566 ? 
+Cs1 Se3 Cs1 81.612(12) 2_565 3_566 ? 
+Ga1 Se3 Cs1 90.830(18) 6 4_556 ? 
+Ga1 Se3 Cs1 77.208(16) 5_455 4_556 ? 
+Ba1 Se3 Cs1 81.612(12) . 4_556 ? 
+Ba1 Se3 Cs1 113.808(14) 2_565 4_556 ? 
+Cs1 Se3 Cs1 113.808(14) 2_565 4_556 ? 
+Cs1 Se3 Cs1 160.82(3) 3_566 4_556 ? 
+Ga1 Se2 Ga1 102.27(3) . 7 ? 
+Ga1 Se2 Ba1 87.46(2) . . ? 
+Ga1 Se2 Ba1 90.89(2) 7 . ? 
+Ga1 Se2 Ba1 98.95(2) . 7 ? 
+Ga1 Se2 Ba1 80.96(2) 7 7 ? 
+Ba1 Se2 Ba1 170.520(17) . 7 ? 
+Ga1 Se2 Cs1 98.95(2) . 7 ? 
+Ga1 Se2 Cs1 80.96(2) 7 7 ? 
+Ba1 Se2 Cs1 170.520(17) . 7 ? 
+Ba1 Se2 Cs1 0.000(9) 7 7 ? 
+Ga1 Se2 Ba1 99.58(2) . 8 ? 
+Ga1 Se2 Ba1 156.31(2) 7 8 ? 
+Ba1 Se2 Ba1 99.138(18) . 8 ? 
+Ba1 Se2 Ba1 86.747(16) 7 8 ? 
+Cs1 Se2 Ba1 86.747(16) 7 8 ? 
+Ga1 Se2 Cs1 99.58(2) . 8 ? 
+Ga1 Se2 Cs1 156.31(2) 7 8 ? 
+Ba1 Se2 Cs1 99.138(18) . 8 ? 
+Ba1 Se2 Cs1 86.747(16) 7 8 ? 
+Cs1 Se2 Cs1 86.747(16) 7 8 ? 
+Ba1 Se2 Cs1 0.000(13) 8 8 ? 
+Ga1 Se1 Ga2 105.89(2) . . ? 
+Ga1 Se1 Cs1 132.61(2) . 7_455 ? 
+Ga2 Se1 Cs1 89.832(16) . 7_455 ? 
+Ga1 Se1 Ba1 132.61(2) . 7_455 ? 
+Ga2 Se1 Ba1 89.832(16) . 7_455 ? 
+Cs1 Se1 Ba1 0.000(12) 7_455 7_455 ? 
+Ga1 Se1 Ba1 95.93(2) . 6_554 ? 
+Ga2 Se1 Ba1 85.589(17) . 6_554 ? 
+Cs1 Se1 Ba1 130.252(14) 7_455 6_554 ? 
+Ba1 Se1 Ba1 130.252(14) 7_455 6_554 ? 
+Ga1 Se1 Cs1 95.93(2) . 6_554 ? 
+Ga2 Se1 Cs1 85.589(17) . 6_554 ? 
+Cs1 Se1 Cs1 130.252(14) 7_455 6_554 ? 
+Ba1 Se1 Cs1 130.252(14) 7_455 6_554 ? 
+Ba1 Se1 Cs1 0.000(15) 6_554 6_554 ? 
+Ga1 Se1 Cs1 96.719(19) . 8 ? 
+Ga2 Se1 Cs1 156.122(19) . 8 ? 
+Cs1 Se1 Cs1 80.196(14) 7_455 8 ? 
+Ba1 Se1 Cs1 80.196(14) 7_455 8 ? 
+Ba1 Se1 Cs1 84.508(15) 6_554 8 ? 
+Cs1 Se1 Cs1 84.508(15) 6_554 8 ? 
+Cs1 Cl1 Ba1 0.000(16) 7_455 7_455 ? 
+Cs1 Cl1 Cs1 116.633(10) 7_455 2_565 ? 
+Ba1 Cl1 Cs1 116.633(10) 7_455 2_565 ? 
+Cs1 Cl1 Ba1 116.633(10) 7_455 2_565 ? 
+Ba1 Cl1 Ba1 116.633(10) 7_455 2_565 ? 
+Cs1 Cl1 Ba1 0.000(15) 2_565 2_565 ? 
+Cs1 Cl1 Ba1 116.633(10) 7_455 . ? 
+Ba1 Cl1 Ba1 116.633(10) 7_455 . ? 
+Cs1 Cl1 Ba1 95.938(17) 2_565 . ? 
+Ba1 Cl1 Ba1 95.938(17) 2_565 . ? 
+Cs1 Cl1 Cs1 95.938(17) 7_455 8 ? 
+Ba1 Cl1 Cs1 95.938(17) 7_455 8 ? 
+Cs1 Cl1 Cs1 116.633(10) 2_565 8 ? 
+Ba1 Cl1 Cs1 116.633(10) 2_565 8 ? 
+Ba1 Cl1 Cs1 116.633(10) . 8 ? 
+Cs1 Cl1 Ba1 95.938(17) 7_455 8 ? 
+Ba1 Cl1 Ba1 95.938(17) 7_455 8 ? 
+Cs1 Cl1 Ba1 116.633(10) 2_565 8 ? 
+Ba1 Cl1 Ba1 116.633(10) 2_565 8 ? 
+Ba1 Cl1 Ba1 116.633(10) . 8 ? 
+Cs1 Cl1 Ba1 0.000(15) 8 8 ? 
+Cs1 Cl2 Ba1 0.000(14) 2 2 ? 
+Cs1 Cl2 Cs1 109.168(8) 2 3_556 ? 
+Ba1 Cl2 Cs1 109.168(8) 2 3_556 ? 
+Cs1 Cl2 Ba1 109.168(8) 2 3_556 ? 
+Ba1 Cl2 Ba1 109.168(8) 2 3_556 ? 
+Cs1 Cl2 Ba1 0.000(16) 3_556 3_556 ? 
+Cs1 Cl2 Cs1 109.168(8) 2 4_556 ? 
+Ba1 Cl2 Cs1 109.168(8) 2 4_556 ? 
+Cs1 Cl2 Cs1 110.079(17) 3_556 4_556 ? 
+Ba1 Cl2 Cs1 110.079(17) 3_556 4_556 ? 
+Cs1 Cl2 Ba1 109.168(8) 2 4_556 ? 
+Ba1 Cl2 Ba1 109.168(8) 2 4_556 ? 
+Cs1 Cl2 Ba1 110.079(17) 3_556 4_556 ? 
+Ba1 Cl2 Ba1 110.079(17) 3_556 4_556 ? 
+Cs1 Cl2 Ba1 0.000(13) 4_556 4_556 ? 
+Cs1 Cl2 Ba1 110.079(17) 2 . ? 
+Ba1 Cl2 Ba1 110.079(17) 2 . ? 
+Cs1 Cl2 Ba1 109.168(8) 3_556 . ? 
+Ba1 Cl2 Ba1 109.168(8) 3_556 . ? 
+Cs1 Cl2 Ba1 109.168(8) 4_556 . ? 
+Ba1 Cl2 Ba1 109.168(8) 4_556 . ? 
+ 
+_diffrn_measured_fraction_theta_max    1.000 
+_diffrn_reflns_theta_full              27.43 
+_diffrn_measured_fraction_theta_full   1.000 
+_refine_diff_density_max    0.516 
+_refine_diff_density_min   -0.573 
+_refine_diff_density_rms    0.133 

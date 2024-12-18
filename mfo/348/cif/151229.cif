@@ -1,0 +1,88 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151229-ICSD
+_database_code_ICSD 151229
+_audit_creation_date 2006-10-01
+_audit_update_record 2008-08-01
+_chemical_name_common 'Lithium formate hydrate'
+_chemical_formula_structural 'Li (H C O O) (H2 O)'
+_chemical_formula_sum 'C1 H3 Li1 O3'
+_exptl_crystal_density_diffrn 1.48
+_citation_title 'The crystal structuure of lithium formate monohydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 682 685 ACBCAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Enders-Beumer, A.'
+primary 'Harkema, S.'
+_cell_length_a 6.483(4)
+_cell_length_b 9.973(7)
+_cell_length_c 4.847(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 313.38
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P b n 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x+1/2, -y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+O2- -2
+Li1+ 1
+H1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+C1 C4+ 4 a 0.3876(2) 0.3046(1) 0.0172(3) . 1.
+O1 O2- 4 a 0.4001 0.292 0.2719 . 1.
+O2 O2- 4 a 0.422 0.4098 -0.1145 . 1.
+O3 O2- 4 a 0.3893 0.034 0.4500(0) . 1.
+Li1 Li1+ 4 a 0.3844(3) 0.4509(2) 0.5012(5) . 1.
+H1 H1- 4 a 0.346(2) 0.232(2) -0.071 0.041(4) 1.
+H2 H1+ 4 a 0.395 0.119 0.413 0.056(5) 1.
+H3 H1+ 4 a 0.454 0.03 0.578 0.031(4) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C4+ 0.0375(6) 0.0222(4) 0.0223(4) -0.0026(4) -0.0022(5) -0.0026(4)
+O1 O2- 0.0579 0.0231 0.0222 -0.0003 -0.0001 0.0027
+O2 O2- 0.0385 0.0291 0.0217 -0.0061 -0.0041 0.0044
+O3 O2- 0.0328 0.0259 0.0306 -0.0006 -0.0021 0.0043
+Li1 Li1+ 0.0346(8) 0.0268(8) 0.0236(9) 0.0011(7) -0.0018(8) 0.0026(7)
+#End of TTdata_151229-ICSD

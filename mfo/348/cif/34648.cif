@@ -1,0 +1,86 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34648-ICSD
+_database_code_ICSD 34648
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-11-12
+_chemical_name_common 'Potassium borate hydrate *'
+_chemical_formula_structural 'K2 (B4 O5 (O H)4) (H2 O)2'
+_chemical_formula_sum 'H8 B4 K2 O11'
+_exptl_crystal_density_diffrn 1.95
+_citation_title 'The crystal structure of potassium tetraborate tetrahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1963 16 975 980 ACCRA9
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Marezio, M.'
+primary 'Plettinger, H.A.'
+primary 'Zachariasen, W.H.'
+_cell_length_a 12.899(2)
+_cell_length_b 11.774(2)
+_cell_length_c 6.859(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1041.7
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 21 21'
+_space_group_IT_number 19
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+B3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 4 a 0.3587(1) 0.3360(1) 0.2139(3) . 1.
+K2 K1+ 4 a 0.7130(1) 0.4001(1) 0.5298(3) . 1.
+B1 B3+ 4 a 0.4484(6) 0.2893(6) 0.6514(14) . 1.
+B2 B3+ 4 a 0.4558(6) 0.0846(6) 0.6222(15) . 1.
+B3 B3+ 4 a 0.6281(5) 0.0973(6) 0.4691(14) . 1.
+B4 B3+ 4 a 0.5940(6) 0.1831(6) 0.7920(13) . 1.
+O1 O2- 4 a 0.5277(3) 0.0579(4) 0.4570(8) . 1.
+O2 O2- 4 a 0.5174(3) 0.0909(3) 0.8025(7) . 1.
+O3 O2- 4 a 0.3942(4) 0.1056(5) 0.1363(9) . 1.
+O4 O2- 4 a 0.6928(4) 0.0653(4) 0.3177(8) . 1.
+O5 O2- 4 a 0.4047(3) 0.1969(3) 0.5830(9) . 1.
+O6 O2- 4 a 0.6633(3) 0.1631(4) 0.6177(7) . 1.
+O7 O2- 4 a 0.6575(4) 0.1953(4) 0.9648(7) . 1.
+O8 O2- 4 a 0.3972(3) 0.3920(4) 0.6145(11) . 1.
+O9 O2- 4 a 0.3758(3) 0.9987(3) 0.6326(9) . 1.
+O10 O2- 4 a 0.5392(3) 0.2921(3) 0.7554(8) . 1.
+O11 O2- 4 a 0.5774(5) 0.3443(5) 0.2315(10) . 1.
+H1 H1+ 4 a 0.436(8) 0.485(9) 0.643(21) 5. 1.
+H2 H1+ 4 a 0.277(7) 0.436(9) 0.663(18) 5. 1.
+H3 H1+ 4 a 0.591(8) 0.423(10) 0.887(20) 5. 1.
+H4 H1+ 4 a 0.677(8) 0.149(9) 0.020(18) 5. 1.
+H5 H1+ 4 a 0.489(8) 0.042(9) 0.202(18) 5. 1.
+H6 H1+ 4 a 0.436(8) 0.101(9) 0.994(17) 5. 1.
+H7 H1+ 4 a 0.594(9) 0.248(8) 0.194(18) 5. 1.
+H8 H1+ 4 a 0.599(38) 0.429(10) 0.157(17) 5. 1.
+#End of TTdata_34648-ICSD

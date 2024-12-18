@@ -1,0 +1,86 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40453-ICSD
+_database_code_ICSD 40453
+_audit_creation_date 1999-06-02
+_chemical_name_common 'Disodium digermanium pentaselenide'
+_chemical_formula_structural 'Na2 Ge2 Se5'
+_chemical_formula_sum 'Ge2 Na2 Se5'
+_chemical_name_structure_type Ga2Sn2S5
+_exptl_crystal_density_diffrn 4.07
+_citation_title
+'Natrium germanium selenide Na2 Ge2 Se5, das erste Schichtselenidogermanat'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1984 21 817 823 RVCMA8
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Eisenmann, B.'
+primary 'Hansa, J.'
+primary 'Schaefer, H.'
+_cell_length_a 14.095(6)
+_cell_length_b 6.167(4)
+_cell_length_c 10.991(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 955.38
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ge4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 4 a 0.0682(16) 0.9986(38) 0.502(3) 0.0369(64) 1.
+Na2 Na1+ 4 a 0.4632(16) 0.0042(44) 0.2538(27) 0.0338(65) 1.
+Ge1 Ge4+ 4 a 0.2080(4) 0.5281(9) 0.3902(7) . 1.
+Ge2 Ge4+ 4 a 0.1570(4) 0.0361(9) 0.1979(8) . 1.
+Se1 Se2- 4 a 0.3392(4) 0.3806(9) 0.5 . 1.
+Se2 Se2- 4 a 0.2845(4) 0.895(1) 0.6868(8) . 1.
+Se3 Se2- 4 a 0.2394(4) 0.3896(9) 0.8498(7) . 1.
+Se4 Se2- 4 a 0.4998(5) 0.4918(13) 0.7512(10) . 1.
+Se5 Se2- 4 a 0.0669(4) 0.499(1) 0.4855(10) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0130(33) 0.0089(32) 0.0168(37) -.0028(27) 0.0046(30) -.0013(32)
+Ge2 Ge4+ 0.0115(31) 0.0073(33) 0.0153(34) -.0031(26) -.0064(32) 0.0019(32)
+Se1 Se2- 0.0176(31) 0.0201(31) 0.0141(34) 0.0074(26) -.0010(35) -.0027(33)
+Se2 Se2- 0.0222(37) 0.0134(35) 0.0174(33) -.0001(27) -.003(3) 0.0011(35)
+Se3 Se2- 0.0103(33) 0.0110(33) 0.0223(34) 0.0038(26) 0.006(31) 0.0022(31)
+Se4 Se2- 0.0102(26) 0.0226(31) 0.0190(31) -.0023(24) 0.0010(26) -.0034(31)
+Se5 Se2- 0.0240(34) 0.0244(34) 0.0221(34) 0.0008(30) 0.0028(36) 0.0006(32)
+#End of TTdata_40453-ICSD

@@ -1,0 +1,91 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99793-ICSD
+_database_code_ICSD 99793
+_audit_creation_date 2005-04-01
+_chemical_name_common 'Dicesium oxide nonakis(diborate)'
+_chemical_formula_structural 'Cs2 O (B2 O3)9'
+_chemical_formula_sum 'B18 Cs2 O28'
+_exptl_crystal_density_diffrn 2.48
+_citation_title 'Structure of crystalline cesium enneaborate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Glasses' 2003 44 197 202 PCGLA6
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wright, A.C.'
+primary 'Sinclair, R.N.'
+primary 'Stone, C.E.'
+primary 'Knight, K.S.'
+primary 'Polyakova, I.G.'
+primary 'Vedishcheva, N.M.'
+primary 'Shakhmatkin, B.A.'
+_cell_length_a 8.80577(8)
+_cell_length_b 8.75298(8)
+_cell_length_c 15.79161(16)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1217.17
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 2 2 21'
+_space_group_IT_number 17
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+B3+ 3
+O2- -2
+Cs1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 2 c 0 0.4916(10) 0.75 0.0459(25) 1.
+B1 B3+ 4 e 0.3344(5) 0.1348(5) 0.81178(28) 0.0247(12) 1.
+B2 B3+ 4 e 0.4384(5) 0.3839(5) 0.86801(34) 0.0322(12) 1.
+B3 B3+ 4 e 0.2889(6) 0.8674(5) 0.77890(30) 0.0260(12) 1.
+B4 B3+ 4 e 0.1742(5) 0.0721(6) 0.69998(30) 0.0330(12) 1.
+B5 B3+ 4 e 0.3620(5) 0.3470(5) 0.12547(36) 0.0225(10) 1.
+O1 O2- 4 e 0.2324(6) 0.1784(5) 0.74756(32) 0.0250(14) 1.
+O2 O2- 4 e 0.2933(5) 0.7230(6) 0.79974(35) 0.0284(13) 1.
+O3 O2- 4 e 0.3284(5) 0.4886(6) 0.86622(33) 0.0204(11) 1.
+O4 O2- 4 e 0.4239(6) 0.2303(7) 0.85437(38) 0.0353(14) 1.
+O5 O2- 4 e 0.3558(6) 0.9807(7) 0.82479(38) 0.0397(17) 1.
+O6 O2- 4 e 0.2026(6) 0.9158(6) 0.70818(33) 0.0299(15) 1.
+O7 O2- 4 e 0.0675(9) 0.1009(8) 0.63978(46) 0.0648(20) 1.
+O8 O2- 4 e 0.5926(7) 0.5757(7) 0.11432(41) 0.0474(17) 1.
+Cs2 Cs1+ 2 a 0.5259(11) 0 0 0.0504(26) 1.
+B6 B3+ 4 e 0.8781(5) 0.3214(5) 0.05286(29) 0.0260(12) 1.
+B7 B3+ 4 e 0.6238(5) 0.4216(6) 0.10954(32) 0.0302(12) 1.
+B8 B3+ 4 e 0.1469(5) 0.2784(5) 0.02712(30) 0.0244(12) 1.
+B9 B3+ 4 e 0.9582(5) 0.1788(6) 0.93322(31) 0.0313(11) 1.
+O9 O2- 4 e 0.8429(6) 0.2228(6) 0.98773(40) 0.0356(15) 1.
+O10 O2- 4 e 0.2937(5) 0.2890(5) 0.04758(31) 0.0225(12) 1.
+O11 O2- 4 e 0.5254(5) 0.3116(6) 0.11691(34) 0.0184(11) 1.
+O12 O2- 4 e 0.7784(6) 0.3942(6) 0.09951(37) 0.0328(14) 1.
+O13 O2- 4 e 0.0316(7) 0.3362(7) 0.07487(42) 0.0412(16) 1.
+O14 O2- 4 e 0.1075(6) 0.2043(7) 0.95299(39) 0.0369(15) 1.
+#End of TTdata_99793-ICSD

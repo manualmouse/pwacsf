@@ -1,0 +1,71 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200839-ICSD
+_database_code_ICSD 200839
+_audit_creation_date 1980-01-01
+_audit_update_record 2019-02-01
+_chemical_name_common 'Digermanium dinitride oxide'
+_chemical_formula_structural 'Ge2 N2 O'
+_chemical_formula_sum 'Ge2 N2 O1'
+_chemical_name_structure_type Si2N2O
+_exptl_crystal_density_diffrn 4.59
+_diffrn_ambient_pressure 100.
+_citation_title
+'Pressure-induced tetrahedral tilting and deformation in Ge2 N2 O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 1979 12 511 516 JACGAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Srinivasa, S.R.'
+primary 'Cartz, L.'
+primary 'Jorgensen, J.D.'
+primary 'Labbe, J.C.'
+_cell_length_a 9.317(3)
+_cell_length_b 5.752(1)
+_cell_length_c 5.105(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 273.58
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c 21'
+_space_group_IT_number 36
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+N3- -3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ge1 Ge4+ 8 b 0.174(1) 0.147(3) 0.341(4) 1.1 1.
+N1 N3- 8 b 0.204(1) 0.138(2) 0.681(4) 1.1 1.
+O1 O2- 4 a 0 0.259(4) 0.23 1. 1.
+#End of TTdata_200839-ICSD

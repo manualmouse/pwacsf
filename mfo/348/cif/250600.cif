@@ -1,0 +1,99 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250600-ICSD
+_database_code_ICSD 250600
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Rubidium magnesium borate'
+_chemical_formula_structural 'Rb Mg B O3'
+_chemical_formula_sum 'B1 Mg1 O3 Rb1'
+_chemical_name_structure_type KMgBO3
+_exptl_crystal_density_diffrn 3.35
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Exploring the influence of cationic skeletons on the arrangement of isolated B
+O3 groups based on Rb Mg B O3, Cs Zn4 (B O3)3 and Cs4 Mg4 (B O3)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'New Journal of Chemistry' 2014 38 3035 3041 NJCHE5
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wang, Zheng'
+primary 'Zhang, Min'
+primary 'Pan, Shilie'
+primary 'Yang, Zhihua'
+primary 'Zhang, Hui'
+primary 'Zhang, Bingbing'
+primary 'Wang, Ying'
+primary 'Kang, Jing'
+primary 'Lin, Xiaoxia'
+_cell_length_a 6.942(3)
+_cell_length_b 6.942(3)
+_cell_length_c 6.942(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 334.54
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 3'
+_space_group_IT_number 198
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Rb1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Mg1 Mg2+ 4 a 0.39042(10) 0.39042(10) 0.39042(10) 0.0112(3) 1
+Rb1 Rb1+ 4 a 0.60860(3) 0.39140(3) 0.89140(3) 0.01574(16) 1
+B1 B3+ 4 a 0.6471(4) 0.1471(4) 0.3529(4) 0.0105(10) 1
+O1 O2- 12 b 0.6532(3) 0.2794(2) 0.4989(3) 0.0144(4) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0112(3) 0.0112(3) 0.0112(3) 0.0004(4) 0.0004(4) 0.0004(4)
+Rb1 Rb1+ 0.01574(16) 0.01574(16) 0.01574(16) 0.00146(11) 0.00146(11)
+-0.00146(11)
+B1 B3+ 0.0105(10) 0.0105(10) 0.0105(10) -0.0022(10) 0.0022(10) 0.0022(10)
+O1 O2- 0.0165(10) 0.0141(9) 0.0126(8) 0.0020(7) -0.0026(7) -0.0016(7)
+#End of TTdata_250600-ICSD

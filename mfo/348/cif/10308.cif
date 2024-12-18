@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10308-ICSD
+_database_code_ICSD 10308
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-05-27
+_chemical_name_common Cis-bis(trichlorogermanato)tetracarbonylruthenium
+_chemical_formula_structural 'Ru (C O)4 (Ge Cl3)2'
+_chemical_formula_sum 'C4 Cl6 Ge2 O4 Ru1'
+_exptl_crystal_density_diffrn 2.39
+_citation_title
+
+;
+The crystal and molecular structures of the cis and trans isomers of
+bis(trichlorogermanyl)tetracarbonylruthenium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1972 11 1806 1811 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Ball, R.D.'
+primary 'Bennett, M.J.'
+_cell_length_a 9.759(5)
+_cell_length_b 12.608(10)
+_cell_length_c 12.878(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.57(10)
+_cell_angle_gamma 90.
+_cell_volume 1583.93
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21 1'
+_space_group_IT_number 4
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru2+ 2
+Ge2+ 2
+Cl1- -1
+C2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ru1 Ru2+ 2 a 0.45282(24) 0 0.16628(18) . 1.
+Ru2 Ru2+ 2 a -.03844(23) -.01134(31) -.31807(19) . 1.
+Ge1 Ge2+ 2 a 0.43687(33) -.02650(41) 0.35614(25) . 1.
+Ge2 Ge2+ 2 a 0.48235(36) 0.19387(39) 0.18929(30) . 1.
+Ge3 Ge2+ 2 a -.00246(32) 0.17871(33) -.35153(25) . 1.
+Ge4 Ge2+ 2 a -.00281(32) 0.01805(38) -.12909(25) . 1.
+Cl1 Cl1- 2 a 0.2548(8) 0.0342(9) 0.4228(6) . 1.
+Cl2 Cl1- 2 a 0.5976(9) 0.0469(10) 0.4473(8) . 1.
+Cl3 Cl1- 2 a 0.4473(10) -.1869(10) 0.4036(8) . 1.
+Cl4 Cl1- 2 a 0.4308(10) 0.2726(9) 0.3290(7) . 1.
+Cl5 Cl1- 2 a 0.682(1) 0.2498(10) 0.1583(11) . 1.
+Cl6 Cl1- 2 a 0.35670(12) 0.2863(9) 0.0795(8) . 1.
+Cl7 Cl1- 2 a 0.2057(9) 0.2321(8) -.3664(8) . 1.
+Cl8 Cl1- 2 a -.0983(10) 0.2295(8) -.4967(7) . 1.
+Cl9 Cl1- 2 a -.0858(9) 0.2930(8) -.2443(7) . 1.
+Cl10 Cl1- 2 a -.1693(9) 0.0831(9) -.0441(7) . 1.
+Cl11 Cl1- 2 a 0.0481(11) -.1213(9) -.04150(8) . 1.
+Cl12 Cl1- 2 a 0.1586(10) 0.1263(9) -.0896(7) . 1.
+C1 C2+ 2 a 0.6543(36) -.0193(34) 0.1854(27) 6.7 1.
+C2 C2+ 2 a 0.2498(28) 0.0310(26) 0.1639(20) 3.7 1.
+C3 C2+ 2 a 0.4235(37) -.1534(33) 0.1528(29) 6. 1.
+C4 C2+ 2 a 0.4699(26) 0.0254(27) 0.0166(23) 3.9 1.
+C5 C2+ 2 a 0.1571(32) -.0319(29) -.3233(25) 5.2 1.
+C6 C2+ 2 a -.2293(32) 0.0204(32) -.3002(25) 6.1 1.
+C7 C2+ 2 a -.0642(24) -.0260(25) -.4678(22) 3. 1.
+C8 C2+ 2 a -.0626(39) -.1594(36) -.2874(31) 7. 1.
+O1 O2- 2 a 0.7646(25) -.0251(25) 0.2025(21) 8.7 1.
+O2 O2- 2 a 0.1416(22) 0.0451(18) 0.1632(15) 5.3 1.
+O3 O2- 2 a 0.4155(25) -.2406(29) 0.1370(24) 10. 1.
+O4 O2- 2 a 0.4799(19) 0.0376(19) -.0733(17) 5.4 1.
+O5 O2- 2 a 0.2760(21) -.0373(20) -.3220(16) 6.2 1.
+O6 O2- 2 a -.3427(21) 0.0450(18) -.2903(16) 5.3 1.
+O7 O2- 2 a -.0759(20) -.0384(19) -.553(17) 5.3 1.
+O8 O2- 2 a -.0772(24) -.2468(23) -.2724(19) 6.6 1.
+#End of TTdata_10308-ICSD

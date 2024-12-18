@@ -1,0 +1,75 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68294-ICSD
+_database_code_ICSD 68294
+_audit_creation_date 1991-07-10
+_audit_update_record 2008-02-01
+_chemical_name_common 'Thallium tin tetrathiophosphate(V)'
+_chemical_formula_structural 'Tl Sn (P S4)'
+_chemical_formula_sum 'P1 S4 Sn1 Tl1'
+_chemical_name_structure_type KNiPO4
+_exptl_crystal_density_diffrn 4.61
+_citation_title
+
+;
+Kristallstruktur und Schwingungsspektrum des Thallium(I) Zinn(II) - ortho -
+Thiophosphates Tl Sn P S4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, A: Physical Sciences' 1987 42 1309
+1312 ZNASEI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Becker, R.'
+primary 'Brockner, W.'
+primary 'Eisenmann, B.'
+_cell_length_a 11.758(5)
+_cell_length_b 8.901(4)
+_cell_length_c 6.633(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 694.2
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Sn2+ 2
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Tl1 Tl1+ 4 a 0.0999(2) 0.3667(3) 0 0.0249 1.
+Sn1 Sn2+ 4 a 0.1331(3) 0.8888(4) 0.9693(7) 0.0145 1.
+P1 P5+ 4 a 0.8400(9) 0.8753(12) 0.0198(24) 0.0047 1.
+S1 S2- 4 a 0.4537(9) 0.8022(13) 0.0076(25) 0.0103 1.
+S2 S2- 4 a 0.2610(16) 0.1308(18) 0.2662(26) 0.0176 1.
+S3 S2- 4 a 0.9288(10) 0.0743(13) 0.043(21) 0.0089 1.
+S4 S2- 4 a 0.2607(15) 0.1504(16) 0.7627(24) 0.0124 1.
+#End of TTdata_68294-ICSD

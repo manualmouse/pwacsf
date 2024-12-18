@@ -1,0 +1,65 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23925-ICSD
+_database_code_ICSD 23925
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_common 'Barium germanate - HT'
+_chemical_formula_structural 'Ba (Ge O3)'
+_chemical_formula_sum 'Ba1 Ge1 O3'
+_chemical_name_structure_type BaGeO3
+_exptl_crystal_density_diffrn 5.16
+_citation_title
+'Die Struktur der Hochtemperaturform des Bariumgermanates Ba Ge O3(h)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1962 15 1101 1105 ACCRA9
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hilmer, W.'
+_cell_length_a 4.58
+_cell_length_b 5.68
+_cell_length_c 12.76
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 331.94
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 21 21'
+_space_group_IT_number 19
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 4 a 0.224 0.187 0.359 . 1.
+Ge1 Ge4+ 4 a 0.675 0.69 0.425 . 1.
+O1 O2- 4 a 0.267 0.73 0.44 . 1.
+O2 O2- 4 a 0.738 0.885 0.326 . 1.
+O3 O2- 4 a 0.73 0.394 0.41 . 1.
+#End of TTdata_23925-ICSD

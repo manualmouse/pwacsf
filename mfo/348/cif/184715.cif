@@ -1,0 +1,103 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_184715-ICSD
+_database_code_ICSD 184715
+_audit_creation_date 2012-08-01
+_audit_update_record 2013-08-01
+_chemical_name_common 'Tribarium difluorohexaborate'
+_chemical_formula_structural 'Ba3 (B6 O11 F2)'
+_chemical_formula_sum 'B6 Ba3 F2 O11'
+_chemical_name_structure_type Ba3B6O11F2
+_exptl_crystal_density_diffrn 4.34
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+A novel deep UV nonlinear optical crystal Ba3 B6 O11 F2, with a new
+fundamental building block, B6 O14 group
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2012 22 9665 9670 JMACEP
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yu Hongwei'
+primary 'Wu Hongping'
+primary 'Pan Shilie'
+primary 'Yang Zhihua'
+primary 'Su Xin'
+primary 'Zhang Fangfang'
+_cell_length_a 6.5672(4)
+_cell_length_b 8.5035(6)
+_cell_length_c 9.6637(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.351(4)
+_cell_angle_gamma 90.
+_cell_volume 529.11
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21 1'
+_space_group_IT_number 4
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+B3+ 3
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 2 a 0.50562(3) 0.93301(7) 0.73924(3) 0.01223(13) 1
+Ba2 Ba2+ 2 a -0.06101(5) 0.57964(3) 0.95945(4) 0.01099(14) 1
+Ba3 Ba2+ 2 a 0.06210(5) 0.58731(3) 0.53597(4) 0.01148(13) 1
+B1 B3+ 2 a 0.5791(9) 0.5606(8) 0.6358(6) 0.0103(12) 1
+B2 B3+ 2 a 0.4932(7) 0.7539(7) 1.0474(6) 0.0088(10) 1
+B3 B3+ 2 a 0.7884(8) 1.3165(8) 0.7021(6) 0.0083(11) 1
+B4 B3+ 2 a 0.5838(7) 0.7880(7) 0.4346(6) 0.0089(10) 1
+B5 B3+ 2 a 0.1894(8) 0.2941(8) 0.7667(6) 0.0101(11) 1
+B6 B3+ 2 a 0.4080(8) 0.5294(8) 0.8645(6) 0.0103(12) 1
+F1 F1- 2 a 0.1318(6) 0.3665(6) 1.1150(4) 0.0230(9) 1
+F2 F1- 2 a 0.1423(6) 0.8704(6) 0.6113(5) 0.0253(9) 1
+O1 O2- 2 a 0.2110(5) 0.4582(5) 0.8041(4) 0.0104(8) 1
+O2 O2- 2 a -0.3237(5) 0.6944(5) 1.1225(4) 0.0115(7) 1
+O3 O2- 2 a 0.5051(4) 0.6112(7) 0.7650(3) 0.0110(9) 1
+O4 O2- 2 a 0.6143(5) 1.2266(5) 0.6591(4) 0.0119(7) 1
+O5 O2- 2 a -0.2355(4) 0.7547(5) 0.3692(4) 0.0106(7) 1
+O6 O2- 2 a 0.9690(5) 1.2402(6) 0.7638(3) 0.0116(7) 1
+O7 O2- 2 a 0.4417(5) 0.4575(5) 0.5412(4) 0.0088(7) 1
+O8 O2- 2 a 0.3575(5) 0.6536(5) 0.9670(4) 0.0118(7) 1
+O9 O2- 2 a 0.7843(6) 0.4752(5) 0.6879(4) 0.0118(8) 1
+O10 O2- 2 a 0.6234(5) 0.7085(5) 0.5705(4) 0.0118(7) 1
+O11 O2- 2 a 0.4464(5) 0.9096(5) 1.0515(4) 0.0107(7) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01494(18) 0.0082(2) 0.01231(19) -0.00092(13) -0.00033(12) 0.0019(2)
+Ba2 Ba2+ 0.01120(18) 0.0095(3) 0.0120(2) 0.00091(11) 0.00169(13) -0.00204(12)
+Ba3 Ba2+ 0.01216(18) 0.0083(3) 0.0131(2) -0.00010(11) 0.00040(13) 0.00323(12)
+#End of TTdata_184715-ICSD

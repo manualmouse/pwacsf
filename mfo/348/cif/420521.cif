@@ -1,0 +1,93 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420521-ICSD
+_database_code_ICSD 420521
+_audit_creation_date 2010-02-01
+_chemical_name_common 'Distrontium zinc digermanate'
+_chemical_formula_structural 'Sr2 Zn (Ge2 O7)'
+_chemical_formula_sum 'Ge2 O7 Sr2 Zn1'
+_chemical_name_structure_type Melilite#Ca2MgSi2O7
+_exptl_crystal_density_diffrn 4.69
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Optical properties of the germanate melilites Sr2 Mg Ge2 O7, Sr2 Zn Ge2 O7 and
+Ba2 Zn Ge2 O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Research and Technology' 2009 44 603 612 CRTEDF
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Becker, P.'
+primary 'Held, P.'
+primary 'Liebertz, J.'
+primary 'Bohaty, L.'
+_cell_length_a 8.1448(6)
+_cell_length_b 8.1448(6)
+_cell_length_c 5.3189(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 352.84
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -4 21 m'
+_space_group_IT_number 113
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Ge4+ 4
+Zn2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 4 e 0.33484(8) 0.16516(8) 0.50664(14) 0.0097(2) 1
+Ge1 Ge4+ 4 e 0.14248(9) 0.35752(9) 0.95228(14) 0.0060(2) 1
+Zn1 Zn2+ 2 a 0. 0. 0. 0.0076(3) 1
+O1 O2- 2 c 0.5 0. 0.1770(16) 0.010(2) 1
+O2 O2- 4 e 0.1386(7) 0.3614(7) 0.2752(9) 0.0078(14) 1
+O3 O2- 8 f 0.0813(7) 0.1789(7) 0.7945(9) 0.0119(12) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0100(3) 0.0100(3) 0.0089(3) 0.0040(4) 0.0008(3) -0.0008(3)
+Ge1 Ge4+ 0.0060(3) 0.0060(3) 0.0060(4) 0.0004(4) 0.0003(2) -0.0003(2)
+Zn1 Zn2+ 0.0063(5) 0.0063(5) 0.0104(6) 0. 0. 0.
+O1 O2- 0.011(4) 0.011(4) 0.009(4) -0.007(5) 0. 0.
+O2 O2- 0.007(2) 0.007(2) 0.009(2) 0.001(4) -0.0001(18) 0.0001(18)
+O3 O2- 0.017(3) 0.006(3) 0.012(2) -0.003(3) 0.0077(19) -0.002(2)
+#End of TTdata_420521-ICSD

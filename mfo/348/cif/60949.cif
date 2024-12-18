@@ -1,0 +1,83 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60949-ICSD
+_database_code_ICSD 60949
+_audit_creation_date 1988-02-22
+_chemical_name_common 'Dipotassium lithium borate'
+_chemical_formula_structural 'K2 Li B O3'
+_chemical_formula_sum 'B1 K2 Li1 O3'
+_exptl_crystal_density_diffrn 2.5
+_citation_title 'Neue Borate der Alkalimetalle:K2LiBo3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 1985 22 331 343 PCMIDU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Miessen, M.'
+primary 'Hoppe, R.'
+_cell_length_a 8.761(3)
+_cell_length_b 6.081(2)
+_cell_length_c 7.354(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.57(5)
+_cell_angle_gamma 90.
+_cell_volume 382.4
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 2 1'
+_space_group_IT_number 5
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 2 a 0 0 0 . 1.
+K2 K1+ 4 c 0.3263(1) 0.1670(5) 0.3245(2) . 1.
+K3 K1+ 2 b 0 0.1646(6) 0.5 . 1.
+Li1 Li1+ 4 c 0.1389(13) 0.4034(20) 0.9695(17) 0.0088(44) 1.
+B1 B3+ 4 c 0.3517(9) 0.1371(16) 0.7833(11) . 1.
+O1 O2- 4 c 0.2416(5) 0.6651(11) 0.0863(7) . 1.
+O2 O2- 4 c 0.0675(6) 0.4376(9) 0.2132(7) . 1.
+O3 O2- 4 c 0.3687(6) 0.3081(8) 0.6663(7) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0081(12) 0.0110(12) 0.0230(15) 0 0.0016(11) 0
+K2 K1+ 0.0161(8) 0.0246(10) 0.0159(9) -.0049(11) 0.0053(7) 0.0016(10)
+K3 K1+ 0.0336(15) 0.0205(14) 0.0327(14) 0 0.0159(12) 0
+B1 B3+ 0.0118(34) 0.014(4) 0.0046(32) -.0034(34) -.0019(27) -.0036(35)
+O1 O2- 0.0251(24) 0.0088(22) 0.0291(27) -.0020(33) 0.0173(22) -.0051(30)
+O2 O2- 0.0101(24) 0.0150(27) 0.0140(28) 0.0009(22) 0.0023(22) -.0013(20)
+O3 O2- 0.0234(28) 0.0169(27) 0.0118(26) -.0016(23) 0.0051(24) 0.0031(23)
+#End of TTdata_60949-ICSD

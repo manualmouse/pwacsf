@@ -1,0 +1,108 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237760-ICSD
+_database_code_ICSD 237760
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Cadmium cesium indium selenide (4/1/5/12)'
+_chemical_formula_structural 'Cd4 Cs In5 Se12'
+_chemical_formula_sum 'Cd4 Cs1 In5 Se12'
+_chemical_name_structure_type KCd4Ga5S12
+_exptl_crystal_density_diffrn 5.42
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Functionalization based on the substitutional flexibility: Strong middle IR
+nonlinear optical selenides A X(II)4 X(III)5 Se12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2013 135 12914 12921 JACSAT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lin, Hua'
+primary 'Chen, Ling'
+primary 'Zhou, Liu-Jiang'
+primary 'Wu, Li-Ming'
+_cell_length_a 14.864(5)
+_cell_length_b 14.864(5)
+_cell_length_c 10.102(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1932.9
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 H'
+_space_group_IT_number 146
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+4 '-x+y+2/3, -x+1/3, z+1/3'
+5 '-y+2/3, x-y+1/3, z+1/3'
+6 'x+2/3, y+1/3, z+1/3'
+7 '-x+y+1/3, -x+2/3, z+2/3'
+8 '-y+1/3, x-y+2/3, z+2/3'
+9 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cd2+ 2
+In3+ 3
+Cd2+ 2
+In3+ 3
+Cd2+ 2
+In3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 3 a 0. 0. 0.99953(13) 0.0350(3) 1
+Cd1 Cd2+ 9 b 0.20547(4) 0.48722(5) 0.08565(7) 0.02008(19) 0.4422(4)
+In1 In3+ 9 b 0.20547(4) 0.48722(5) 0.08565(7) 0.02008(19) 0.5578(4)
+Cd2 Cd2+ 9 b 0.58808(6) 0.02159(7) 0.07917(5) 0.0195(3) 0.456(3)
+In2 In3+ 9 b 0.58808(6) 0.02159(7) 0.07917(5) 0.0195(3) 0.544(3)
+Cd3 Cd2+ 9 b 0.35979(6) 0.10132(5) 0.08084(6) 0.01799(19) 0.435(3)
+In3 In3+ 9 b 0.35979(6) 0.10132(5) 0.08084(6) 0.01799(19) 0.565(3)
+Se1 Se2- 9 b 0.08080(7) 0.29513(6) 0.00553(9) 0.01763(19) 1
+Se2 Se2- 9 b 0.55108(6) 0.16940(7) 0.00945(8) 0.0180(2) 1
+Se3 Se2- 9 b 0.29228(8) 0.22486(9) 0.00244(10) 0.0176(2) 1
+Se4 Se2- 9 b 0.38433(6) 0.54063(7) 0.97456(8) 0.0176(2) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0350(4) 0.0350(4) 0.0350(6) 0.01751(19) 0. 0.
+Cd1 Cd2+ 0.0186(3) 0.0211(4) 0.0212(3) 0.0104(3) 0.0007(3) 0.0009(3)
+In1 In3+ 0.0186(3) 0.0211(4) 0.0212(3) 0.0104(3) 0.0007(3) 0.0009(3)
+Cd2 Cd2+ 0.0183(3) 0.0186(4) 0.0208(4) 0.0087(3) 0.0018(2) 0.0023(2)
+In2 In3+ 0.0183(3) 0.0186(4) 0.0208(4) 0.0087(3) 0.0018(2) 0.0023(2)
+Cd3 Cd2+ 0.0194(3) 0.0167(3) 0.0185(3) 0.0095(3) -0.0003(2) 0.0003(2)
+In3 In3+ 0.0194(3) 0.0167(3) 0.0185(3) 0.0095(3) -0.0003(2) 0.0003(2)
+Se1 Se2- 0.0155(4) 0.0187(4) 0.0173(4) 0.0076(4) 0.0006(3) 0.0002(3)
+Se2 Se2- 0.0177(4) 0.0183(4) 0.0186(5) 0.0095(3) 0.0015(3) 0.0019(4)
+Se3 Se2- 0.0202(4) 0.0163(4) 0.0180(4) 0.0104(4) -0.0022(4) -0.0006(3)
+Se4 Se2- 0.0160(4) 0.0162(4) 0.0203(5) 0.0078(3) 0.0012(3) -0.0009(3)
+#End of TTdata_237760-ICSD

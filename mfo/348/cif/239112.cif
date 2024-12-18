@@ -1,0 +1,93 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239112-ICSD
+_database_code_ICSD 239112
+_audit_creation_date 2016-08-01
+_chemical_name_common 'Tetrasodium magnesium digermanium hexaselenide'
+_chemical_formula_structural 'Na4 Mg Ge2 Se6'
+_chemical_formula_sum 'Ge2 Mg1 Na4 Se6'
+_exptl_crystal_density_diffrn 3.88
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Na4 Mg M2 Se6 (M = Si, Ge): the first noncentrosymmetric compounds with
+special ethane-like [M2 Se6]6- units exhibiting large laser-damage thresholds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 10108 10110 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wu, Kui'
+primary 'Yang, Zhihua'
+primary 'Pan, Shilie'
+_cell_length_a 7.7224(14)
+_cell_length_b 11.994(2)
+_cell_length_c 7.0965(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.660(12)
+_cell_angle_gamma 90.
+_cell_volume 629.7
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2 1'
+_space_group_IT_number 5
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se2- -2.33
+Ge4+ 4
+Mg2+ 2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Se1 Se2- 4 c 0.76840(7) -0.00248(5) 0.76571(7) 0.01662(14) 1
+Se2 Se2- 4 c 0.72916(7) 0.17744(4) 1.21907(7) 0.01792(15) 1
+Se3 Se2- 4 c 0.72634(7) 0.32371(4) 0.75038(7) 0.01804(15) 1
+Ge1 Ge4+ 4 c 0.83788(7) 0.16678(8) 0.94387(6) 0.01348(13) 1
+Mg1 Mg2+ 2 a 0.5 0.3436(2) 1. 0.0178(5) 1
+Na1 Na1+ 2 a 1. 0.4806(3) 1. 0.0253(8) 1
+Na2 Na1+ 2 b 1. 0.3278(4) 0.5 0.0308(8) 1
+Na3 Na1+ 2 b 1. 0.0183(3) 0.5 0.0322(10) 1
+Na4 Na1+ 2 b 0.5 0.1523(4) 0.5 0.0261(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se2- 0.0197(3) 0.0150(2) 0.0138(3) -0.0002(3) 0.0024(2) -0.0017(2)
+Se2 Se2- 0.0200(3) 0.0223(4) 0.0127(2) 0.0006(3) 0.0066(2) -0.0002(3)
+Se3 Se2- 0.0207(3) 0.0163(3) 0.0161(3) 0.0022(3) 0.0037(2) 0.0036(2)
+Ge1 Ge4+ 0.0152(3) 0.0140(2) 0.0111(2) 0.0003(2) 0.00345(19) -0.0001(2)
+Mg1 Mg2+ 0.0161(13) 0.0173(13) 0.0187(13) 0. 0.0029(11) 0.
+Na1 Na1+ 0.025(2) 0.0235(19) 0.0291(19) 0. 0.0104(16) 0.
+Na2 Na1+ 0.0286(19) 0.0333(18) 0.0269(18) 0. 0.0023(15) 0.
+Na3 Na1+ 0.033(2) 0.038(3) 0.029(2) 0. 0.0144(17) 0.
+Na4 Na1+ 0.0226(18) 0.031(2) 0.0222(14) 0. 0.0024(13) 0.
+#End of TTdata_239112-ICSD

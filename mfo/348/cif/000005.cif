@@ -1,0 +1,274 @@
+ 
+data_finalt 
+ 
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+; 
+ ? 
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          ? 
+_chemical_formula_sum 
+ 'Ga Ge2 Li Se6' 
+_chemical_formula_weight          695.60 
+ 
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'Li'  'Li'  -0.0003   0.0001 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Ga'  'Ga'   0.2307   1.6083 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Ge'  'Ge'   0.1547   1.8001 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Se'  'Se'  -0.0929   2.2259 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 
+_symmetry_cell_setting            orthorhombic 
+_symmetry_space_group_name_H-M    FDD2 
+ 
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-x, -y, z' 
+ 'x+1/4, -y+1/4, z+1/4' 
+ '-x+1/4, y+1/4, z+1/4' 
+ 'x, y+1/2, z+1/2' 
+ '-x, -y+1/2, z+1/2' 
+ 'x+1/4, -y+3/4, z+3/4' 
+ '-x+1/4, y+3/4, z+3/4' 
+ 'x+1/2, y, z+1/2' 
+ '-x+1/2, -y, z+1/2' 
+ 'x+3/4, -y+1/4, z+3/4' 
+ '-x+3/4, y+1/4, z+3/4' 
+ 'x+1/2, y+1/2, z' 
+ '-x+1/2, -y+1/2, z' 
+ 'x+3/4, -y+3/4, z+1/4' 
+ '-x+3/4, y+3/4, z+1/4' 
+ 
+_cell_length_a                    12.501(3) 
+_cell_length_b                    23.683(5) 
+_cell_length_c                    7.1196(14) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  90.00 
+_cell_angle_gamma                 90.00 
+_cell_volume                      2107.7(7) 
+_cell_formula_units_Z             8 
+_cell_measurement_temperature     93(2) 
+_cell_measurement_reflns_used     ? 
+_cell_measurement_theta_min       ? 
+_cell_measurement_theta_max       ? 
+ 
+_exptl_crystal_description        Platelet
+_exptl_crystal_colour             Yellow
+_exptl_crystal_size_max           0.1900 
+_exptl_crystal_size_mid           0.1330 
+_exptl_crystal_size_min           0.0370
+_exptl_crystal_density_meas       none
+_exptl_crystal_density_diffrn     4.384 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              2416 
+_exptl_absorpt_coefficient_mu     28.855 
+_exptl_absorpt_correction_type    numerical  
+_exptl_absorpt_correction_T_min   0.2177
+_exptl_absorpt_correction_T_max   1.0000 
+_exptl_absorpt_process_details    'face indexed'  
+ 
+_exptl_special_details 
+; 
+ ? 
+; 
+ 
+_diffrn_ambient_temperature       93(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'Rotating Anode' 
+_diffrn_radiation_monochromator   'Graphite Monochromator'
+_diffrn_measurement_device_type   'Rigaku AFC10 diffractometer'  
+_diffrn_measurement_method        'dtprofit.ref' 
+_diffrn_detector_area_resol_mean  28.5714  
+_diffrn_standards_number          ? 
+_diffrn_standards_interval_count  ? 
+_diffrn_standards_interval_time   ? 
+_diffrn_standards_decay_%         ? 
+_diffrn_reflns_number             5996 
+_diffrn_reflns_av_R_equivalents   0.0909 
+_diffrn_reflns_av_sigmaI/netI     0.0862 
+_diffrn_reflns_limit_h_min        -18 
+_diffrn_reflns_limit_h_max        13 
+_diffrn_reflns_limit_k_min        -34 
+_diffrn_reflns_limit_k_max        34 
+_diffrn_reflns_limit_l_min        -10 
+_diffrn_reflns_limit_l_max        10 
+_diffrn_reflns_theta_min          3.40 
+_diffrn_reflns_theta_max          31.00 
+_reflns_number_total              1676 
+_reflns_number_gt                 1490 
+_reflns_threshold_expression      >2sigma(I) 
+ 
+_computing_data_collection        'CrystalClear (Rigaku Inc., 2008)'
+_computing_cell_refinement        'CrystalClear (Rigaku Inc., 2008)'
+_computing_data_reduction         'CrystalClear (Rigaku Inc., 2008)' 
+_computing_structure_solution     'SHELXS-97 (Sheldrick, 1990)' 
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     'SHELXL-97 (Sheldrick, 1997)'
+_computing_publication_material   'Diamond' 
+ 
+_refine_special_details 
+; 
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and 
+ goodness of fit S are based on F^2^, conventional R-factors R are based 
+ on F, with F set to zero for negative F^2^. The threshold expression of 
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is 
+ not relevant to the choice of reflections for refinement.  R-factors based 
+ on F^2^ are statistically about twice as large as those based on F, and R- 
+ factors based on ALL data will be even larger. 
+; 
+ 
+_refine_ls_structure_factor_coef  Fsqd  
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc  
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0100P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    none 
+_refine_ls_hydrogen_treatment     none  
+_refine_ls_extinction_method      SHELXL
+_refine_ls_extinction_coef        none
+_refine_ls_abs_structure_details 
+ 'Flack H D (1983), Acta Cryst. A39, 876-881' 
+_refine_ls_abs_structure_Flack    -0.07(7) 
+_refine_ls_number_reflns          1676 
+_refine_ls_number_parameters      51 
+_refine_ls_number_restraints      1 
+_refine_ls_R_factor_all           0.0426 
+_refine_ls_R_factor_gt            0.0373 
+_refine_ls_wR_factor_ref          0.0689 
+_refine_ls_wR_factor_gt           0.0673 
+_refine_ls_goodness_of_fit_ref    0.904 
+_refine_ls_restrained_S_all       0.904 
+_refine_ls_shift/su_max           0.000 
+_refine_ls_shift/su_mean          0.000 
+ 
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+Li Li 0.084(3) 0.2041(14) 0.475(6) 0.047(11) Uani 0.50 1 d P . . 
+Ge Ge -0.12493(6) 0.13788(3) 0.77342(12) 0.01074(16) Uani 1 1 d . . . 
+Ga Ga 0.2500 0.2500 1.00125(17) 0.0096(2) Uani 1 2 d S . . 
+Se1 Se 0.20318(6) 0.17381(3) 0.79983(11) 0.01451(17) Uani 1 1 d . . . 
+Se2 Se -0.30745(6) 0.11988(3) 0.83364(11) 0.01283(16) Uani 1 1 d . . . 
+Se3 Se 0.15958(6) 0.01887(3) 0.92416(13) 0.01774(19) Uani 1 1 d . . . 
+ 
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+Li 0.06(2) 0.040(19) 0.04(3) 0.021(18) 0.04(2) 0.039(17) 
+Ge 0.0116(3) 0.0126(3) 0.0080(4) 0.0014(3) -0.0018(3) 0.0005(3) 
+Ga 0.0124(5) 0.0097(5) 0.0068(6) 0.000 0.000 -0.0004(4) 
+Se1 0.0195(4) 0.0171(4) 0.0070(4) -0.0035(3) 0.0024(3) -0.0016(3) 
+Se2 0.0112(3) 0.0212(4) 0.0061(4) -0.0007(3) -0.0003(3) -0.0009(3) 
+Se3 0.0173(4) 0.0127(4) 0.0232(5) -0.0066(3) -0.0086(3) 0.0027(3) 
+ 
+_geom_special_details 
+; 
+ All esds (except the esd in the dihedral angle between two l.s. planes) 
+ are estimated using the full covariance matrix.  The cell esds are taken 
+ into account individually in the estimation of esds in distances, angles 
+ and torsion angles; correlations between esds in cell parameters are only 
+ used when they are defined by crystal symmetry.  An approximate (isotropic) 
+ treatment of cell esds is used for estimating esds involving l.s. planes. 
+; 
+ 
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+Li Se2 2.61(3) 9_554 ? 
+Li Se3 2.64(4) 4_554 ? 
+Li Se3 2.68(3) 11_454 ? 
+Li Se1 2.84(4) . ? 
+Ge Se3 2.3585(11) 11_454 ? 
+Ge Se2 2.3605(11) . ? 
+Ge Se1 2.3710(12) 11_454 ? 
+Ge Se2 2.3713(12) 3 ? 
+Ga Se1 2.3780(11) . ? 
+Ga Se1 2.3780(11) 14 ? 
+Ga Se3 2.3863(11) 3 ? 
+Ga Se3 2.3863(11) 4 ? 
+Se1 Ge 2.3710(12) 3 ? 
+Se2 Ge 2.3713(12) 11_454 ? 
+Se2 Li 2.61(3) 9_455 ? 
+Se3 Ge 2.3585(11) 3 ? 
+Se3 Ga 2.3863(11) 11_454 ? 
+Se3 Li 2.64(4) 8_545 ? 
+Se3 Li 2.68(3) 3 ? 
+ 
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+Se2 Li Se3 96.6(12) 9_554 4_554 ? 
+Se2 Li Se3 144.1(15) 9_554 11_454 ? 
+Se3 Li Se3 108.5(11) 4_554 11_454 ? 
+Se2 Li Se1 81.2(9) 9_554 . ? 
+Se3 Li Se1 142.2(16) 4_554 . ? 
+Se3 Li Se1 93.2(12) 11_454 . ? 
+Se3 Ge Se2 113.60(4) 11_454 . ? 
+Se3 Ge Se1 107.49(4) 11_454 11_454 ? 
+Se2 Ge Se1 114.12(4) . 11_454 ? 
+Se3 Ge Se2 106.65(4) 11_454 3 ? 
+Se2 Ge Se2 99.25(4) . 3 ? 
+Se1 Ge Se2 115.54(4) 11_454 3 ? 
+Se1 Ga Se1 105.82(6) . 14 ? 
+Se1 Ga Se3 112.01(3) . 3 ? 
+Se1 Ga Se3 104.33(3) 14 3 ? 
+Se1 Ga Se3 104.33(3) . 4 ? 
+Se1 Ga Se3 112.01(3) 14 4 ? 
+Se3 Ga Se3 117.89(7) 3 4 ? 
+Ge Se1 Ga 99.44(4) 3 . ? 
+Ge Se1 Li 119.0(7) 3 . ? 
+Ga Se1 Li 115.4(7) . . ? 
+Ge Se2 Ge 100.87(4) . 11_454 ? 
+Ge Se2 Li 115.8(9) . 9_455 ? 
+Ge Se2 Li 103.4(9) 11_454 9_455 ? 
+Ge Se3 Ga 100.20(3) 3 11_454 ? 
+Ge Se3 Li 107.9(9) 3 8_545 ? 
+Ga Se3 Li 109.7(7) 11_454 8_545 ? 
+Ge Se3 Li 94.8(7) 3 3 ? 
+Ga Se3 Li 116.8(9) 11_454 3 ? 
+Li Se3 Li 123.0(6) 8_545 3 ? 
+ 
+_diffrn_measured_fraction_theta_max    1.000 
+_diffrn_reflns_theta_full              31.00 
+_diffrn_measured_fraction_theta_full   1.000 
+_refine_diff_density_max    1.520 
+_refine_diff_density_min   -1.721 
+_refine_diff_density_rms    0.313 

@@ -1,0 +1,106 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422557-ICSD
+_database_code_ICSD 422557
+_audit_creation_date 2011-08-01
+_chemical_name_common 'Pentabarium(II) tris(orthoborate) monobromide'
+_chemical_formula_structural 'Ba5 (B O3)3 Br'
+_chemical_formula_sum 'B3 Ba5 Br1 O9'
+_chemical_name_structure_type Sr5Br(BO3)3
+_exptl_crystal_density_diffrn 5.03
+_diffrn_ambient_temperature 173.
+_citation_title
+
+;
+Orthoborate halides with the formula (M(+II))5 (B O3)3 X: syntheses, crystal
+structures and Raman spectra of Eu5 (B O3)3 Cl and Ba5 (B O3)3 X (X = Cl, Br)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+2011 66 359 365 ZNBSEN
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Reckeweg, O.'
+primary 'Schulz, A.'
+primary 'DiSalvo, F.J.'
+_cell_length_a 10.4876(7)
+_cell_length_b 14.8113(9)
+_cell_length_c 8.0122(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1244.58
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 2 2 21'
+_space_group_IT_number 20
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Br1- -1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 4 a 0.24154(4) 0. 0. 0.00658(7) 1
+Ba2 Ba2+ 8 c 0.86195(3) 0.131116(19) 0.06496(4) 0.00744(6) 1
+Ba3 Ba2+ 4 b 0.5 0.13847(3) 0.25 0.00618(8) 1
+Ba4 Ba2+ 4 b 0.5 0.85966(3) 0.25 0.00626(8) 1
+Br1 Br1- 4 b 0. 0.94443(5) 0.25 0.01103(14) 1
+B1 B3+ 8 c 0.1926(6) 0.2091(4) 0.0307(7) 0.0070(11) 1
+B2 B3+ 4 a 0.6243(7) 0. 0. 0.0062(12) 1
+O1 O2- 4 a 0.4936(5) 0. 0. 0.0085(9) 1
+O2 O2- 8 c 0.3188(3) 0.1875(2) 0.9897(6) 0.0092(7) 1
+O3 O2- 8 c 0.6405(4) 0.2079(2) 0.0146(5) 0.0090(7) 1
+O4 O2- 8 c 0.3120(3) 0.9999(3) 0.6507(4) 0.0099(7) 1
+O5 O2- 8 c 0.1191(4) 0.1485(2) 0.1205(5) 0.0102(7) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.00565(17) 0.00575(15) 0.00833(16) 0. 0. 0.00003(18)
+Ba2 Ba2+ 0.00714(12) 0.00617(11) 0.00902(12) 0.00028(10) -0.00010(12)
+0.00045(12)
+Ba3 Ba2+ 0.00736(18) 0.00616(17) 0.00502(16) 0. 0.00069(16) 0.
+Ba4 Ba2+ 0.00745(19) 0.00650(17) 0.00482(16) 0. -0.00021(16) 0.
+Br1 Br1- 0.0110(3) 0.0133(3) 0.0088(3) 0. -0.0004(3) 0.
+B1 B3+ 0.007(2) 0.006(2) 0.008(3) -0.0020(17) 0.0016(18) -0.002(2)
+B2 B3+ 0.008(3) 0.000(2) 0.010(3) 0. 0. -0.002(3)
+O1 O2- 0.009(2) 0.0069(18) 0.010(2) 0. 0. 0.000(2)
+O2 O2- 0.0064(16) 0.0088(13) 0.0124(17) 0.0017(12) 0.0022(16) -0.0004(17)
+O3 O2- 0.0101(16) 0.0066(13) 0.0103(17) -0.0028(12) 0.0007(17) -0.0014(15)
+O4 O2- 0.0141(17) 0.0085(14) 0.0070(15) -0.0019(16) 0.0046(13) -0.0003(17)
+O5 O2- 0.0097(19) 0.0104(15) 0.0104(16) 0.0010(14) 0.0031(15) 0.0016(14)
+#End of TTdata_422557-ICSD

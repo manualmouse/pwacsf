@@ -1,0 +1,97 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_255457-ICSD
+_database_code_ICSD 255457
+_audit_creation_date 2018-08-01
+_chemical_name_common 'Cesium iodate(V)'
+_chemical_formula_structural 'Cs I O3'
+_chemical_formula_sum 'Cs1 I1 O3'
+_chemical_name_structure_type FeBiO3#KBrO3
+_exptl_crystal_density_diffrn 5.02
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Functional materials design via structural regulation originated from ions
+introduction. A study case in cesium iodate system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2018 30 1136 1145 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Zhang, Min'
+primary 'Hu, Cong'
+primary 'Abudouwufu, Tushagu'
+primary 'Yang, Zhihua'
+primary 'Pan, Shilie'
+_cell_length_a 6.6051(10)
+_cell_length_b 6.6051(10)
+_cell_length_c 8.087(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 305.54
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 m H'
+_space_group_IT_number 160
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 3 a 0. 1. 0.3119(2) 0.0156(7) 1
+I1 I5+ 3 a 0. 1. 0.8033(5) 0.0305(10) 1
+O1 O2- 9 b 0.1377(12) 0.8623(12) 0.674(2) 0.0502(19) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0138(8) 0.0138(8) 0.0192(11) 0.0069(4) 0. 0.
+I1 I5+ 0.0339(8) 0.0339(8) 0.024(2) 0.0169(4) 0. 0.
+O1 O2- 0.0501(19) 0.0501(19) 0.051(2) 0.0256(12) 0.0003(7) -0.0003(7)
+#End of TTdata_255457-ICSD

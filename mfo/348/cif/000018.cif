@@ -1,0 +1,283 @@
+__audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+; 
+ ? 
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          ? 
+_chemical_formula_sum 
+ 'Ga4 S7 Sn' 
+_chemical_formula_weight          622.08 
+ 
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'S'  'S'   0.1246   0.1234 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Ga'  'Ga'   0.2307   1.6083 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Sn'  'Sn'  -0.6537   1.4246 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 
+_symmetry_cell_setting            monoclinic 
+_symmetry_space_group_name_H-M    Pc 
+ 
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ 'x, -y, z+1/2' 
+ 
+_cell_length_a                    7.269(5) 
+_cell_length_b                    6.361(4) 
+_cell_length_c                    12.408(8) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  106.556(11) 
+_cell_angle_gamma                 90.00 
+_cell_volume                      549.9(6) 
+_cell_formula_units_Z             2 
+_cell_measurement_temperature     293(2) 
+_cell_measurement_reflns_used     1758 
+_cell_measurement_theta_min       2.9234 
+_cell_measurement_theta_max       27.5166 
+ 
+_exptl_crystal_description        'Prism' 
+_exptl_crystal_colour             'light-yellow' 
+_exptl_crystal_size_max           0.1900 
+_exptl_crystal_size_mid           0.1700 
+_exptl_crystal_size_min           0.1600 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     3.757
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              572 
+_exptl_absorpt_coefficient_mu     13.178 
+_exptl_absorpt_correction_type    'Multi-scan' 
+_exptl_absorpt_correction_T_min   0.094 
+_exptl_absorpt_correction_T_max   0.121 
+_exptl_absorpt_process_details    ? 
+ 
+_exptl_special_details 
+; 
+ ? 
+; 
+ 
+_diffrn_ambient_temperature       293(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   Mercury70 
+_diffrn_measurement_method        'CCD_Profile_fitting' 
+_diffrn_detector_area_resol_mean  14.6306 
+_diffrn_standards_number          1368 
+_diffrn_standards_interval_count  ? 
+_diffrn_standards_interval_time   ? 
+_diffrn_standards_decay_%         ? 
+_diffrn_reflns_number             3996 
+_diffrn_reflns_av_R_equivalents   0.0201 
+_diffrn_reflns_av_sigmaI/netI     0.0444 
+_diffrn_reflns_limit_h_min        -9 
+_diffrn_reflns_limit_h_max        9 
+_diffrn_reflns_limit_k_min        -8 
+_diffrn_reflns_limit_k_max        6 
+_diffrn_reflns_limit_l_min        -16 
+_diffrn_reflns_limit_l_max        16 
+_diffrn_reflns_theta_min          2.92 
+_diffrn_reflns_theta_max          27.48 
+_reflns_number_total              2528
+_reflns_number_gt                 2200 
+_reflns_threshold_expression      >2sigma(I) 
+ 
+_computing_data_collection        ? 
+_computing_cell_refinement        ? 
+_computing_data_reduction         ? 
+_computing_structure_solution     'SHELXS-97 (Sheldrick, 1990)' 
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     ? 
+_computing_publication_material   ? 
+ 
+_refine_special_details 
+; 
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and 
+ goodness of fit S are based on F^2^, conventional R-factors R are based 
+ on F, with F set to zero for negative F^2^. The threshold expression of 
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is 
+ not relevant to the choice of reflections for refinement.  R-factors based 
+ on F^2^ are statistically about twice as large as those based on F, and R- 
+ factors based on ALL data will be even larger. 
+; 
+ 
+_refine_ls_structure_factor_coef  Fsqd  
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc  
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0094P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    none
+_refine_ls_hydrogen_treatment     none 
+_refine_ls_extinction_method      none 
+_refine_ls_extinction_coef        ? 
+_refine_ls_abs_structure_details 
+ 'Flack H D (1983), Acta Cryst. A39, 876-881' 
+_refine_ls_abs_structure_Flack    0.082(10) 
+_refine_ls_number_reflns          2285 
+_refine_ls_number_parameters      109 
+_refine_ls_number_restraints      2 
+_refine_ls_R_factor_all           0.0203 
+_refine_ls_R_factor_gt            0.0196 
+_refine_ls_wR_factor_ref          0.0419 
+_refine_ls_wR_factor_gt           0.0418 
+_refine_ls_goodness_of_fit_ref    0.979 
+_refine_ls_restrained_S_all       0.978 
+_refine_ls_shift/su_max           0.000 
+_refine_ls_shift/su_mean          0.000 
+ 
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+Sn1 Sn 0.97536(5) -0.38006(6) 0.51941(4) 0.01888(10) Uani 1 1 d . . . 
+Ga1 Ga 0.37694(8) 0.42246(9) 0.33157(5) 0.00909(12) Uani 1 1 d . . . 
+Ga2 Ga 0.63305(7) -0.07566(9) 0.32399(5) 0.00885(13) Uani 1 1 d . . . 
+Ga3 Ga 0.49941(8) -0.24882(10) 0.56557(5) 0.00929(12) Uani 1 1 d . . . 
+Ga4 Ga 0.12557(7) -0.06270(9) 0.32184(5) 0.00912(13) Uani 1 1 d . . . 
+S1 S 0.08686(17) 0.2716(2) 0.25932(12) 0.0108(3) Uani 1 1 d . . . 
+S2 S 0.73497(17) -0.0647(2) 0.51663(10) 0.0110(3) Uani 1 1 d . . . 
+S3 S 0.60834(16) 0.2634(2) 0.26093(11) 0.0083(3) Uani 1 1 d . . . 
+S4 S 0.34244(17) 0.7551(2) 0.25035(11) 0.0089(3) Uani 1 1 d . . . 
+S5 S 1.21707(17) -0.0692(3) 0.51492(11) 0.0114(3) Uani 1 1 d . . . 
+S6 S 0.85827(16) -0.2652(2) 0.27548(12) 0.0102(3) Uani 1 1 d . . . 
+S7 S 0.4936(3) 0.4135(2) 0.51695(13) 0.0235(3) Uani 1 1 d . . . 
+ 
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+Sn1 0.01767(17) 0.0113(2) 0.0284(2) 0.0056(2) 0.00787(16) 0.00250(18) 
+Ga1 0.0127(2) 0.0066(3) 0.0082(3) -0.0013(2) 0.0033(2) -0.0004(2) 
+Ga2 0.0092(3) 0.0080(3) 0.0101(3) 0.0015(2) 0.0041(2) 0.0007(2) 
+Ga3 0.0113(2) 0.0100(3) 0.0072(3) -0.0014(2) 0.0035(2) -0.0008(2) 
+Ga4 0.0094(3) 0.0081(3) 0.0105(3) 0.0004(2) 0.0040(2) 0.0001(2) 
+S1 0.0106(6) 0.0076(7) 0.0134(7) 0.0010(6) 0.0022(5) -0.0001(5) 
+S2 0.0116(6) 0.0124(8) 0.0098(7) 0.0006(6) 0.0042(5) 0.0003(6) 
+S3 0.0105(6) 0.0074(7) 0.0081(6) 0.0003(5) 0.0045(5) 0.0003(5) 
+S4 0.0093(6) 0.0083(7) 0.0099(6) 0.0000(5) 0.0042(5) 0.0002(5) 
+S5 0.0111(6) 0.0139(8) 0.0094(7) -0.0013(6) 0.0031(5) 0.0008(6) 
+S6 0.0092(6) 0.0082(8) 0.0143(7) -0.0019(6) 0.0050(5) -0.0007(5) 
+S7 0.0494(10) 0.0094(7) 0.0093(6) -0.0004(7) 0.0042(6) 0.0014(8) 
+ 
+_geom_special_details 
+; 
+ All esds (except the esd in the dihedral angle between two l.s. planes) 
+ are estimated using the full covariance matrix.  The cell esds are taken 
+ into account individually in the estimation of esds in distances, angles 
+ and torsion angles; correlations between esds in cell parameters are only 
+ used when they are defined by crystal symmetry.  An approximate (isotropic) 
+ treatment of cell esds is used for estimating esds involving l.s. planes. 
+; 
+ 
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+Sn1 S2 2.6541(19) . ? 
+Sn1 S5 2.6565(19) . ? 
+Ga1 S7 2.214(2) . ? 
+Ga1 S1 2.2570(18) . ? 
+Ga1 S4 2.3266(18) . ? 
+Ga1 S3 2.3371(16) . ? 
+Ga2 S6 2.2490(17) . ? 
+Ga2 S3 2.2838(18) . ? 
+Ga2 S2 2.293(2) . ? 
+Ga2 S4 2.3143(17) 1_545 ? 
+Ga3 S7 2.2283(19) 1_545 ? 
+Ga3 S5 2.2756(17) 1_455 ? 
+Ga3 S2 2.2946(17) . ? 
+Ga3 S3 2.328(2) 2 ? 
+Ga4 S1 2.2536(18) . ? 
+Ga4 S6 2.2647(17) 1_455 ? 
+Ga4 S5 2.297(2) 1_455 ? 
+Ga4 S4 2.3264(16) 1_545 ? 
+S3 Ga3 2.328(2) 2_554 ? 
+S4 Ga2 2.3143(17) 1_565 ? 
+S4 Ga4 2.3264(16) 1_565 ? 
+S5 Ga3 2.2756(17) 1_655 ? 
+S5 Ga4 2.297(2) 1_655 ? 
+S6 Ga4 2.2647(17) 1_655 ? 
+S7 Ga3 2.2283(19) 1_565 ? 
+ 
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+S2 Sn1 S5 82.76(6) . . ? 
+S7 Ga1 S1 116.07(6) . . ? 
+S7 Ga1 S4 115.82(6) . . ? 
+S1 Ga1 S4 103.98(6) . . ? 
+S7 Ga1 S3 105.97(7) . . ? 
+S1 Ga1 S3 110.96(7) . . ? 
+S4 Ga1 S3 103.39(5) . . ? 
+S6 Ga2 S3 114.00(6) . . ? 
+S6 Ga2 S2 104.57(6) . . ? 
+S3 Ga2 S2 107.40(6) . . ? 
+S6 Ga2 S4 107.29(7) . 1_545 ? 
+S3 Ga2 S4 109.27(5) . 1_545 ? 
+S2 Ga2 S4 114.40(5) . 1_545 ? 
+S7 Ga3 S5 117.60(7) 1_545 1_455 ? 
+S7 Ga3 S2 112.24(7) 1_545 . ? 
+S5 Ga3 S2 110.67(6) 1_455 . ? 
+S7 Ga3 S3 102.60(6) 1_545 2 ? 
+S5 Ga3 S3 108.66(5) 1_455 2 ? 
+S2 Ga3 S3 103.76(5) . 2 ? 
+S1 Ga4 S6 115.81(6) . 1_455 ? 
+S1 Ga4 S5 110.28(6) . 1_455 ? 
+S6 Ga4 S5 103.14(5) 1_455 1_455 ? 
+S1 Ga4 S4 111.74(6) . 1_545 ? 
+S6 Ga4 S4 104.21(7) 1_455 1_545 ? 
+S5 Ga4 S4 111.26(6) 1_455 1_545 ? 
+Ga4 S1 Ga1 104.69(6) . . ? 
+Ga2 S2 Ga3 102.51(6) . . ? 
+Ga2 S2 Sn1 90.38(5) . . ? 
+Ga3 S2 Sn1 98.57(7) . . ? 
+Ga2 S3 Ga3 106.82(6) . 2_554 ? 
+Ga2 S3 Ga1 105.97(6) . . ? 
+Ga3 S3 Ga1 109.89(6) 2_554 . ? 
+Ga2 S4 Ga4 105.03(7) 1_565 1_565 ? 
+Ga2 S4 Ga1 106.17(6) 1_565 . ? 
+Ga4 S4 Ga1 106.80(6) 1_565 . ? 
+Ga3 S5 Ga4 105.51(5) 1_655 1_655 ? 
+Ga3 S5 Sn1 99.80(7) 1_655 . ? 
+Ga4 S5 Sn1 92.21(5) 1_655 . ? 
+Ga2 S6 Ga4 105.33(7) . 1_655 ? 
+Ga1 S7 Ga3 103.21(6) . 1_565 ? 
+ 
+_diffrn_measured_fraction_theta_max    0.989 
+_diffrn_reflns_theta_full              27.48 
+_diffrn_measured_fraction_theta_full   0.989 
+_refine_diff_density_max    0.804 
+_refine_diff_density_min   -0.697 
+_refine_diff_density_rms    0.149 

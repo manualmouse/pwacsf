@@ -1,0 +1,68 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48025-ICSD
+_database_code_ICSD 48025
+_audit_creation_date 1984-12-31
+_audit_update_record 2010-02-01
+_chemical_name_common 'Bismuth triborate'
+_chemical_formula_structural 'Bi (B3 O6)'
+_chemical_formula_sum 'B3 Bi1 O6'
+_chemical_name_structure_type BiB3O6
+_exptl_crystal_density_diffrn 5.03
+_citation_title 'Die Kristallstruktur von Wismutborat, Bi B3 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1984 40 343 344 ACSCEE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Froehlich, R.'
+primary 'Bohaty, L.'
+primary 'Liebertz, J.'
+_cell_length_a 7.116(2)
+_cell_length_b 4.993(2)
+_cell_length_c 6.508(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.62(3)
+_cell_angle_gamma 90.
+_cell_volume 222.69
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2 1'
+_space_group_IT_number 5
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Bi1 Bi3+ 2 a 0 0 0 . 1.
+B1 B3+ 2 b 0.5 0.209(3) 0.5 . 1.
+B2 B3+ 4 c 0.252(2) 0.056(2) 0.694(2) . 1.
+O1 O2- 4 c 0.354(1) 0.041(1) 0.549(1) . 1.
+O2 O2- 4 c 0.408(1) 0.385(2) 0.316(1) . 1.
+O3 O2- 4 c 0.292(1) 0.206(12) 0.876(1) . 1.
+#End of TTdata_48025-ICSD

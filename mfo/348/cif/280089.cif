@@ -1,0 +1,80 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280089-ICSD
+_database_code_ICSD 280089
+_audit_creation_date 2000-07-15
+_chemical_name_common 'Disodium zinc germanium oxide'
+_chemical_formula_structural 'Na2 Zn Ge O4'
+_chemical_formula_sum 'Ge1 Na2 O4 Zn1'
+_chemical_name_structure_type Li2BeSiO4
+_exptl_crystal_density_diffrn 3.87
+_diffrn_ambient_temperature 150.
+_citation_title 'Disodium zinc germanium tetraoxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1999 55 1 1 ACSCEE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Healey, A.M.'
+primary 'Webster, M.'
+primary 'Weller, M.T.'
+_cell_length_a 7.1535(9)
+_cell_length_b 5.5819(10)
+_cell_length_c 5.3279(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.934(8)
+_cell_angle_gamma 90.
+_cell_volume 212.74
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 n 1'
+_space_group_IT_number 7
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Zn2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ge1 Ge4+ 2 a 0.24710(12) 0.68457(15) 0.0045(2) . 1.
+Zn1 Zn2+ 2 a 0 0.18611(17) 0 . 1.
+Na1 Na1+ 2 a 0.2504(19) 0.3202(5) 0.4891(14) 0.0113(13) 1.
+Na2 Na1+ 2 a 0.9953(19) 0.8197(6) 0.4915(15) 0.0124(15) 1.
+O1 O2- 2 a 0.222(1) 0.3841(8) 0.9235(10) 0.0067(9) 1.
+O2 O2- 2 a 0.2741(10) 0.7067(7) 0.330(1) 0.0074(11) 1.
+O3 O2- 2 a 0.0473(10) 0.8465(7) 0.9205(10) 0.0079(10) 1.
+O4 O2- 2 a 0.4515(10) 0.7933(7) 0.8629(10) 0.0074(11) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0051(4) 0.0056(4) 0.0043(4) -.0002(5) -.0004(4) -.0001(2)
+Zn1 Zn2+ 0.0053(5) 0.0049(5) 0.0048(5) -.0001(5) 0.0000(4) 0.0000(3)
+#End of TTdata_280089-ICSD

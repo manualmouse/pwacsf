@@ -1,0 +1,7 @@
+_cell_length_a                   4.698(1)
+_cell_length_b                   7.2246(6)
+_cell_length_c                   13.520(1)
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_volume                     458.89(11)

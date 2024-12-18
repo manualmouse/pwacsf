@@ -1,0 +1,116 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261420-ICSD
+_database_code_ICSD 261420
+_audit_creation_date 2011-08-01
+_chemical_name_common 'Tetralithium tricesium heptaborate'
+_chemical_formula_structural 'Li4 Cs3 (B7 O14)'
+_chemical_formula_sum 'B7 Cs3 Li4 O14'
+_exptl_crystal_density_diffrn 3.24
+_diffrn_ambient_temperature 293.
+_citation_title
+'Li4 Cs3 B7 O14: synthesis, crystal structure, and optical properties'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 2415 2419 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yang Yun'
+primary 'Pan Shilie'
+primary 'Li Hongyi'
+primary 'Han Jian'
+primary 'Chen Zhaohui'
+primary 'Zhao Wenwu'
+primary 'Zhou Zhongxiang'
+_cell_length_a 6.9313(6)
+_cell_length_b 6.9313(6)
+_cell_length_c 26.799(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1115.01
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'P 31 2 1'
+_space_group_IT_number 152
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+O2- -2
+B3+ 3
+O2- -2
+B3+ 3
+O2- -2
+Li1+ 1
+O2- -2
+B3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 6 c 0.53208(9) 1.00838(9) 0.108934(13) 0.0242(2) 1
+Cs2 Cs1+ 3 a 0.07339(11) 1.07339(11) 0. 0.0309(2) 1
+O1 O2- 6 c 1.0007(10) 0.9318(8) 0.12209(14) 0.0224(11) 1
+B1 B3+ 6 c 0.5357(12) 0.5102(13) 0.0816(3) 0.0130(16) 1
+O2 O2- 6 c 0.3474(7) 0.5035(9) 0.07740(14) 0.0184(11) 1
+O3 O2- 3 b 1. 1.2271(11) 0.1667 0.0239(17) 1
+B2 B3+ 6 c 0.8503(14) 1.4961(14) 0.0401(2) 0.0160(18) 1
+O4 O2- 6 c -0.0107(7) 0.6209(8) 0.07893(14) 0.0156(12) 1
+O5 O2- 6 c 0.6681(8) 0.5793(10) 0.12430(13) 0.0252(14) 1
+O6 O2- 6 c 0.4235(9) 0.9229(9) -0.00291(14) 0.0177(11) 1
+Li1 Li1+ 6 c 0.2456(18) 0.6045(17) 0.0230(3) 0.012(2) 1
+O7 O2- 6 c 0.6267(8) 0.4420(9) 0.04213(13) 0.0183(12) 1
+B3 B3+ 6 c 0.9126(13) 0.6919(15) 0.1235(2) 0.0170(18) 1
+B4 B3+ 3 b 1. 1.0387(16) 0.1667 0.015(2) 1
+Li2 Li1+ 6 c 1.115(2) 1.458(2) 0.1234(4) 0.020(3) 1
+O8 O2- 3 b 1. 0.6294(10) 0.1667 0.0185(18) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0315(4) 0.0213(3) 0.0160(3) 0.0104(2) 0.00150(18) 0.00108(18)
+Cs2 Cs1+ 0.0307(4) 0.0307(4) 0.0391(4) 0.0211(4) 0.00078(15) -0.00078(15)
+O1 O2- 0.046(4) 0.021(3) 0.010(2) 0.024(3) 0.006(2) 0.0050(19)
+B1 B3+ 0.009(4) 0.005(4) 0.022(3) 0.002(3) -0.003(3) -0.007(3)
+O2 O2- 0.015(3) 0.022(3) 0.020(2) 0.011(3) 0.0047(18) 0.007(2)
+O3 O2- 0.038(5) 0.019(3) 0.021(3) 0.019(2) 0.011(3) 0.0057(14)
+B2 B3+ 0.020(4) 0.020(5) 0.013(3) 0.014(4) 0.009(3) 0.013(3)
+O4 O2- 0.013(3) 0.018(3) 0.0155(19) 0.008(2) 0.0014(18) -0.0010(18)
+O5 O2- 0.021(3) 0.047(4) 0.012(2) 0.020(3) -0.0048(18) -0.012(2)
+O6 O2- 0.022(3) 0.013(3) 0.017(2) 0.008(2) 0.003(2) 0.001(2)
+Li1 Li1+ 0.009(6) 0.009(6) 0.014(4) 0.000(5) 0.007(4) 0.004(4)
+O7 O2- 0.011(3) 0.035(3) 0.0114(19) 0.014(2) -0.0050(17) -0.012(2)
+B3 B3+ 0.024(5) 0.028(5) 0.009(3) 0.020(4) 0.000(3) 0.002(3)
+B4 B3+ 0.010(6) 0.009(4) 0.025(5) 0.005(3) -0.002(4) -0.001(2)
+Li2 Li1+ 0.024(7) 0.018(7) 0.022(5) 0.013(6) 0.006(5) 0.003(5)
+O8 O2- 0.037(5) 0.015(3) 0.011(3) 0.018(3) -0.004(3) -0.0022(13)
+#End of TTdata_261420-ICSD

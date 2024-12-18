@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248295-ICSD
+_database_code_ICSD 248295
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-02-01
+_chemical_name_common 'Barium gallium selenide (1/4/7)'
+_chemical_formula_structural 'Ba Ga4 Se7'
+_chemical_formula_sum 'Ba1 Ga4 Se7'
+_chemical_name_structure_type BaAl4Se7
+_exptl_crystal_density_diffrn 5.16
+_diffrn_ambient_temperature 93.
+_citation_title
+'Ba Ga4 Se7: A new congruent-melting IR nonlinear optical material'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2010 49 9212 9216 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yao Ji Yong'
+primary 'Mei Dajiang'
+primary 'Bai Lei'
+primary 'Lin Zheshuai'
+primary 'Yin Wenlong'
+primary 'Fu Pei Zhen'
+primary 'Wu Yi cheng'
+_cell_length_a 7.6252(15)
+_cell_length_b 6.5114(13)
+_cell_length_c 14.702(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 121.24(2)
+_cell_angle_gamma 90.
+_cell_volume 624.12
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 c 1'
+_space_group_IT_number 7
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ga3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 2 a 0.56392(19) 0.35352(14) 0.04634(10) 0.0118(2) 1
+Ga1 Ga3+ 2 a 0.0072(3) 0.1659(3) 0.74082(13) 0.0019(4) 1
+Ga2 Ga3+ 2 a 1.0000(3) 0.0072(2) 0.99999(15) 0.0021(4) 1
+Ga3 Ga3+ 2 a 0.4927(3) 0.1583(2) 0.72796(13) 0.0026(4) 1
+Ga4 Ga3+ 2 a 0.2374(4) 0.3632(2) 0.22517(15) 0.0028(4) 1
+Se1 Se2- 2 a 0.7824(3) 0.1506(2) 0.55319(18) 0.0031(3) 1
+Se2 Se2- 2 a 0.0059(3) 0.3633(2) 0.03880(16) 0.0065(4) 1
+Se3 Se2- 2 a 0.3285(3) 0.1099(2) 0.54215(15) 0.0041(4) 1
+Se4 Se2- 2 a 0.3294(3) 0.0178(2) 0.30967(13) 0.0021(3) 1
+Se5 Se2- 2 a 0.0973(3) 0.5080(2) 0.32329(14) 0.0046(4) 1
+Se6 Se2- 2 a 0.5703(3) 0.4948(2) 0.28064(15) 0.0063(5) 1
+Se7 Se2- 2 a 0.8169(3) 0.0307(2) 0.30402(13) 0.0015(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0134(9) 0.0079(5) 0.0140(5) -0.0016(5) 0.0071(9) -0.0006(5)
+Ga1 Ga3+ 0.0026(12) 0.0017(9) 0.0022(8) 0.0006(8) 0.0019(10) 0.0007(6)
+Ga2 Ga3+ 0.0030(11) 0.0026(8) 0.0024(8) -0.0010(8) 0.0023(9) -0.0002(6)
+Ga3 Ga3+ 0.0030(13) 0.0025(9) 0.0027(9) 0.0003(8) 0.0019(10) -0.0004(6)
+Ga4 Ga3+ 0.0030(12) 0.0015(7) 0.0041(9) -0.0004(9) 0.0020(11) -0.0007(7)
+Se1 Se2- 0.0025(10) 0.0050(7) 0.0027(7) 0.0008(7) 0.0020(9) -0.0001(8)
+Se2 Se2- 0.0123(12) 0.0025(7) 0.0036(9) -0.0017(7) 0.0033(10) -0.0016(8)
+Se3 Se2- 0.0028(12) 0.0076(7) 0.0017(8) 0.0002(7) 0.0009(10) 0.0003(8)
+Se4 Se2- 0.0040(10) 0.0017(7) 0.0024(8) 0.0002(9) 0.0029(8) 0.0001(7)
+Se5 Se2- 0.0117(12) 0.0010(10) 0.0078(8) 0.0012(8) 0.0084(10) 0.0020(6)
+Se6 Se2- 0.0025(11) 0.0039(11) 0.0109(10) -0.0001(7) 0.0024(9) 0.0021(8)
+Se7 Se2- 0.0025(10) 0.0017(7) 0.0010(8) -0.0010(9) 0.0013(9) -0.0005(6)
+#End of TTdata_248295-ICSD

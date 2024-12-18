@@ -1,0 +1,104 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409420-ICSD
+_database_code_ICSD 409420
+_audit_creation_date 1999-11-30
+_audit_update_record 2004-04-01
+_chemical_name_common 'Dipotassium dialuminum bis(borate) oxide'
+_chemical_formula_structural 'K2 Al2 (B O3)2 O'
+_chemical_formula_sum 'Al2 B2 K2 O7'
+_chemical_name_structure_type K2Ga2O(BO3)2
+_exptl_crystal_density_diffrn 2.46
+_diffrn_ambient_temperature 297.
+_citation_title
+
+;
+Redetermination of the crystal structure of dipotassium dialuminium borate, K2
+al2 B2 O7, a new non-linear optical material
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 1999 214
+433 434 ZKNSFT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hu, Z.-G.'
+primary 'Higashiyama, T.'
+primary 'Yoshimura, M.'
+primary 'Mori, Y.'
+primary 'Sasaki, T.'
+_cell_length_a 8.5657(9)
+_cell_length_b 8.5657(9)
+_cell_length_c 8.463(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 537.75
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'P 3 2 1'
+_space_group_IT_number 150
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Al3+ 3
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 3 e 0.30912(4) 0 0 . 1.
+K2 K1+ 3 f 0.35847(4) 0 0.5 . 1.
+Al1 Al3+ 2 c 0 0 0.29918(5) . 1.
+Al2 Al3+ 2 d 0.3333 0.6667 0.18278(6) . 1.
+Al3 Al3+ 2 d 0.6667 0.3333 0.22152(6) . 1.
+O1 O2- 6 g 0.15703(9) 0.21362(9) 0.2261(1) . 1.
+O2 O2- 6 g 0.39833(9) 0.51554(8) 0.2524(1) . 1.
+O3 O2- 6 g 0.45151(9) 0.2732(1) 0.2934(1) . 1.
+O4 O2- 1 b 0 0 0.5 . 1.
+O5 O2- 2 d 0.6667 0.3333 0.0196(2) . 1.
+B1 B3+ 6 g 0.3350(1) 0.3339(1) 0.2569(1) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.01842(7) 0.0183(1) 0.0202(1) 0.0052(1) 0.00915 0.00259(6)
+K2 K1+ 0.01858(7) 0.0203(1) 0.0177(1) 0.01015 0.00305(6) 0.0061
+Al1 Al3+ 0.00846(9) 0.00846 0.0127(2) 0.00423 0 0
+Al2 Al3+ 0.0075(1) 0.0075(1) 0.0117(2) 0.00375 0 0
+Al3 Al3+ 0.0084(1) 0.0084(1) 0.0115(2) 0.0042 0 0
+O1 O2- 0.0087(2) 0.0102(3) 0.0325(4) 0.0018(2) -.0046(3) 0.0040(3)
+O2 O2- 0.0130(2) 0.0078(2) 0.0331(4) 0.0056(2) -.0045(3) 0.0007(2)
+O3 O2- 0.0092(2) 0.0128(2) 0.0286(4) 0.0068(2) 0.0031(2) 0.0071(2)
+O4 O2- 0.0441(8) 0.0441 0.0113(7) 0.02205 0 0
+O5 O2- 0.0376(5) 0.0376 0.0117(4) 0.0188 0 0
+B1 B3+ 0.0078(4) 0.0080(4) 0.0154(4) 0.0037(2) 0.0008(2) 0.0018(3)
+#End of TTdata_409420-ICSD

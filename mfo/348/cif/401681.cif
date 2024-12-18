@@ -1,0 +1,103 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_401681-ICSD
+_database_code_ICSD 401681
+_audit_creation_date 1995-10-17
+_chemical_name_common 'Dicesium dinitrotetrahydro-closo-hexaborate'
+_chemical_formula_structural 'Cs2 (B6 H4 (N O2)2)'
+_chemical_formula_sum 'H4 B6 Cs2 N2 O4'
+_exptl_crystal_density_diffrn 2.54
+_citation_title
+
+;
+Darstellung, 11B-NMR- und Schwingungsspektren von
+cis-Dinitrotetrahydro-closo-hexaborate(2-), cis-(B6 H4 (N O2)2)2sowie
+Kristallstruktur von cis-Cs2 (B6 H4 (N O2)2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+1995 50 1030 1034 ZNBSEN
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Franken, A.'
+primary 'Preetz, W.'
+_cell_length_a 10.0656(4)
+_cell_length_b 10.0656(4)
+_cell_length_c 11.0127(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1115.77
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P -4 21 m'
+_space_group_IT_number 113
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+O2- -2
+N3+ 3
+B0+ 0.67
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 2 c 0.5 0 0.92637(7) . 1.
+Cs2 Cs1+ 2 a 0 0 0 . 1.
+Cs3 Cs1+ 4 e 0.30941(4) 0.19059(4) 0.39440(5) . 1.
+O1 O2- 8 f 0.2048(17) 0.0113(9) 0.6087(6) . 1.
+O2 O2- 8 f 0.1996(12) -.0510(6) 0.7814(8) . 1.
+N1 N3+ 8 f 0.1997(7) 0.0391(5) 0.7114(5) . 1.
+B1 B0+ 8 f 0.1989(7) 0.1845(7) 0.7543(6) . 1.
+B2 B0+ 4 e 0.2389(7) 0.2611(7) 0.8905(9) . 1.
+B3 B0+ 8 f 0.2097(7) 0.4118(6) 0.8220(6) . 1.
+B4 B0+ 4 e 0.1658(7) 0.3342(7) 0.6866(9) . 1.
+H1 H1- 4 e 0.276(12) 0.224(12) 0.979(15) 0.081(55) 1.
+H2 H1- 8 f 0.2004(59) 0.5141(63) 0.8510(44) 0.013(13) 1.
+H3 H1- 4 e 0.1357(66) 0.3643(66) 0.6127(95) 0.025(22) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0433(3) 0.0433(3) 0.0401(4) 0.0091(4) 0 0
+Cs2 Cs1+ 0.0389(2) 0.0389(2) 0.0305(3) 0 0 0
+Cs3 Cs1+ 0.0349(2) 0.0349(2) 0.0372(3) 0.0021(2) -.0001(2) 0.0001(2)
+O1 O2- 0.448(24) 0.047(4) 0.062(4) -.034(9) 0.089(10) -.015(4)
+O2 O2- 0.199(11) 0.032(3) 0.081(5) 0.008(5) 0.066(7) 0.002(3)
+N1 N3+ 0.055(3) 0.028(2) 0.034(2) -.003(2) 0.016(3) 0.000(2)
+B1 B0+ 0.033(3) 0.028(3) 0.032(3) 0.001(3) 0.005(3) -.003(2)
+B2 B0+ 0.035(3) 0.035(3) 0.028(3) 0.002(4) -.001(3) 0.001(3)
+B3 B0+ 0.033(3) 0.026(3) 0.036(3) -.003(2) 0.000(3) -.002(2)
+B4 B0+ 0.032(3) 0.032(3) 0.032(4) 0.003(3) 0.000(3) 0.000(3)
+#End of TTdata_401681-ICSD

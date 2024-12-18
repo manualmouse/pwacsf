@@ -1,0 +1,65 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100156-ICSD
+_database_code_ICSD 100156
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_common 'Sodium arsenic sulfide'
+_chemical_formula_structural 'Na As S2'
+_chemical_formula_sum 'As1 Na1 S2'
+_chemical_name_structure_type AsNaS2
+_exptl_crystal_density_diffrn 2.91
+_citation_title 'Na As S2, a synthetic sulfosalt related to the Na Cl type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1977 146 43 52 ZEKRDZ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Iglesias, J.E.'
+primary 'Zuniga, F.J.'
+primary 'Nowacki, W.'
+_cell_length_a 5.867(2)
+_cell_length_b 11.305(3)
+_cell_length_c 5.586(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.95(2)
+_cell_angle_gamma 90.
+_cell_volume 370.01
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/c 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+As3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 4 e 0.0094(5) 0.1249(2) 0.2690(5) . 1.
+As1 As3+ 4 e 0.4612(1) 0.1410(1) 0.7786(1) . 1.
+S1 S2- 4 e 0.5235(3) 0.1604(2) 0.3693(3) . 1.
+S2 S2- 4 e 0.0906(3) 0.3756(2) 0.2750(3) . 1.
+#End of TTdata_100156-ICSD

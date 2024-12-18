@@ -1,0 +1,90 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_17018-ICSD
+_database_code_ICSD 17018
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_common 'Cesium aluminium beryllium boron oxide (1/4/4/12/28)'
+_chemical_formula_structural 'Cs (Al4 Be4 B12 O28)'
+_chemical_formula_sum 'Al4 B12 Be4 Cs1 O28'
+_chemical_name_structure_type CsAl4Be4B12O28
+_chemical_name_mineral Rhodizite
+_exptl_crystal_density_diffrn 3.62
+_citation_title 'Rhodizite. Structure and composition'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Science (Washington, DC, United States)' 1966 152 500 502 SCIEAS
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Buerger, M.J.'
+primary 'Taxer, K.J.'
+_cell_length_a 7.319(1)
+_cell_length_b 7.319(1)
+_cell_length_c 7.319(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 392.06
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P -4 3 m'
+_space_group_IT_number 215
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z, -y, x'
+2 '-y, -x, z'
+3 '-x, -z, y'
+4 '-z, -x, y'
+5 '-y, -z, x'
+6 '-x, -y, z'
+7 '-z, y, -x'
+8 '-y, x, -z'
+9 '-x, z, -y'
+10 '-z, x, -y'
+11 '-y, z, -x'
+12 '-x, y, -z'
+13 'z, -y, -x'
+14 'y, -x, -z'
+15 'x, -z, -y'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 'z, y, x'
+20 'y, x, z'
+21 'x, z, y'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+B2+ 2.917
+Be2+ 2
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 1 a 0 0 0 1.02(4) 1.
+B1 B2+ 12 h 0.245(2) 0.5 0 0.8(4) 1.
+Be1 Be2+ 4 e 0.755(3) 0.755(3) 0.755(3) 1.4(3) 1.
+Al1 Al3+ 4 e 0.3575(5) 0.3575(5) 0.3575(3) 0.55(6) 1.
+O1 O2- 4 e 0.6195(9) 0.6195(9) 0.6195(9) 0.51(14) 1.
+O2 O2- 12 i 0.3635(6) 0.3635(6) 0.1017(6) 0.32(6) 1.
+O3 O2- 12 i 0.1339(8) 0.1339(8) 0.6019(8) 0.75(9) 1.
+#End of TTdata_17018-ICSD

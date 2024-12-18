@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248201-ICSD
+_database_code_ICSD 248201
+_audit_creation_date 2011-02-01
+_chemical_name_common 'Sodium beryllium triborate'
+_chemical_formula_structural 'Na Be B3 O6'
+_chemical_formula_sum 'B3 Be1 Na1 O6'
+_exptl_crystal_density_diffrn 2.23
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Alkaline beryllium borate Na Be B3 O6 and A Be2 B3 O7 (A = K, Rb) as UV
+nonlinear optical crystals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2010 132 8779 8786 JACSAT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wang Shichao'
+primary 'Ye Ning'
+primary 'Li Wei'
+primary 'Zhao Dan'
+_cell_length_a 9.153(6)
+_cell_length_b 11.934(8)
+_cell_length_c 4.372(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 477.56
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Be2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 4 a 0.67295(11) 0.38903(9) 0.2748(3) 0.0284(3) 1
+Be1 Be2+ 4 a 0.9084(3) 0.4573(3) -0.1701(8) 0.0145(7) 1
+B1 B3+ 4 a 0.9309(3) 0.2446(2) -0.1194(7) 0.0156(6) 1
+B2 B3+ 4 a 0.5839(3) 0.1641(2) 0.5005(7) 0.0154(6) 1
+B3 B3+ 4 a 0.7783(3) 0.1038(2) 0.1607(7) 0.0153(6) 1
+O1 O2- 4 a 0.88438(17) 0.33995(14) -0.0019(4) 0.0159(4) 1
+O2 O2- 4 a 0.52980(18) 0.25971(14) 0.6370(5) 0.0199(4) 1
+O3 O2- 4 a 0.53778(16) 0.05886(13) 0.5668(4) 0.0142(4) 1
+O4 O2- 4 a 0.69571(17) 0.18778(14) 0.2990(4) 0.0194(4) 1
+O5 O2- 4 a 0.75483(16) 0.49623(13) 0.6835(5) 0.0178(4) 1
+O6 O2- 4 a 0.39676(18) 0.36262(14) -0.0171(4) 0.0209(5) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0294(5) 0.0233(6) 0.0326(7) -0.0035(5) 0.0065(5) -0.0068(6)
+Be1 Be2+ 0.0143(13) 0.0100(16) 0.0192(18) 0.0016(12) -0.0016(14) 0.0001(14)
+B1 B3+ 0.0136(12) 0.0153(14) 0.0179(15) 0.0002(11) 0.0030(11) 0.0023(12)
+B2 B3+ 0.0144(12) 0.0159(14) 0.0158(14) -0.0005(11) -0.0001(12) 0.0037(12)
+B3 B3+ 0.0157(12) 0.0122(14) 0.0181(14) -0.0001(11) 0.0017(11) 0.0003(13)
+O1 O2- 0.0199(8) 0.0109(8) 0.0168(9) 0.0016(7) 0.0052(7) -0.0003(7)
+O2 O2- 0.0244(9) 0.0115(9) 0.0237(10) 0.0001(7) 0.0122(8) -0.0012(8)
+O3 O2- 0.0155(8) 0.0117(9) 0.0153(9) -0.0006(7) 0.0017(7) -0.0002(7)
+O4 O2- 0.0226(8) 0.0110(8) 0.0247(10) -0.0003(7) 0.0123(9) 0.0000(9)
+O5 O2- 0.0184(8) 0.0112(8) 0.0239(10) 0.0008(7) -0.0052(7) -0.0024(7)
+O6 O2- 0.0232(9) 0.0118(9) 0.0276(11) -0.0009(7) 0.0151(8) -0.0012(8)
+#End of TTdata_248201-ICSD

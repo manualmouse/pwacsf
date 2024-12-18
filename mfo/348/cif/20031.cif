@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20031-ICSD
+_database_code_ICSD 20031
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-05-21
+_chemical_name_common 'Dilithium cadmium germanate'
+_chemical_formula_structural 'Li2 Cd Ge O4'
+_chemical_formula_sum 'Cd1 Ge1 Li2 O4'
+_chemical_name_structure_type Enargite#Cu3AsS4
+_exptl_crystal_density_diffrn 4.69
+_citation_title
+
+;
+Crystallization of germanates in system Li2 O - Cd O - Ge O2 - H2 O and the
+crystal structure of Li, Cd - orthogermanates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1971 200 329 332 DANKAS
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Korjakina, N.S.'
+primary 'Suvorova, N.V.'
+primary 'Dem'yanets, L.N. (Demyanets, L.N.)'
+primary 'Maksimov, B.A.'
+primary 'Ilyukhin, V.V.'
+primary 'Belov, N.V.'
+_cell_length_a 6.64
+_cell_length_b 5.47
+_cell_length_c 5.13
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 186.33
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P m n 21'
+_space_group_IT_number 31
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Ge4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cd1 Cd2+ 2 a 0 0.179 0 -.281 1.
+Ge1 Ge4+ 2 a 0.5 0.187 0.001 -.131 1.
+Li1 Li1+ 4 b 0.259 0.333 0.51 -.348 1.
+O1 O2- 4 b 0.286 0.34 0.893 -.328 1.
+O2 O2- 2 a 0 0.16 0.441 0.095 1.
+O3 O2- 2 a 0.5 0.194 0.38 -.224 1.
+#End of TTdata_20031-ICSD

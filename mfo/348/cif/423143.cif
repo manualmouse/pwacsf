@@ -1,0 +1,114 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423143-ICSD
+_database_code_ICSD 423143
+_audit_creation_date 2012-02-01
+_chemical_name_common
+'Sodium tristrontium triberyllium tris(trioxoborate) tetrafluoride'
+_chemical_formula_structural 'Na Sr3 Be3 (B O3)3 F4'
+_chemical_formula_sum 'B3 Be3 F4 Na1 O9 Sr3'
+_exptl_crystal_density_diffrn 3.59
+_diffrn_ambient_temperature 93.
+_citation_title
+
+;
+Na Sr3 Be3 B3 O9 F4: A promising deep-ultraviolet nonlinear optical material
+resulting from the cooperative alignment of the [Be3 B3 O12 F]10- anionic
+group
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2011 50 9141 9144 ACIEF5
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Huang Hongwei'
+primary 'Yao Jiyong'
+primary 'Lin Zheshuai'
+primary 'Wang Xiaoyang'
+primary 'He Ran'
+primary 'Yao Wenjiao'
+primary 'Zhai Naixia'
+primary 'Chen Chuangtian'
+_cell_length_a 10.4466(13)
+_cell_length_b 10.4466(13)
+_cell_length_c 8.3093(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 785.32
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 m H'
+_space_group_IT_number 160
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+Be2+ 2
+B3+ 3
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 9 b 0.20209(3) 0.79791(3) 0.27979(8) 0.00752(13) 1
+Na1 Na1+ 3 a 0. 0. 0.2814(6) 0.0163(11) 1
+Be1 Be2+ 9 b 0.7515(4) 0.2485(4) 0.3127(9) 0.0025(13) 1
+B1 B3+ 9 b 0.5136(4) 0.4864(4) 0.4230(8) 0.0068(13) 1
+F1 F1- 9 b 0.4278(2) 0.5722(2) 0.1195(5) 0.0106(8) 1
+F2 F1- 3 a 0. 0. 0.0009(9) 0.0164(15) 1
+O1 O2- 18 c 0.2396(3) 0.0041(3) 0.0669(4) 0.0090(6) 1
+O2 O2- 9 b 0.7719(2) 0.2281(2) 0.1302(6) 0.0117(9) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0082(2) 0.0082(2) 0.0081(2) 0.0055(3) 0.00019(12) -0.00019(12)
+Na1 Na1+ 0.0190(16) 0.0190(16) 0.011(2) 0.0095(8) 0. 0.
+Be1 Be2+ 0.002(2) 0.002(2) 0.004(3) 0.001(3) 0.0010(12) -0.0010(12)
+B1 B3+ 0.002(2) 0.002(2) 0.004(3) 0.001(3) 0.0010(12) -0.0010(12)
+F1 F1- 0.0091(13) 0.0091(13) 0.0135(19) 0.0043(15) 0.0012(8) -0.0012(8)
+F2 F1- 0.018(2) 0.018(2) 0.012(3) 0.0092(11) 0. 0.
+O1 O2- 0.0093(15) 0.0048(14) 0.0130(16) 0.0036(12) -0.0034(12) -0.0016(12)
+O2 O2- 0.0126(17) 0.0126(17) 0.017(2) 0.012(2) -0.0005(9) 0.0005(9)
+#End of TTdata_423143-ICSD

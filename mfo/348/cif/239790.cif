@@ -1,0 +1,91 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239790-ICSD
+_database_code_ICSD 239790
+_audit_creation_date 2016-08-01
+_chemical_name_common 'Oxo tetralead(II) dilead hexaborate'
+_chemical_formula_structural '(Pb4 O) Pb2 B6 O14'
+_chemical_formula_sum 'B6 O15 Pb6'
+_exptl_crystal_density_diffrn 7.16
+_citation_title
+
+;
+Synthesis, characterization, and theoretical studies of (Pb4 O) Pb2 B6 O14: a
+new lead(I I) borate with isolated oxygen-centered Pb4 O tetrahedra and large
+second harmonic generation response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2016 120 12757 12764 JPCCCK
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Zhang, Fangfang'
+primary 'Zhang, Fangyuan'
+primary 'Lei, Bing-Hua'
+primary 'Yang, Zhihua'
+primary 'Pan, Shilie'
+_cell_length_a 6.9536(13)
+_cell_length_b 7.2026(13)
+_cell_length_c 7.8003(14)
+_cell_angle_alpha 76.248(11)
+_cell_angle_beta 76.649(11)
+_cell_angle_gamma 73.982(12)
+_cell_volume 358.97
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Pb1 Pb2+ 1 a 0.6868(1) -0.0579(1) 0.0117(1) 0.009(1) 1.
+Pb2 Pb2+ 1 a 0.2521(1) -0.1080(1) 0.8678(1) 0.009(1) 1.
+Pb3 Pb2+ 1 a 0.4387(1) 0.4295(1) 0.1818(1) 0.010(1) 1.
+Pb4 Pb2+ 1 a 0.8812(1) 0.5005(1) 0.3371(1) 0.011(1) 1.
+Pb5 Pb2+ 1 a 0.7027(1) 0.0253(1) 0.4971(1) 0.011(1) 1.
+Pb6 Pb2+ 1 a 0.3509(1) 0.4094(1) 0.6765(1) 0.012(1) 1.
+B1 B3+ 1 a 0.2190(30) 0.0960(30) 0.4930(30) 0.003(4) 1.
+B2 B3+ 1 a 0.2070(40) 0.0950(30) 0.1690(30) 0.004(4) 1.
+B3 B3+ 1 a 0.8830(40) 0.2870(30) 0.0160(30) 0.008(5) 1.
+B4 B3+ 1 a 0.7240(40) -0.4180(30) 0.8070(30) 0.010(5) 1.
+B5 B3+ 1 a 0.8830(40) 0.2470(30) 0.7100(30) 0.012(5) 1.
+B6 B3+ 1 a 0.1710(30) 0.7920(30) 0.4110(30) 0.005(4) 1.
+O1 O2- 1 a 0.3540(20) 0.1070(20) 0.6114(18) 0.007(3) 1.
+O2 O2- 1 a 0.7310(20) 0.1240(20) 0.7406(18) 0.009(3) 1.
+O3 O2- 1 a 0.7140(20) 0.2015(19) 0.1084(18) 0.006(3) 1.
+O4 O2- 1 a 0.6160(20) -0.2350(20) 0.7780(20) 0.015(3) 1.
+O5 O2- 1 a 0.8100(20) 0.5003(19) -0.0374(17) 0.004(3) 1.
+O6 O2- 1 a -0.0070(20) 0.2078(18) 0.8516(17) 0.005(3) 1.
+O7 O2- 1 a 0.1940(20) -0.1090(20) 0.5381(17) 0.009(3) 1.
+O8 O2- 1 a 0.3590(20) 0.0840(20) 0.0032(18) 0.009(3) 1.
+O9 O2- 1 a 0.0150(20) 0.2240(20) 0.5293(17) 0.009(3) 1.
+O10 O2- 1 a 0.3070(20) 0.1457(19) 0.3019(17) 0.005(3) 1.
+O11 O2- 1 a 0.1570(20) -0.0924(19) 0.2386(18) 0.005(3) 1.
+O12 O2- 1 a 0.1720(20) 0.6020(20) 0.4485(18) 0.008(3) 1.
+O13 O2- 1 a 0.0310(20) 0.2630(20) 0.1369(19) 0.013(3) 1.
+O14 O2- 1 a 0.5880(20) 0.3720(20) 0.4180(20) 0.014(3) 1.
+O15 O2- 1 a 0.7670(20) 0.4560(20) 0.6830(20) 0.013(3) 1.
+#End of TTdata_239790-ICSD

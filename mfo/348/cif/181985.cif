@@ -1,0 +1,87 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_181985-ICSD
+_database_code_ICSD 181985
+_audit_creation_date 2012-02-01
+_audit_update_record 2013-08-01
+_chemical_name_common 'Barium tetraaluminium heptaselenide'
+_chemical_formula_structural 'Ba Al4 Se7'
+_chemical_formula_sum 'Al4 Ba1 Se7'
+_chemical_name_structure_type BaAl4Se7
+_exptl_crystal_density_diffrn 4.36
+_diffrn_ambient_temperature 93.
+_citation_title
+'Ba Al4 Se7: a new infrared nonlinear optical material with a large band gap'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2011 40 3610 3615 DTARAF
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Mei, Da Jiang'
+primary 'Yin, Wen Long'
+primary 'Bai, Lei'
+primary 'Lin, Zhe Shuai'
+primary 'Yao, Ji Yong'
+primary 'Fu, Pei Zhen'
+primary 'Wu, Yi Cheng'
+_cell_length_a 7.5563(15)
+_cell_length_b 6.4524(13)
+_cell_length_c 14.574(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 121.23(2)
+_cell_angle_gamma 90.
+_cell_volume 607.61
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 c 1'
+_space_group_IT_number 7
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Al3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 2 a 0.43540(13) 0.64073(14) 0.95456(10) 0.0139(2) 1
+Al1 Al3+ 2 a 0.9931(6) 0.8379(5) 0.2586(3) 0.0035(7) 1
+Al2 Al3+ 2 a 0.9977(6) 0.9901(5) 0.9977(4) 0.0049(8) 1
+Al3 Al3+ 2 a 0.5087(7) 0.8463(5) 0.2710(3) 0.0052(7) 1
+Al4 Al3+ 2 a 0.7659(7) 0.6349(6) 0.7754(4) 0.0063(8) 1
+Se1 Se2- 2 a 0.2104(2) 0.85303(16) 0.44601(15) 0.0068(3) 1
+Se2 Se2- 2 a 0.9887(3) 0.6367(2) 0.9589(2) 0.0106(3) 1
+Se3 Se2- 2 a 0.6714(2) 0.89241(17) 0.45499(15) 0.0094(3) 1
+Se4 Se2- 2 a 0.6727(2) 0.97843(16) 0.69167(14) 0.0027(3) 1
+Se5 Se2- 2 a 0.9074(3) 0.48862(17) 0.68141(14) 0.0083(3) 1
+Se6 Se2- 2 a 0.4361(3) 0.49950(16) 0.71862(14) 0.0074(3) 1
+Se7 Se2- 2 a 0.1812(2) 0.97397(17) 0.69342(14) 0.0041(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0139(7) 0.0169(4) 0.0050(4) -0.0024(3) 0.0007(6) -0.0033(4)
+#End of TTdata_181985-ICSD

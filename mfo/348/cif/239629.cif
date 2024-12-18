@@ -1,0 +1,118 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239629-ICSD
+_database_code_ICSD 239629
+_audit_creation_date 2016-08-01
+_chemical_name_common 'Trilithium dicesium dilead triborohexaphosphate'
+_chemical_formula_structural 'Li3 Cs2 Pb2 B3 P6 O24'
+_chemical_formula_sum 'B3 Cs2 Li3 O24 P6 Pb2'
+_exptl_crystal_density_diffrn 4.2
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Li3 Cs2 M2 B3 P6 O24 (M = Pb, Sr): borophosphates with double six-membered
+ring of [B P2 O8]3-
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2016 45 7124 7130 DTARAF
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Zhang, Li-Jun'
+primary 'Li, Yan-Yan'
+primary 'Liu, Peng-Fei'
+primary 'Chen, Ling'
+_cell_length_a 12.7246(3)
+_cell_length_b 12.7246(3)
+_cell_length_c 12.7246(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2060.3
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 3'
+_space_group_IT_number 198
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Pb2+ 2
+Li1+ 1
+B3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 4 a 0.64945(3) 0.35055(3) 0.85055(3) 0.01620(14) 1
+Cs2 Cs1+ 4 a 0.15382(3) 0.65382(3) 0.84618(3) 0.02271(15) 1
+Pb1 Pb2+ 4 a 0.406328(15) 0.093672(15) 0.906328(15) 0.00908(8) 1
+Pb2 Pb2+ 4 a 0.435825(16) 0.564175(16) 0.064175(16) 0.01189(9) 1
+Li1 Li1+ 12 b 0.4376(7) 0.5989(7) 0.8034(6) 0.0128(18) 1
+B1 B3+ 12 b 0.8670(4) 0.6185(4) 0.8527(4) 0.0051(11) 1
+P1 P5+ 12 b 0.58559(10) 0.31572(9) 0.55452(10) 0.0056(3) 1
+P2 P5+ 12 b 0.65273(10) 0.63611(10) 0.87812(10) 0.0059(3) 1
+O1 O2- 12 b 0.4041(2) 0.7081(2) 0.8998(2) 0.0121(8) 1
+O2 O2- 12 b 0.6026(2) 0.3040(2) 0.4338(2) 0.0064(7) 1
+O3 O2- 12 b 0.5863(2) 0.6054(2) 0.7847(2) 0.0097(7) 1
+O4 O2- 12 b 0.4712(2) 0.3598(2) 0.5604(2) 0.0079(7) 1
+O5 O2- 12 b 0.6602(2) 0.3941(2) 0.6023(2) 0.0118(8) 1
+O6 O2- 12 b 0.7614(2) 0.5798(2) 0.8668(2) 0.0092(8) 1
+O7 O2- 12 b 0.6768(3) 0.7545(2) 0.8806(3) 0.0110(8) 1
+O8 O2- 12 b 0.6064(2) 0.6005(3) 0.9814(2) 0.0113(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.01620(14) 0.01620(14) 0.01620(14) -0.00171(15) -0.00171(15)
+0.00171(15)
+Cs2 Cs1+ 0.02271(15) 0.02271(15) 0.02271(15) -0.00397(16) 0.00397(16)
+0.00397(16)
+Pb1 Pb2+ 0.00908(8) 0.00908(8) 0.00908(8) 0.00005(8) -0.00005(8) 0.00005(8)
+Pb2 Pb2+ 0.01189(9) 0.01189(9) 0.01189(9) -0.00053(8) -0.00053(8) 0.00053(8)
+B1 B3+ 0.007(3) 0.002(3) 0.006(3) 0.000(2) -0.002(2) 0.001(2)
+P1 P5+ 0.0046(7) 0.0068(6) 0.0054(6) -0.0006(5) 0.0002(5) 0.0016(5)
+P2 P5+ 0.0054(7) 0.0055(6) 0.0066(7) 0.0004(5) -0.0007(5) -0.0002(5)
+O1 O2- 0.0137(19) 0.0082(18) 0.0144(18) -0.0007(15) 0.0037(18) -0.0053(15)
+O2 O2- 0.0068(17) 0.0064(17) 0.0060(17) -0.0012(14) 0.0030(15) 0.0011(14)
+O3 O2- 0.0064(18) 0.0129(18) 0.0098(17) 0.0018(16) -0.0036(15) -0.0015(14)
+O4 O2- 0.0043(16) 0.0147(19) 0.0046(17) 0.0020(14) 0.0022(14) 0.0024(15)
+O5 O2- 0.0087(18) 0.0151(19) 0.0117(18) -0.0061(15) -0.0025(15) -0.0013(16)
+O6 O2- 0.0019(16) 0.0084(19) 0.0173(19) 0.0017(14) -0.0008(14) -0.0010(15)
+O8 O2- 0.0080(18) 0.020(2) 0.0055(17) 0.0011(17) -0.0002(14) 0.0032(15)
+#End of TTdata_239629-ICSD

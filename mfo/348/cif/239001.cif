@@ -1,0 +1,108 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239001-ICSD
+_database_code_ICSD 239001
+_audit_creation_date 2016-02-01
+_chemical_name_common 'Sodium tetracalcium triborate'
+_chemical_formula_structural 'Na Ca4 B3 O9'
+_chemical_formula_sum 'B3 Ca4 Na1 O9'
+_chemical_name_structure_type NaCa4(BO3)3
+_exptl_crystal_density_diffrn 3.06
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Effect of cation substitution on structural transition: synthesis,
+characterization and theoretical studies of Na Ca4 B3 O9, Na Ca B O3, Na Sr B
+O3 and Li4 Ca B2 O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Chemistry Chemical Physics' 2015 17 26359 26368 PPCPFQ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yang, Yun'
+primary 'Su, Xin'
+primary 'Pan, Shilie'
+primary 'Yang, Zhihua'
+_cell_length_a 10.686(2)
+_cell_length_b 11.264(3)
+_cell_length_c 6.4834(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 780.38
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'A m a 2'
+_space_group_IT_number 40
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+O2- -2
+Na1+ 1
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ca1 Ca2+ 8 c 0.97235(4) 0.71408(4) 1.10867(9) 0.00776(14) 1
+Ca2 Ca2+ 4 a 1. 1. 0.96690(12) 0.01186(18) 1
+Ca3 Ca2+ 4 b 0.75 0.64982(7) 0.74219(11) 0.00814(18) 1
+O1 O2- 4 b 0.75 0.6419(2) 1.1127(5) 0.0118(6) 1
+O2 O2- 4 a 1. 1. 0.6021(6) 0.0164(6) 1
+O3 O2- 8 c 0.97144(15) 1.10214(18) 1.2877(3) 0.0096(4) 1
+O4 O2- 8 c 0.86107(15) 0.83847(15) 0.8622(3) 0.0123(4) 1
+O5 O2- 8 c 0.86113(16) 0.69059(17) 1.4217(3) 0.0121(4) 1
+O6 O2- 4 b 0.75 0.4555(3) 0.6124(5) 0.0226(7) 1
+Na1 Na1+ 4 b 0.75 0.42493(19) 1.0385(3) 0.0329(5) 1
+B1 B3+ 4 b 0.75 0.3779(4) 0.4541(8) 0.0117(8) 1
+B2 B3+ 4 b 0.75 0.6715(4) 1.3161(7) 0.0088(8) 1
+B3 B3+ 4 a 1. 1. 0.3924(7) 0.0093(9) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0087(2) 0.0075(2) 0.0070(3) -0.00091(19) 0.0001(2) -0.0001(2)
+Ca2 Ca2+ 0.0216(4) 0.0070(4) 0.0070(4) -0.0016(3) 0. 0.
+Ca3 Ca2+ 0.0073(3) 0.0091(4) 0.0080(4) 0. 0. -0.0007(3)
+O1 O2- 0.0118(13) 0.0180(15) 0.0056(12) 0. 0. -0.0007(12)
+O2 O2- 0.0286(17) 0.0122(14) 0.0083(13) 0.0067(11) 0. 0.
+O3 O2- 0.0122(8) 0.0087(10) 0.0078(9) 0.0017(7) -0.0012(8) -0.0003(6)
+O4 O2- 0.0081(9) 0.0128(10) 0.0160(10) -0.0002(7) 0.0011(7) 0.0001(9)
+O5 O2- 0.0078(8) 0.0198(10) 0.0087(10) -0.0022(7) -0.0014(7) 0.0006(7)
+O6 O2- 0.0179(14) 0.0175(15) 0.0325(18) 0. 0. -0.0139(16)
+Na1 Na1+ 0.0211(8) 0.0295(11) 0.0480(14) 0. 0. 0.0203(9)
+B1 B3+ 0.0138(19) 0.0021(18) 0.019(2) 0. 0. 0.0010(17)
+B2 B3+ 0.0072(18) 0.010(2) 0.010(2) 0. 0. 0.0043(15)
+B3 B3+ 0.0032(17) 0.014(2) 0.011(2) -0.0015(14) 0. 0.
+#End of TTdata_239001-ICSD

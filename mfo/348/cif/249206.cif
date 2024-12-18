@@ -1,0 +1,92 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249206-ICSD
+_database_code_ICSD 249206
+_audit_creation_date 2008-02-01
+_audit_update_record 2013-02-01
+_chemical_name_common 'Tin(II) tetraborate - beta'
+_chemical_formula_structural 'Sn (B4 O7)'
+_chemical_formula_sum 'B4 O7 Sn1'
+_chemical_name_structure_type SrB4O7
+_exptl_crystal_density_diffrn 4.45
+_citation_title
+
+;
+Pressure-induced crystallization and characterization of the tin borate beta -
+Sn B4 O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2007 19 254 262 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Knyrim, J.S.'
+primary 'Schappacher, F.M.'
+primary 'Poettgen, R.'
+primary 'Schmedt auf der Guenne, J.'
+primary 'Johrendt, D.'
+primary 'Huppertz, H.'
+_cell_length_a 10.8534(4)
+_cell_length_b 4.4484(3)
+_cell_length_c 4.2343(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 204.43
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P m n 21'
+_space_group_IT_number 31
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sn1 Sn2+ 2 a 1. 0.82402(5) 0.89554(5) 0.00855(10) 1
+B1 B3+ 4 b 0.1225(3) 0.3272(6) 0.4435(10) 0.0039(12) 1
+B2 B3+ 4 b 0.2481(3) 0.1749(6) 0.9742(7) 0.0022(6) 1
+O1 O2- 4 b 0.2197(2) 0.1298(4) 0.6188(5) 0.0032(4) 1
+O2 O2- 4 b 0.1422(2) 0.6426(4) 0.5237(5) 0.0042(4) 1
+O3 O2- 4 b 0.1372(2) 0.2733(5) 0.1116(5) 0.0040(4) 1
+O4 O2- 2 a 1. 0.2309(6) 0.5541(6) 0.0029(5) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn2+ 0.00749(13) 0.01160(12) 0.00655(12) 0. 0. 0.0016(2)
+B1 B3+ 0.0038(12) 0.0019(9) 0.006(4) -0.0003(9) -0.0008(10) -0.0004(10)
+B2 B3+ 0.0041(14) 0.0020(10) 0.0010(19) 0.0003(10) 0.0001(8) 0.0000(8)
+O1 O2- 0.0052(10) 0.0021(8) 0.0022(8) 0.0015(7) -0.0010(8) -0.0002(7)
+O2 O2- 0.0051(10) 0.0025(8) 0.0051(7) 0.0005(7) 0.0010(7) -0.0009(7)
+O3 O2- 0.0044(10) 0.0053(8) 0.0024(9) 0.0015(7) -0.0005(7) -0.0010(6)
+O4 O2- 0.0022(14) 0.0029(11) 0.0037(14) 0. 0. 0.0028(9)
+#End of TTdata_249206-ICSD

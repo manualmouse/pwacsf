@@ -1,0 +1,86 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59854-ICSD
+_database_code_ICSD 59854
+_audit_creation_date 2005-10-01
+_audit_update_record 2013-02-01
+_chemical_name_common 'Rubidium lead phosphorus tetrasulfide'
+_chemical_formula_structural 'Rb Pb P S4'
+_chemical_formula_sum 'P1 Pb1 Rb1 S4'
+_chemical_name_structure_type CsSmGeSe4
+_exptl_crystal_density_diffrn 4.05
+_diffrn_ambient_temperature 153.
+_citation_title 'Rb Pb P S4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2004 60
+i108 i110 ACSEBH
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yao,  J.'
+primary 'Ibers, J.A.'
+_cell_length_a 6.3987(7)
+_cell_length_b 6.6899(7)
+_cell_length_c 17.2975(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 740.45
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 21 21'
+_space_group_IT_number 19
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Pb2+ 2
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Rb1 Rb1+ 4 a 0.02119(9) 0.00342(8) 0.04319(3) 0.02110(13) 1
+Pb1 Pb2+ 4 a 0.28891(3) 0.47494(3) 0.230842(12) 0.01418(7) 1
+P1 P5+ 4 a 0.2189(2) 0.01031(19) 0.34791(8) 0.0100(3) 1
+S1 S2- 4 a 0.1533(2) 0.0316(2) 0.23134(8) 0.0131(3) 1
+S2 S2- 4 a 0.3990(2) 0.25142(19) 0.37520(10) 0.0142(3) 1
+S3 S2- 4 a 0.6101(3) 0.25876(19) 0.13163(10) 0.0134(3) 1
+S4 S2- 4 a 0.0472(2) 0.5039(2) 0.08806(8) 0.0135(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0374(3) 0.0118(3) 0.0142(3) -0.0009(2) 0.0062(2) -0.0007(2)
+Pb1 Pb2+ 0.01344(10) 0.01498(11) 0.01413(11) 0.00007(8) -0.00011(8) 0.00066(9)
+P1 P5+ 0.0121(6) 0.0077(6) 0.0103(6) -0.0002(6) 0.0001(5) 0.0003(5)
+S1 S2- 0.0152(6) 0.0152(6) 0.0089(6) -0.0015(5) 0.0010(5) 0.0003(7)
+S2 S2- 0.0181(8) 0.0069(6) 0.0178(8) -0.0015(5) -0.0035(7) 0.0000(5)
+S3 S2- 0.0176(7) 0.0070(6) 0.0155(8) -0.0013(5) 0.0000(6) 0.0004(5)
+S4 S2- 0.0158(6) 0.0130(7) 0.0116(6) 0.0004(6) 0.0045(5) 0.0004(6)
+#End of TTdata_59854-ICSD

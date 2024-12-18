@@ -1,0 +1,99 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237913-ICSD
+_database_code_ICSD 237913
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Tetrabarium copper(I) pentagallium dodecasulfide'
+_chemical_formula_structural 'Ba4 Cu Ga5 S12'
+_chemical_formula_sum 'Ba4 Cu1 Ga5 S12'
+_exptl_crystal_density_diffrn 4.17
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+New metal chalcogenides Ba4 Cu Ga5 Q12 (Q = S, Se) displaying strong infrared
+nonlinear optical response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2013 25 2427 2433 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kuo, Shu-Ming'
+primary 'Chang, Yu-Ming'
+primary 'Chung, In'
+primary 'Jang, Joon-Ik'
+primary 'Her, Bo-Hsian'
+primary 'Yang, Siao-Han'
+primary 'Ketterson, John B.'
+primary 'Kanatzidis, Mercouri G.'
+primary 'Hsu, Kuei-Fang'
+_cell_length_a 13.0397(12)
+_cell_length_b 13.0397(12)
+_cell_length_c 6.3042(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1071.92
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -4 21 c'
+_space_group_IT_number 114
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ga3+ 3
+Cu1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 8 e 0.21665(3) 0.53251(3) 0.45668(7) 0.02312(13) 1
+Ga1 Ga3+ 8 e 0.13519(4) 0.24754(4) 0.44819(10) 0.01146(14) 1
+Ga2 Ga3+ 2 b 0. 0. 0.5 0.0103(2) 1
+Cu1 Cu1+ 4 d 0. 0.5 0.7071(3) 0.0097(3) 0.5
+S1 S2- 8 e 0.00520(11) 0.36215(10) 0.4592(2) 0.0167(3) 1
+S2 S2- 8 e 0.07991(11) 0.10779(10) 0.2693(2) 0.0140(3) 1
+S3 S2- 8 e 0.28134(10) 0.30687(11) 0.2835(2) 0.0150(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0256(2) 0.02148(19) 0.02224(18) 0.00287(14) 0.00049(15) -0.00469(15)
+Ga1 Ga3+ 0.0118(3) 0.0111(3) 0.0115(3) -0.0004(2) -0.0004(2) 0.0003(2)
+Ga2 Ga3+ 0.0100(3) 0.0100(3) 0.0109(5) 0. 0. 0.
+Cu1 Cu1+ 0.0088(8) 0.0080(8) 0.0122(7) -0.0029(6) 0. 0.
+S1 S2- 0.0172(6) 0.0139(6) 0.0189(6) 0.0051(5) -0.0016(6) -0.0009(5)
+S2 S2- 0.0174(6) 0.0112(6) 0.0133(6) -0.0042(5) 0.0017(5) -0.0006(5)
+S3 S2- 0.0113(6) 0.0214(7) 0.0123(6) -0.0014(5) -0.0011(5) 0.0034(5)
+#End of TTdata_237913-ICSD

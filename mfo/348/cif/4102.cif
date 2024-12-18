@@ -1,0 +1,72 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_4102-ICSD
+_database_code_ICSD 4102
+_audit_creation_date 1980-01-01
+_audit_update_record 1990-12-21
+_chemical_name_common 'Cadmium tetrakis(thiocyanato)mercurate'
+_chemical_formula_structural 'Cd (Hg (S C N)4)'
+_chemical_formula_sum 'C4 Cd1 Hg1 N4 S4'
+_chemical_name_structure_type Co(Hg(SCN)4)
+_exptl_crystal_density_diffrn 3.23
+_citation_title 'Crystal structure of cadmium mercury(ii) thiocyanate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Koordinatsionnaya Khimiya' 1975 1 252 254 KOKHDC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Fedorov, P.M.'
+primary 'Andreyanova, L.S.'
+primary 'Pachomov, V.I.'
+_cell_length_a 11.49(2)
+_cell_length_b 11.49(2)
+_cell_length_c 4.25(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 561.09
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'I -4'
+_space_group_IT_number 82
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Cd2+ 2
+S2- -2
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Hg1 Hg2+ 2 a 0 0 0 1.59 1.
+Cd1 Cd2+ 2 d 0.5 0 0.25 1.48 1.
+S1 S2- 8 g 0.130(1) 0.142(1) 0.311(3) 1.74 1.
+N1 N3- 8 g 0.058(3) 0.352(3) 0.069(5) 1.73 1.
+C1 C4+ 8 g 0.072(2) 0.262(2) 0.223(7) 2.46 1.
+#End of TTdata_4102-ICSD

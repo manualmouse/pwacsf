@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173746-ICSD
+_database_code_ICSD 173746
+_audit_creation_date 2009-08-01
+_chemical_name_common 'Bismuth triborate - epsilon'
+_chemical_formula_structural 'Bi (B3 O6)'
+_chemical_formula_sum 'B3 Bi1 O6'
+_exptl_crystal_density_diffrn 6.29
+_diffrn_ambient_temperature 293.
+_diffrn_ambient_pressure 8340000.
+_citation_title
+
+;
+High-pressure crystal structure of the non-linear optical compound Bi B3 O6
+from two-dimensional powder diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2009 65 1 10
+ASBSDK
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Dinnebier, R.E.'
+primary 'Hinrichsen, B.'
+primary 'Lennie, A.'
+primary 'Jansen, M.'
+_cell_length_a 7.4781(6)
+_cell_length_b 3.9340(4)
+_cell_length_c 6.2321(6)
+_cell_angle_alpha 93.728(8)
+_cell_angle_beta 102.933(6)
+_cell_angle_gamma 90.756(7)
+_cell_volume 178.24
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y, z'
+2 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Bi1 Bi3+ 2 a 0.9955(12) 0.0418(19) 0.9874(19) . 1
+B1 B3+ 2 a 0.4628(18) 0.121(3) 0.4501(19) . 1
+B2 B3+ 2 a 0.2601(16) -0.041(3) 0.6695(11) . 1
+B3 B3+ 2 a 0.7338(16) 0.009(4) 0.242(2) . 1
+O1 O2- 2 a 0.2818(10) -0.0495(17) 0.4533(17) . 1
+O2 O2- 2 a 0.5886(10) -0.078(2) 0.3439(12) . 1
+O3 O2- 2 a 0.4030(13) 0.4406(15) 0.3532(15) . 1
+O4 O2- 2 a 0.5975(15) 0.242(3) 0.6704(9) . 1
+O5 O2- 2 a 0.3384(12) 0.089(3) 0.870(2) . 1
+O6 O2- 2 a 0.665(2) 0.133(2) 0.0441(11) . 1
+#End of TTdata_173746-ICSD

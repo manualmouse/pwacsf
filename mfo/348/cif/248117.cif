@@ -1,0 +1,109 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248117-ICSD
+_database_code_ICSD 248117
+_audit_creation_date 2010-08-01
+_chemical_name_common 'Sodium arsenic selenide (4/4/8) - gamma'
+_chemical_formula_structural 'Na4 As4 Se8'
+_chemical_formula_sum 'As4 Na4 Se8'
+_exptl_crystal_density_diffrn 4.17
+_diffrn_ambient_temperature 100.
+_citation_title
+
+;
+Soluble semiconductors A As Se2 (A = Li, Na) with a direct - band - gap and
+strong second harmonic generation: A combined experimental and theoretical
+study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2010 132 3484 3495 JACSAT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bera, T.K.'
+primary 'Jang, J.-I.'
+primary 'Song Jungh Wan'
+primary 'Malliakas, C.D.'
+primary 'Freeman, A.J.'
+primary 'Ketterson, J.B.'
+primary 'Kanatzidis, M.G.'
+_cell_length_a 11.682(2)
+_cell_length_b 5.9021(7)
+_cell_length_c 11.8231(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.446(13)
+_cell_angle_gamma 90.
+_cell_volume 815.16
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 c 1'
+_space_group_IT_number 7
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3+ 3
+Se2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+As1 As3+ 2 a 0.75061(17) 0.9318(3) 0.77532(16) 0.0079(4) 1
+As2 As3+ 2 a 0.00096(18) 0.9061(4) 0.00075(16) 0.0084(4) 1
+As3 As3+ 2 a 0.25091(19) 0.5456(4) 0.96370(16) 0.0087(4) 1
+As4 As3+ 2 a 0.49911(17) 0.9925(3) 0.94717(16) 0.0083(4) 1
+Se1 Se2- 2 a 0.96345(16) 0.9751(3) 0.80035(16) 0.0094(4) 1
+Se2 Se2- 2 a 0.22920(18) 0.5188(4) 0.76736(16) 0.0088(4) 1
+Se3 Se2- 2 a 0.46390(18) 0.5926(3) 0.98581(16) 0.0088(4) 1
+Se4 Se2- 2 a 0.49110(18) 0.9908(4) 0.25109(17) 0.0101(4) 1
+Se5 Se2- 2 a 0.70888(18) 0.9771(3) 0.97706(15) 0.0092(4) 1
+Se6 Se2- 2 a 0.21154(17) 0.9498(4) 0.99515(16) 0.0085(4) 1
+Se7 Se2- 2 a 0.99053(19) 0.4861(4) 0.51628(16) 0.0099(4) 1
+Se8 Se2- 2 a 0.73120(18) 0.5389(3) 0.75419(16) 0.0083(4) 1
+Na1 Na1+ 2 a 0.9823(8) 0.4747(15) 0.7651(7) 0.0114(16) 1
+Na2 Na1+ 2 a 0.2378(8) 0.9811(17) 0.2442(8) 0.018(3) 1.00(4)
+Na3 Na1+ 2 a 0.4791(7) 0.5091(14) 0.7350(7) 0.0102(17) 1
+Na4 Na1+ 2 a 0.7419(7) 0.5276(15) 0.5051(7) 0.0100(17) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3+ 0.0075(9) 0.0093(8) 0.0068(8) 0.0011(8) 0.0008(7) 0.0005(7)
+As2 As3+ 0.0081(8) 0.0098(9) 0.0074(8) 0.0014(8) 0.0018(7) -0.0008(8)
+As3 As3+ 0.0119(9) 0.0070(9) 0.0073(8) -0.0012(7) 0.0013(7) -0.0005(6)
+As4 As3+ 0.0092(9) 0.0075(9) 0.0083(8) -0.0006(7) 0.0021(7) -0.0002(7)
+Se1 Se2- 0.0100(9) 0.0091(9) 0.0090(8) -0.0010(8) 0.0004(7) 0.0005(7)
+Se2 Se2- 0.0097(8) 0.0089(9) 0.0077(8) 0.0015(8) 0.0012(6) -0.0015(8)
+Se3 Se2- 0.0106(9) 0.0086(9) 0.0074(7) -0.0002(8) 0.0002(6) 0.0000(7)
+Se4 Se2- 0.0109(9) 0.0100(9) 0.0095(8) -0.0010(8) 0.0007(7) -0.0003(8)
+Se5 Se2- 0.0109(9) 0.0100(9) 0.0068(8) -0.0007(8) 0.0007(7) -0.0005(7)
+Se6 Se2- 0.0102(9) 0.0084(10) 0.0067(8) -0.0001(7) 0.0009(7) -0.0002(6)
+Se7 Se2- 0.0117(9) 0.0110(9) 0.0071(8) 0.0029(9) 0.0032(7) 0.0006(7)
+Se8 Se2- 0.0096(9) 0.0075(9) 0.0079(9) -0.0013(8) 0.0008(7) -0.0014(6)
+Na1 Na1+ 0.015(4) 0.014(4) 0.005(3) -0.003(4) -0.004(3) 0.001(3)
+Na2 Na1+ 0.017(5) 0.016(5) 0.021(5) -0.004(4) -0.005(4) -0.009(4)
+Na3 Na1+ 0.014(4) 0.008(3) 0.009(4) 0.005(3) 0.000(3) 0.001(3)
+Na4 Na1+ 0.009(4) 0.008(4) 0.012(4) 0.005(3) 0.003(3) 0.003(3)
+#End of TTdata_248117-ICSD

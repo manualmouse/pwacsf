@@ -1,0 +1,72 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_182596-ICSD
+_database_code_ICSD 182596
+_audit_creation_date 2012-02-01
+_chemical_name_common 'Barium magnesium tetrafluoride'
+_chemical_formula_structural 'Ba Mg F4'
+_chemical_formula_sum 'Ba1 F4 Mg1'
+_chemical_name_structure_type BaZnF4
+_exptl_crystal_density_diffrn 4.68
+_diffrn_ambient_pressure 1970000.
+_citation_title
+'Structural stability of Ba M F4 (M = Mg, Zn and Mn) at high pressures'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2011 23 1 13 JCOMEL
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Posse, J.M.'
+primary 'Friese, K.'
+primary 'Grzechnik, A.'
+_cell_length_a 4.095(3)
+_cell_length_b 14.304(3)
+_cell_length_c 5.754(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 337.04
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c 21'
+_space_group_IT_number 36
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mg2+ 2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 4 a 0.5 0.3536(3) 0.4672(17) 0.0259(12) 1.
+Mg1 Mg2+ 4 a 0 0.409(2) 0 0.012(2) 1.
+F1 F1- 4 a 0 0.310(6) 0.731(4) 0.0133(15) 1.
+F2 F1- 4 a 0 0.315(6) 0.189(5) 0.0133(15) 1.
+F3 F1- 4 a 0 0.508(3) 0.268(3) 0.0133(15) 1.
+F4 F1- 4 a 0.5 0.442(4) 0.003(3) 0.0133(15) 1.
+#End of TTdata_182596-ICSD

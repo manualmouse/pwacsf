@@ -1,0 +1,201 @@
+data_c:\srcycif\mk13
+_audit_creation_method 'SHELXL-97'
+_audit_creation_date	2014-10-06
+_audit_update_record	2014-10-06
+_chemical_formula_sum	'C6 N6 O6 Sr3'
+_chemical_name_common
+;
+C6 N6 O6 Sr3
+;
+_chemical_formula_weight	514.980
+_refine_ls_R_factor_all	0.031
+_cell_length_a	11.8620
+_cell_length_b	11.8620
+_cell_length_c	12.6980
+_cell_angle_alpha	90.000
+_cell_angle_beta	90.000
+_cell_angle_gamma	120.000
+_cell_volume	1547.3
+_cell_formula_units_Z	6
+_symmetry_int_tables_number	161
+_symmetry_space_group_name_H-M	'R 3 c'
+_symmetry_space_group_name_Hall	'R_3_-2"c'
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x+y,y,1/2+z
+5 x,x-y,1/2+z
+6 -y,-x,1/2+z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 2/3-x+y,1/3+y,5/6+z
+11 2/3+x,1/3+x-y,5/6+z
+12 2/3-y,1/3-x,5/6+z
+13 1/3+x,2/3+y,2/3+z
+14 1/3-y,2/3+x-y,2/3+z
+15 1/3-x+y,2/3-x,2/3+z
+16 1/3-x+y,2/3+y,1.16667+z
+17 1/3+x,2/3+x-y,1.16667+z
+18 1/3-y,2/3-x,1.16667+z
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+Sr	?	1.200
+N	?	1.200
+O	?	1.200
+C	?	1.200
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+Sr1 Sr  0.6714(1)  0.9815(1)  0.9538(1)  1.000 18 b ? d Uani  0.0396(2)
+N1 N  0.7113(7)  1.4636(6)  0.8389(5)  1.000 18 b ? d Uani  0.0427(16)
+O1 O  0.5795(5)  1.0838(5)  0.8306(5)  1.000 18 b ? d Uani  0.0526(14)
+N2 N  0.7686(7)  1.3101(7)  1.0954(5)  1.000 18 b ? d Uani  0.0413(15)
+O2 O  0.9073(5)  1.5257(5)  1.1000(4)  1.000 18 b ? d Uani  0.0462(12)
+C1 C  0.6428(8)  1.2124(8)  1.0955(6)  1.000 18 b ? d Uani  0.0366(16)
+C2 C  0.6228(8)  1.2075(8)  0.8357(5)  1.000 18 b ? d Uani  0.0383(18)
+
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1  0.0296(4)  0.0311(6)  0.0596(4)  0.0164(5) -0.0010(2) -0.0015(6)
+N1  0.040(4)  0.028(3)  0.060(4)  0.017(3)  0.008(3)  0.001(3)
+O1  0.032(3)  0.029(3)  0.095(4)  0.014(2) -0.007(3)  0.011(2)
+N2  0.032(4)  0.038(4)  0.057(4)  0.020(3)  0.003(3) -0.001(3)
+O2  0.033(3)  0.035(3)  0.060(3)  0.010(2)  0.002(2)  0.001(2)
+C1  0.040(4)  0.035(4)  0.036(4)  0.020(4) -0.001(3) -0.004(3)
+C2  0.039(5)  0.033(4)  0.041(4)  0.016(4) -0.003(3)  0.002(3)
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Sr1 O2 . 3_575  2.533(5) no
+Sr1 O1 . .  2.537(5) no
+Sr1 O2 . 14_764  2.758(5) no
+Sr1 O1 . 8_665  3.097(7) no
+Sr1 C2 . .  3.365(8) no
+N1 C2 . 3_575  1.329(10) no
+N1 C2 . 2_775  1.345(10) no
+O1 C2 . .  1.291(10) no
+O1 Sr1 . 15_564  3.097(7) no
+N2 C1 . 2_775  1.329(10) no
+N2 C1 . .  1.356(10) no
+O2 C1 . 2_775  1.30(1) no
+O2 Sr1 . 2_775  2.533(5) no
+O2 Sr1 . 9_575  2.758(5) no
+C1 O2 . 3_575  1.30(1) no
+C1 N2 . 3_575  1.329(10) no
+C2 N1 . 2_775  1.329(10) no
+C2 N1 . 3_575  1.345(11) no
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+O2 Sr1 O1 3_575 . . 85.7(2) no
+O2 Sr1 O2 3_575 . 14_764 138.10(8) no
+O1 Sr1 O2 . . 14_764 70.20(18) no
+O2 Sr1 O1 3_575 . 8_665 64.70(16) no
+O1 Sr1 O1 . . 8_665 135.17(12) no
+O2 Sr1 O1 14_764 . 8_665 152.77(14) no
+O2 Sr1 C2 3_575 . . 74.06(17) no
+O1 Sr1 C2 . . . 19.52(18) no
+O2 Sr1 C2 14_764 . . 72.30(16) no
+O1 Sr1 C2 8_665 . . 134.92(16) no
+O2 Sr1 Sr1 3_575 . 15_564 131.64(12) no
+O1 Sr1 Sr1 . . 15_564 46.17(15) no
+O2 Sr1 Sr1 14_764 . 15_564 34.69(11) no
+O1 Sr1 Sr1 8_665 . 15_564 150.36(11) no
+C2 Sr1 Sr1 . . 15_564 58.53(13) no
+C2 N1 C2 3_575 . 2_775 116.4(8) no
+C2 O1 Sr1 . . . 119.5(5) no
+C2 O1 Sr1 . . 15_564 113.7(5) no
+Sr1 O1 Sr1 . . 15_564 97.61(18) no
+C1 N2 C1 2_775 . . 116.2(8) no
+C1 O2 Sr1 2_775 . 2_775 124.0(4) no
+C1 O2 Sr1 2_775 . 9_575 115.0(4) no
+Sr1 O2 Sr1 2_775 . 9_575 107.01(18) no
+O2 C1 N2 3_575 . 3_575 117.3(8) no
+O2 C1 N2 3_575 . . 118.8(7) no
+N2 C1 N2 3_575 . . 123.8(8) no
+O1 C2 N1 . . 2_775 118.0(8) no
+O1 C2 N1 . . 3_575 118.6(7) no
+N1 C2 N1 2_775 . 3_575 123.5(8) no
+O1 C2 Sr1 . . . 41.0(3) no
+N1 C2 Sr1 2_775 . . 137.9(6) no
+N1 C2 Sr1 3_575 . . 88.2(5) no
+
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_2
+_geom_torsion_site_symmetry_3
+_geom_torsion_site_symmetry_4
+_geom_torsion
+_geom_torsion_publ_flag
+O2 Sr1 O1 C2 3_575 . . . 52.4(6) no
+O2 Sr1 O1 C2 14_764 . . . -92.8(6) no
+O1 Sr1 O1 C2 8_665 . . . 99.2(6) no
+Sr1 Sr1 O1 C2 15_564 . . . -122.8(6) no
+O2 Sr1 O1 Sr1 3_575 . . 15_564 175.18(17) no
+O2 Sr1 O1 Sr1 14_764 . . 15_564 30.02(14) no
+O1 Sr1 O1 Sr1 8_665 . . 15_564 -138.01(18) no
+C2 Sr1 O1 Sr1 . . . 15_564 122.8(6) no
+C1 N2 C1 O2 2_775 . . 3_575 -177.0(4) no
+C1 N2 C1 N2 2_775 . . 3_575  0.3(15) no
+Sr1 O1 C2 N1 . . . 2_775 -132.0(6) no
+Sr1 O1 C2 N1 15_564 . . 2_775 113.5(7) no
+Sr1 O1 C2 N1 . . . 3_575 47.1(9) no
+Sr1 O1 C2 N1 15_564 . . 3_575 -67.4(7) no
+Sr1 O1 C2 Sr1 15_564 . . . -114.5(5) no
+O2 Sr1 C2 O1 3_575 . . . -124.8(6) no
+O2 Sr1 C2 O1 14_764 . . . 80.6(6) no
+O1 Sr1 C2 O1 8_665 . . . -100.6(6) no
+Sr1 Sr1 C2 O1 15_564 . . . 45.3(5) no
+O2 Sr1 C2 N1 3_575 . . 2_775 -46.7(8) no
+O1 Sr1 C2 N1 . . . 2_775 78.1(9) no
+O2 Sr1 C2 N1 14_764 . . 2_775 158.7(8) no
+O1 Sr1 C2 N1 8_665 . . 2_775 -22.5(9) no
+Sr1 Sr1 C2 N1 15_564 . . 2_775 123.4(8) no
+O2 Sr1 C2 N1 3_575 . . 3_575 95.3(5) no
+O1 Sr1 C2 N1 . . . 3_575 -140.0(9) no
+O2 Sr1 C2 N1 14_764 . . 3_575 -59.4(4) no
+O1 Sr1 C2 N1 8_665 . . 3_575 119.4(4) no
+Sr1 Sr1 C2 N1 15_564 . . 3_575 -94.6(4) no

@@ -1,0 +1,107 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173368-ICSD
+_database_code_ICSD 173368
+_audit_creation_date 2008-08-01
+_chemical_name_common 'Nonapotassium bismuth tetrakis(tetrathiophosphate)'
+_chemical_formula_structural 'K9 Bi (P S4)4'
+_chemical_formula_sum 'Bi1 K9 P4 S16'
+_exptl_crystal_density_diffrn 2.51
+_diffrn_ambient_temperature 273.
+_citation_title
+
+;
+New potassium bismuth thiophosphates including the modulated K1.5 Bi2.5 (P
+S4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 11063 11074 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Gave, M.A.'
+primary 'Weliky, D.P.'
+primary 'Kanatzidis, M.'
+_cell_length_a 18.306(4)
+_cell_length_b 8.926(2)
+_cell_length_c 9.710(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1586.61
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 21 21 2'
+_space_group_IT_number 18
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z'
+2 'x+1/2, -y+1/2, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+K1+ 1
+S2- -2
+P5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Bi1 Bi3+ 2 a 0. 0. 0.72617(5) 0.0392(2) 1
+K1 K1+ 4 c 0.24999(12) -0.4982(3) 1.24860(18) 0.0366(6) 1
+K2 K1+ 4 c 0.23080(14) 0.0182(3) 0.2405(2) 0.0418(6) 1
+K3 K1+ 4 c -0.07663(14) -0.3551(3) 0.9985(3) 0.0341(6) 1
+K4 K1+ 2 a 0. 0. 0.2338(3) 0.0312(7) 1
+K5 K1+ 4 c 0.08774(15) -0.3721(3) 0.4841(3) 0.0380(7) 1
+S1 S2- 4 c 0.24563(16) -0.2327(3) 0.9996(5) 0.0285(6) 1
+S2 S2- 4 c 0.10410(13) -0.0053(4) 0.9481(2) 0.0297(6) 1
+S3 S2- 4 c 0.08726(16) -0.3070(3) 1.1525(3) 0.0298(7) 1
+S4 S2- 4 c 0.10130(19) -0.3462(4) 0.8159(3) 0.0464(9) 1
+S5 S2- 4 c 0.10839(13) -0.0209(3) 0.5175(3) 0.0270(6) 1
+S6 S2- 4 c 0.22942(16) 0.2609(3) 0.5246(3) 0.0388(8) 1
+S7 S2- 4 c 0.08269(16) 0.2962(3) 0.3320(3) 0.0313(7) 1
+S8 S2- 4 c 0.06028(19) 0.2893(4) 0.6672(3) 0.0501(10) 1
+P1 P5+ 4 c 0.13587(13) -0.2264(3) 0.9796(3) 0.0176(6) 1
+P2 P5+ 4 c 0.12314(14) 0.2086(3) 0.5085(3) 0.0186(6) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0322(3) 0.0691(5) 0.0163(3) -0.0319(4) 0. 0.
+K1 K1+ 0.0438(13) 0.0392(14) 0.0269(14) -0.0011(16) 0.0014(9) -0.0130(17)
+K2 K1+ 0.0582(15) 0.0347(15) 0.0325(14) -0.0086(15) 0.0125(11) -0.0030(16)
+K3 K1+ 0.0440(15) 0.0250(12) 0.0332(14) -0.0013(12) -0.0012(13) 0.0010(12)
+K4 K1+ 0.0314(16) 0.0335(18) 0.0287(16) -0.005(2) 0. 0.
+K5 K1+ 0.0557(18) 0.0282(14) 0.0302(15) -0.0006(12) 0.0083(13) -0.0033(12)
+S1 S2- 0.0188(13) 0.0302(14) 0.0364(14) 0.0047(11) -0.0014(11) 0.0076(14)
+S2 S2- 0.0303(15) 0.0210(14) 0.0379(14) 0.0068(15) 0.0005(10) 0.0041(17)
+S3 S2- 0.0358(17) 0.0321(17) 0.0215(15) -0.0013(14) 0.0085(13) 0.0065(12)
+S4 S2- 0.065(2) 0.053(2) 0.0213(17) -0.0246(18) -0.0087(15) -0.0083(14)
+S5 S2- 0.0331(15) 0.0147(13) 0.0334(14) -0.0044(12) 0.0007(11) -0.0026(13)
+S6 S2- 0.0327(18) 0.0357(18) 0.048(2) -0.0186(14) -0.0118(16) 0.0133(15)
+S7 S2- 0.0498(19) 0.0254(16) 0.0187(14) -0.0036(14) -0.0108(13) 0.0061(12)
+S8 S2- 0.073(2) 0.052(2) 0.0256(17) 0.0387(19) -0.0050(16) -0.0115(16)
+P1 P5+ 0.0203(14) 0.0181(14) 0.0146(13) -0.0016(11) -0.0003(11) 0.0018(11)
+P2 P5+ 0.0242(14) 0.0158(12) 0.0158(13) -0.0016(11) -0.0026(12) -0.0011(12)
+#End of TTdata_173368-ICSD

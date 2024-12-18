@@ -1,0 +1,123 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432664-ICSD
+_database_code_ICSD 432664
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Diammonium monohydroxydiborotriphosphate'
+_chemical_formula_structural '(N H4)2 (B2 P3 O11 (O H))'
+_chemical_formula_sum 'H9 B2 N2 O12 P3'
+_exptl_crystal_density_diffrn 2.13
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Synthesis, crystal structure of a new structure type, and thermal analysis of
+the ammonium borophosphate (NH4)2[B2P3O11(OH)]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2017 643 766 771
+ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Foerg, Katharina'
+primary 'Hoeppe, Henning A.'
+_cell_length_a 4.509(3)
+_cell_length_b 14.490(11)
+_cell_length_c 16.401(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1071.56
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 21 21'
+_space_group_IT_number 19
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+B3+ 3
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+P1 P5+ 4 a 0.1083(3) 0.24777(11) 0.40040(8) 0.0139(4) 1
+P2 P5+ 4 a -0.2579(3) 0.00008(10) 0.36214(9) 0.0160(4) 1
+P3 P5+ 4 a 0.3125(3) -0.15455(10) 0.55036(10) 0.0145(4) 1
+B1 B3+ 4 a 0.6029(13) 0.1549(5) 0.4523(4) 0.0153(16) 1
+B2 B3+ 4 a -0.1912(14) -0.1566(4) 0.4517(4) 0.0149(15) 1
+O1 O2- 4 a -0.2204(7) 0.2184(2) 0.4028(2) 0.0145(9) 1
+O2 O2- 4 a 0.1562(8) 0.3303(2) 0.4597(2) 0.0164(9) 1
+O3 O2- 4 a 0.2911(7) 0.1659(2) 0.4322(2) 0.0153(9) 1
+O4 O2- 4 a -0.3112(8) 0.0587(2) 0.4397(2) 0.0174(9) 1
+O5 O2- 4 a -0.1026(8) -0.0892(2) 0.3911(2) 0.0153(9) 1
+O6 O2- 4 a 0.4889(8) -0.1466(3) 0.4702(2) 0.0139(9) 1
+O7 O2- 4 a 0.3633(7) -0.2529(2) 0.5851(2) 0.0144(9) 1
+O8 O2- 4 a -0.0191(8) -0.1456(3) 0.5283(2) 0.0152(9) 1
+O9 O2- 4 a 0.1867(8) 0.2793(2) 0.3171(2) 0.0169(9) 1
+O10 O2- 4 a -0.5309(8) -0.0200(3) 0.3144(2) 0.0240(11) 1
+O11 O2- 4 a 0.3891(9) -0.0856(2) 0.6132(2) 0.0192(10) 1
+O12 O2- 4 a -0.0358(8) 0.0478(3) 0.3051(2) 0.0193(10) 1
+N1 N3- 4 a 0.8881(12) 0.0214(4) 0.6411(4) 0.0263(13) 1
+N2 N3- 4 a -0.3136(13) 0.2778(4) 0.2137(4) 0.0353(15) 1
+H1 H1+ 4 a 0.169(5) 0.026(4) 0.302(4) 0.05 1
+H2 H1+ 4 a 0.717(9) -0.020(4) 0.634(4) 0.05 1
+H3 H1+ 4 a 1.079(7) -0.008(4) 0.630(4) 0.05 1
+H4 H1+ 4 a 0.908(15) 0.028(5) 0.7001(10) 0.05 1
+H5 H1+ 4 a 0.879(15) 0.081(2) 0.613(3) 0.05 1
+H6 H1+ 4 a -0.136(8) 0.277(5) 0.248(3) 0.05 1
+H7 H1+ 4 a -0.473(10) 0.258(4) 0.251(3) 0.05 1
+H8 H1+ 4 a -0.279(14) 0.233(3) 0.170(3) 0.05 1
+H9 H1+ 4 a -0.304(15) 0.335(2) 0.182(3) 0.05 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0128(8) 0.0098(8) 0.0190(9) -0.0025(7) -0.0002(6) -0.0004(8)
+P2 P5+ 0.0151(8) 0.0073(7) 0.0256(9) 0.0003(7) 0.0013(7) 0.0002(8)
+P3 P5+ 0.0126(8) 0.0064(8) 0.0243(10) -0.0002(7) -0.0011(8) -0.0004(7)
+B1 B3+ 0.013(4) 0.012(4) 0.020(4) 0.002(3) 0.010(3) 0.000(3)
+B2 B3+ 0.015(3) 0.011(3) 0.019(4) 0.001(3) -0.003(4) 0.003(3)
+O1 O2- 0.016(2) 0.013(2) 0.014(2) 0.0003(17) 0.0001(18) 0.0015(16)
+O2 O2- 0.022(2) 0.008(2) 0.020(2) -0.0045(18) 0.0031(19) -0.0026(17)
+O3 O2- 0.011(2) 0.0061(19) 0.028(2) 0.0014(18) 0.0004(18) 0.0019(17)
+O4 O2- 0.024(2) 0.0051(19) 0.023(2) 0.0053(18) 0.001(2) -0.0033(17)
+O5 O2- 0.016(2) 0.005(2) 0.026(2) 0.0020(16) 0.005(2) 0.0002(19)
+O6 O2- 0.0064(19) 0.013(2) 0.022(2) 0.0005(18) 0.0024(19) 0.001(2)
+O7 O2- 0.0172(19) 0.0067(19) 0.019(2) 0.0003(19) 0.0008(16) 0.0000(19)
+O8 O2- 0.014(2) 0.014(2) 0.017(2) 0.0009(19) 0.0010(19) -0.004(2)
+O9 O2- 0.018(2) 0.017(2) 0.016(2) -0.0022(17) 0.0035(18) 0.0006(17)
+O10 O2- 0.018(2) 0.021(3) 0.033(3) 0.0040(19) -0.002(2) -0.002(2)
+O11 O2- 0.021(2) 0.009(2) 0.027(2) 0.0003(17) -0.005(2) -0.0090(19)
+O12 O2- 0.016(2) 0.013(2) 0.028(3) 0.0040(19) 0.005(2) 0.0049(19)
+N1 N3- 0.025(3) 0.016(3) 0.038(3) 0.000(3) 0.000(3) -0.001(3)
+N2 N3- 0.023(3) 0.056(4) 0.028(4) -0.004(3) 0.004(3) 0.001(3)
+#End of TTdata_432664-ICSD

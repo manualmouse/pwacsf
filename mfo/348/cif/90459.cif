@@ -1,0 +1,72 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_90459-ICSD
+_database_code_ICSD 90459
+_audit_creation_date 2002-04-01
+_chemical_name_common 'Silver dicadmium gallium sulfide'
+_chemical_formula_structural 'Ag Cd2 Ga S4'
+_chemical_formula_sum 'Ag1 Cd2 Ga1 S4'
+_chemical_name_structure_type Enargite#Cu3AsS4
+_exptl_crystal_density_diffrn 4.76
+_citation_title
+
+;
+Crystal structure of the new quaternary phase Ag Cd2 Ga S4 and phase diagram
+of the quasi-binary system Ag Ga S2 - Cd S
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2000 312 189 195 JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Chikhrii, S.I.'
+primary 'Parasyuk, O.V.'
+primary 'Halka, V.O.'
+_cell_length_a 8.1460(4)
+_cell_length_b 6.8989(4)
+_cell_length_c 6.5932(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 370.53
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P m n 21'
+_space_group_IT_number 31
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Ag1+ 1
+Ga3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cd1 Cd2+ 4 b 0.2519(3) 0.1772(2) 0.4892(8) 0.86(4) 1.
+Ag1 Ag1+ 2 a 0 0.6543(3) 0.4907(14) 0.91(7) 1.
+Ga1 Ga3+ 2 a 0 0.3170(4) 0 0.18(7) 1.
+S1 S2- 4 b 0.2422(8) 0.1664(6) 0.0964(9) 0.56(4) 1.
+S2 S2- 2 a 0 0.3361(11) 0.6531(14) 0.56(4) 1.
+S3 S2- 2 a 0 0.6324(10) 0.098(2) 0.56(4) 1.
+#End of TTdata_90459-ICSD

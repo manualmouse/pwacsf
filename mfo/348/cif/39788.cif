@@ -1,0 +1,106 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39788-ICSD
+_database_code_ICSD 39788
+_audit_creation_date 1995-01-10
+_chemical_name_common 'Sodium antimony oxide germanate - beta'
+_chemical_formula_structural 'Na Sb O (Ge O4)'
+_chemical_formula_sum 'Ge1 Na1 O5 Sb1'
+_chemical_name_structure_type KTiOPO4#KFePO4F
+_exptl_crystal_density_diffrn 4.4
+_citation_title
+
+;
+Crystal structures of beta-NaSbOGeO4 and AgSbOSiO4 and migration paths of ions
+in structures of KTiOPO4 type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 1994 39 355 362 ZNOKAQ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Belokoneva, E.L.'
+primary 'Mill', B.V. (Mill, B.V.)'
+_cell_length_a 13.008(5)
+_cell_length_b 6.433(2)
+_cell_length_c 10.736(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 898.39
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sb5+ 5
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 4 a 0.3462(5) 0.7999(8) 0.7266(5) . 1.
+Na2 Na1+ 4 a 0.1004(4) 0.7226(9) 0.9120(6) . 1.
+Sb1 Sb5+ 4 a 0.22742(3) 0.27843(7) 0.77306(7) . 1.
+Sb2 Sb5+ 4 a 0.38536(3) 0.53346(7) 0 . 1.
+Ge1 Ge4+ 4 a 0.48236(6) 0.3142(1) 0.74596(9) . 1.
+Ge2 Ge4+ 4 a 0.18718(6) 0.5388(1) 0.51090(9) . 1.
+O1 O2- 4 a 0.4730(4) 0.529(1) 0.8458(5) . 1.
+O2 O2- 4 a 0.0131(4) 0.911(1) 0.0934(5) . 1.
+O3 O2- 4 a 0.3698(4) 0.1679(9) 0.7551(6) . 1.
+O4 O2- 4 a 0.9187(4) 0.6412(8) 0.2830(6) . 1.
+O5 O2- 4 a 0.1151(5) 0.3296(9) 0.4567(6) . 1.
+O6 O2- 4 a 0.5973(4) 0.7638(9) 0.5295(6) . 1.
+O7 O2- 4 a 0.2876(5) 0.573(1) 0.4062(6) . 1.
+O8 O2- 4 a 0.7528(5) -.001(1) 0.6493(6) . 1.
+O9 O2- 4 a 0.2400(5) 0.9944(9) 0.3973(6) . 1.
+O10 O2- 4 a 0.6962(5) 0.442(1) 0.6516(6) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 4.9(3) 1.7(2) 2.5(2) -.8(2) -1.4(2) 0.0(2)
+Na2 Na1+ 2.3(2) 3.4(3) 3.9(3) 1.8(2) -.2(2) -.4(2)
+Sb1 Sb5+ 0.36(1) 0.47(1) 0.54(1) -.02(1) -.04(1) 0.03(1)
+Sb2 Sb5+ 0.44(1) 0.39(1) 0.54(1) -.02(1) 0.01(1) -.04(1)
+Ge1 Ge4+ 0.26(2) 0.41(2) 0.50(2) 0.00(2) 0.08(2) -.01(2)
+Ge2 Ge4+ 0.51(2) 0.32(2) 0.54(3) -.02(2) 0.04(2) 0.02(2)
+O1 O2- 1.0(2) 0.6(2) 0.5(2) -.2(2) 0.1(2) -.1(2)
+O2 O2- 0.3(2) 1.1(2) 0.6(2) 0.1(2) -.1(1) 0.3(2)
+O3 O2- 0.2(1) 0.7(2) 1.4(2) -.1(1) 0.3(2) 0.1(2)
+O4 O2- 0.2(1) 0.6(2) 1.3(2) -.1(1) 0.0(2) 0.0(2)
+O5 O2- 1.1(2) 0.3(2) 1.3(2) -.1(2) -.4(2) -.1(2)
+O6 O2- 0.9(2) 0.4(2) 1.0(2) -.1(1) 0.1(2) -.1(2)
+O7 O2- 0.7(2) 0.7(2) 0.9(2) 0.4(2) 0.2(2) 0.6(2)
+O8 O2- 1.1(2) 0.7(2) 0.7(2) 0.2(2) -.3(2) -.4(2)
+O9 O2- 0.6(2) 0.6(2) 0.6(2) -.1(1) 0.1(1) -.3(1)
+O10 O2- 0.8(2) 0.8(2) 0.6(2) -.2(2) -.4(2) 0.2(2)
+#End of TTdata_39788-ICSD

@@ -1,0 +1,119 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194046-ICSD
+_database_code_ICSD 194046
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Yttrium diberyllium pentaborate'
+_chemical_formula_structural 'Y Be2 (B5 O11)'
+_chemical_formula_sum 'B5 Be2 O11 Y1'
+_exptl_crystal_density_diffrn 3.03
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Re Be2 B5 O11 (Re = Y, Gd): rare-earth beryllium borates as deep-ultraviolet
+nonlinear-optical materials
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 1952 1954 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yan, Xue'
+primary 'Luo, Siyang'
+primary 'Lin, Zheshuai'
+primary 'Yao, Jiyong'
+primary 'He, Ran'
+primary 'Yue, Yinchao'
+primary 'Chen, Chuangtian'
+_cell_length_a 25.612(5)
+_cell_length_b 4.3295(9)
+_cell_length_c 6.6549(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 737.94
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+O2- -2
+B3+ 3
+O2- -2
+B3+ 3
+Be2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Y1 Y3+ 4 a 0.41983(2) 0.63629(11) 1.36721(13) 0.0041(2) 1
+O1 O2- 4 a 0.34963(15) 0.1474(8) 0.8462(8) 0.0074(10) 1
+O2 O2- 4 a 0.54748(17) -0.1301(8) 0.9277(6) 0.0057(11) 1
+O3 O2- 4 a 0.41694(16) 0.5073(11) 0.7446(7) 0.0044(10) 1
+O4 O2- 4 a 0.49085(17) 0.2808(10) 0.9266(6) 0.0056(10) 1
+O5 O2- 4 a 0.40778(18) 0.3436(8) 1.0887(7) 0.0032(10) 1
+O6 O2- 4 a 0.34971(16) 0.4152(8) 0.5273(7) 0.0039(9) 1
+O7 O2- 4 a 0.35440(17) -0.0824(9) 1.1808(6) 0.0046(10) 1
+O8 O2- 4 a 0.45702(16) 0.7777(10) 1.0215(7) 0.0060(10) 1
+B1 B3+ 4 a 0.3701(3) 0.1257(14) 1.0411(12) 0.0059(17) 1
+B2 B3+ 4 a 0.3707(3) 0.3553(15) 0.7070(12) 0.0072(17) 1
+B3 B3+ 4 a 0.4437(3) 0.4746(16) 0.9401(11) 0.0046(16) 1
+B4 B3+ 4 a 0.4984(3) -0.0385(16) 0.9608(11) 0.0053(15) 1
+O9 O2- 4 a 0.28362(17) 0.4655(10) 0.2222(7) 0.0040(10) 1
+O10 O2- 4 a 0.25192(17) 0.0029(9) 0.0850(7) 0.0049(9) 1
+O11 O2- 4 a 0.22042(16) 0.4683(10) -0.0452(7) 0.0057(10) 1
+B5 B3+ 4 a 0.2514(3) 0.3177(15) 0.0854(12) 0.0035(15) 1
+Be1 Be2+ 4 a 0.2910(4) 0.3311(18) 0.4514(15) 0.008(2) 1
+Be2 Be2+ 4 a 0.2931(4) -0.1680(19) 0.2252(13) 0.007(2) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0006(3) 0.0045(3) 0.0071(3) -0.0003(2) 0.0001(3) 0.0001(4)
+O1 O2- 0.0066(13) 0.0081(12) 0.0076(13) -0.0006(9) -0.0008(10) 0.0003(9)
+O2 O2- 0.003(2) 0.004(2) 0.010(3) -0.0022(16) 0.0005(19) 0.0015(17)
+O3 O2- 0.0048(13) 0.0045(12) 0.0038(13) -0.0001(9) -0.0001(9) 0.0000(9)
+O4 O2- 0.0048(13) 0.0054(12) 0.0067(13) -0.0006(9) -0.0006(9) 0.0010(9)
+O5 O2- 0.0027(13) 0.0033(13) 0.0034(13) 0.0002(9) -0.0002(9) -0.0004(9)
+O6 O2- 0.0032(12) 0.0039(12) 0.0045(13) -0.0007(9) 0.0010(9) 0.0006(9)
+O7 O2- 0.002(3) 0.006(2) 0.006(3) -0.0001(17) -0.002(2) 0.0025(18)
+O8 O2- 0.0053(13) 0.0062(13) 0.0066(13) -0.0004(9) 0.0004(9) 0.0003(9)
+B1 B3+ 0.0054(19) 0.0060(19) 0.0063(19) 0.0008(10) 0.0001(10) -0.0006(10)
+B2 B3+ 0.0072(19) 0.0069(18) 0.0074(19) 0.0002(10) 0.0005(10) -0.0004(10)
+B3 B3+ 0.0043(18) 0.0045(17) 0.0050(18) -0.0001(10) 0.0000(10) -0.0001(10)
+B4 B3+ 0.0055(17) 0.0050(17) 0.0054(17) 0.0001(10) 0.0001(10) -0.0001(10)
+O9 O2- 0.0039(13) 0.0036(13) 0.0043(13) -0.0004(9) -0.0001(9) 0.0002(9)
+O10 O2- 0.0044(12) 0.0048(12) 0.0056(12) 0.0003(9) -0.0001(9) 0.0002(9)
+O11 O2- 0.0054(13) 0.0051(13) 0.0067(13) 0.0007(9) -0.0001(9) 0.0000(9)
+B5 B3+ 0.0036(18) 0.0039(17) 0.0030(17) -0.0001(10) 0.0001(10) 0.0001(10)
+Be1 Be2+ 0.015(5) 0.004(4) 0.007(4) 0.002(4) 0.002(4) -0.002(4)
+Be2 Be2+ 0.003(5) 0.011(5) 0.007(5) -0.001(3) -0.001(4) 0.001(4)
+#End of TTdata_194046-ICSD

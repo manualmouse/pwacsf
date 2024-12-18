@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96915-ICSD
+_database_code_ICSD 96915
+_audit_creation_date 2004-10-01
+_chemical_name_common 'Lithium gallium selenide'
+_chemical_formula_structural 'Li Ga Se2'
+_chemical_formula_sum 'Ga1 Li1 Se2'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 4.24
+_citation_title
+
+;
+Growth and properties of Li Ga X2 (X = S, Se, Te) single crystals for
+nonlinear optical applications in the mid-IR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Research and Technology' 2003 38 379 387 CRTEDF
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Isaenko, L.'
+primary 'Yelisseyev, A.'
+primary 'Lobanov, S.'
+primary 'Titov, A.'
+primary 'Petrov, V.'
+primary 'Zondy, J.J.'
+primary 'Krinitsin, P.'
+primary 'Merkulov, A.'
+primary 'Vedenyapin, V.'
+primary 'Smirnova, J.'
+_cell_length_a 6.832(1)
+_cell_length_b 8.237(1)
+_cell_length_c 6.535(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 367.76
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Li1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ga1 Ga3+ 4 a 0.0730(1) 0.8741(1) 0.6229(2) 0.0129(2) 1.
+Li1 Li1+ 4 a 0.410(3) 0.878(1) 0.118(8) 0.029(6) 1.
+Se1 Se2- 4 a -0.0936(1) 0.6348(1) 0.5064(2) 0.0144(2) 1.
+Se2 Se2- 4 a 0.0661(1) 0.8814(1) 0.9907(2) 0.0144(2) 1.
+#End of TTdata_96915-ICSD

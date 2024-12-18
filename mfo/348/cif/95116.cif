@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95116-ICSD
+_database_code_ICSD 95116
+_audit_creation_date 2003-10-01
+_chemical_name_common 'Barium borophosphate(V)'
+_chemical_formula_structural 'Ba (B P O5)'
+_chemical_formula_sum 'B1 Ba1 O5 P1'
+_chemical_name_structure_type BaBPO5
+_exptl_crystal_density_diffrn 4.21
+_citation_title
+
+;
+Hydrothermal synthesis and crystal structures of (Li, Ba)- nanoborate, Li Ba
+B9 O15, and Ba-borophosphate, Ba B P O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2002 339 70 75 JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Pushcharovskii, D.Yu.'
+primary 'Gobechiya, E.R.'
+primary 'Pasero, M.'
+primary 'Merlino, S.'
+primary 'Dimitrova, O.V.'
+_cell_length_a 7.114(1)
+_cell_length_b 7.114(1)
+_cell_length_c 6.993(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 306.49
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'P 32 2 1'
+_space_group_IT_number 154
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z+2/3'
+2 'x-y, -y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+1/3'
+5 '-y, x-y, z+2/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+P5+ 5
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 3 a 0 0.39502(6) 0.3333 0.0092(3) 1.
+P1 P5+ 3 b 0.3896(3) 0 0.1667 0.0077(4) 1.
+B1 B3+ 3 a 0 -0.093(2) 0.3333 0.010(2) 1.
+O1 O2- 6 c 0.1395(7) 0.3230(7) -0.0379(7) 0.0104(9) 1.
+O2 O2- 6 c 0.8562(8) 0.4274(8) -0.0350(7) 0.0156(10) 1.
+O3 O2- 3 b 0 -0.0411(9) 0.8333 0.0109(11) 1.
+#End of TTdata_95116-ICSD

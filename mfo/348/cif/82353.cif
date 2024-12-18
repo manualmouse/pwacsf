@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82353-ICSD
+_database_code_ICSD 82353
+_audit_creation_date 1997-11-10
+_chemical_name_common 'Lithium barium trithioborate'
+_chemical_formula_structural 'Li Ba B3 S6'
+_chemical_formula_sum 'B3 Ba1 Li1 S6'
+_chemical_name_structure_type LiSrB3O6
+_exptl_crystal_density_diffrn 2.53
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+Li Ba B S3 und Li Ba B3 S6: zwei neue quaternaere thioborate mit
+trigonal-planar koordiniertem Bor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1995
+621 424 430 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hiltmann, F.'
+primary 'Krebs, B.'
+_cell_length_a 15.116(3)
+_cell_length_b 8.824(2)
+_cell_length_c 8.179(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.46(3)
+_cell_angle_gamma 90.
+_cell_volume 968.03
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 c 1'
+_space_group_IT_number 9
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+S2- -2
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 4 a 0.2594 0.12285(4) 0.5246 . 1.
+S1 S2- 4 a 0.4000(2) 0.4125(2) 0.4948(5) . 1.
+S2 S2- 4 a 0.3079(2) 0.7483(2) 0.4406(3) . 1.
+S3 S2- 4 a 0.5428(2) 0.7044(2) 0.5616(4) . 1.
+S4 S2- 4 a 0.6225(2) 0.3839(2) 0.5922(3) . 1.
+S5 S2- 4 a 0.1841(2) 0.4626(2) 0.4167(3) . 1.
+S6 S2- 4 a 0.4289(2) 0.0108(2) 0.4174(3) . 1.
+B1 B3+ 4 a 0.2991(7) 0.5422(9) 0.4535(13) . 1.
+B2 B3+ 4 a 0.4296(6) 0.8186(11) 0.4789(12) . 1.
+B3 B3+ 4 a 0.5181(6) 0.5009(10) 0.5488(13) . 1.
+Li1 Li1+ 4 a 0.6002(12) 0.1029(15) 0.5674(26) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0218(2) 0.0191(2) 0.0303(2) 0.0004(2) 0.0127(2) 0.0019(3)
+S1 S2- 0.0213(9) 0.0152(9) 0.0899(21) -.0001(8) 0.0285(12) 0.003(1)
+S2 S2- 0.0185(8) 0.0133(8) 0.0454(12) 0.0005(6) 0.0163(8) 0.0031(8)
+S3 S2- 0.0158(8) 0.0165(9) 0.0602(15) 0.0009(7) 0.0154(9) 0.0043(9)
+S4 S2- 0.0164(9) 0.0179(9) 0.0385(12) 0.0020(7) 0.0118(9) 0.0009(8)
+S5 S2- 0.0194(8) 0.0168(8) 0.0415(12) -.0027(7) 0.0173(8) -.0017(8)
+S6 S2- 0.0169(9) 0.0152(8) 0.0373(11) -.0010(7) 0.0117(8) 0.0012(8)
+B1 B3+ 0.023(4) 0.016(4) 0.028(4) -.001(3) 0.015(3) 0.001(3)
+B2 B3+ 0.014(4) 0.023(4) 0.016(4) -.001(3) 0.003(3) 0.006(3)
+B3 B3+ 0.021(4) 0.016(4) 0.028(5) 0.002(3) 0.014(4) 0.004(3)
+Li1 Li1+ 0.031(8) 0.018(6) 0.056(11) -.005(6) 0.016(7) -.014(6)
+#End of TTdata_82353-ICSD

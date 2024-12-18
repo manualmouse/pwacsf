@@ -1,0 +1,77 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97016-ICSD
+_database_code_ICSD 97016
+_audit_creation_date 2004-10-01
+_chemical_name_common 'Dilanthanum magnesium germanium oxide'
+_chemical_formula_structural 'La2 Mg Ge O6'
+_chemical_formula_sum 'Ge1 La2 Mg1 O6'
+_chemical_name_structure_type Ni3TeO6
+_exptl_crystal_density_diffrn 6.68
+_citation_title
+'La2 Mg Ge O6 : a novel Ge based perovskite synthesised under ambient pressure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemical Communications (Cambridge, United Kingdom)' 2002 2002 1776
+1777 CHCOFS
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Swaffer, M.'
+primary 'Slater, P.R.'
+primary 'Gover, R.K.B.'
+primary 'Matsumura, T.'
+primary 'Kanno, R.'
+primary 'Kamiyama, T.'
+_cell_length_a 5.5125(1)
+_cell_length_b 5.5125(1)
+_cell_length_c 13.3295(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 350.79
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 H'
+_space_group_IT_number 146
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+4 '-x+y+2/3, -x+1/3, z+1/3'
+5 '-y+2/3, x-y+1/3, z+1/3'
+6 'x+2/3, y+1/3, z+1/3'
+7 '-x+y+1/3, -x+2/3, z+2/3'
+8 '-y+1/3, x-y+2/3, z+2/3'
+9 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Mg2+ 2
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 3 a 0 0 0.248(3) 0.31(6) 1.
+La2 La3+ 3 a 0 0 0.752(2) 0.19(6) 1.
+Mg1 Mg2+ 3 a 0 0 0 0.1(1) 1.
+Ge1 Ge4+ 3 a 0 0 0.503(3) 0.2(1) 1.
+O1 O2- 9 b 0.119(2) 0.354(2) 0.089(2) 0.5(2) 1.
+O2 O2- 9 b 0.112(2) 0.789(2) 0.578(2) 0.3(2) 1.
+#End of TTdata_97016-ICSD

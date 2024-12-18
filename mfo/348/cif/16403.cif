@@ -1,0 +1,93 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16403-ICSD
+_database_code_ICSD 16403
+_audit_creation_date 1984-09-04
+_audit_update_record 2011-02-01
+_chemical_name_common 'Titanium hexathiodiphosphate(IV)'
+_chemical_formula_structural 'Ti (P2 S6)'
+_chemical_formula_sum 'P2 S6 Ti1'
+_chemical_name_structure_type TiP2S6
+_exptl_crystal_density_diffrn 2.31
+_citation_title 'Synthese und Kristallstruktur von Ti P2 S6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1980
+470 39 44 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Jandali, M.Z.'
+primary 'Eulenberger, G.'
+primary 'Hahn, H.'
+_cell_length_a 10.842(4)
+_cell_length_b 7.440(5)
+_cell_length_c 21.535(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1737.11
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'F d d 2'
+_space_group_IT_number 43
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ti1 Ti4+ 8 a 0.25 0.25 0.1001 . 1.
+P1 P4+ 16 b 0.5637(4) 0.8843(6) 0.1907(5) . 1.
+S1 S2- 16 b 0.5242(5) 0.7638(6) 0.2715(2) . 1.
+S2 S2- 16 b 0.4728(3) 0.2649(8) 0.1126(2) . 1.
+S3 S2- 16 b 0.7359(3) 0.9938(5) 0.1764(2) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ti1 Ti4+ 2.85(11) 3.84(12) 2.58(11) 0.00(15) 0 0
+P1 P4+ 4.74(19) 4.81(18) 5.12(19) -.41(19) -.36(18) -.10(19)
+S1 S2- 7.59(27) 3.55(16) 3.14(11) -1.42(16) 0.15(14) 0.88(12)
+S2 S2- 2.87(13) 6.78(22) 6.00(12) -.56(18) -.15(13) 4.03(19)
+S3 S2- 2.80(14) 5.36(19) 4.92(17) -1.24(14) 0.20(13) -2.17(15)
+#End of TTdata_16403-ICSD

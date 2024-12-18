@@ -1,0 +1,108 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280724-ICSD
+_database_code_ICSD 280724
+_audit_creation_date 2002-10-01
+_audit_update_record 2008-08-01
+_chemical_name_common 'Hexasodium trilead tetrakis(thiophosphate(V)) - alpha'
+_chemical_formula_structural 'Na6 Pb3 (P S4)4'
+_chemical_formula_sum 'Na6 P4 Pb3 S16'
+_exptl_crystal_density_diffrn 3.44
+_diffrn_ambient_temperature 173.
+_citation_title
+
+;
+alpha-(Na6 Pb3 (P S4)4), a noncentrosymmetric thiophosphate with the novel,
+saucer-shaped (Pb3 (P S4)4)(6-) cluster, and its metastable, 3-dimensionally
+polymerized allotrope beta-(Na6 Pb3 (P S4)4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2001 40 2938 2939 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Aitken, J.A.'
+primary 'Kanatzidis, M.G.'
+_cell_length_a 19.4527(2)
+_cell_length_b 19.4527(2)
+_cell_length_c 6.1720(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2022.63
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 m H'
+_space_group_IT_number 160
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Na1+ 1
+S2- -2
+P5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Pb1 Pb2+ 9 b 0.91128(1) 0.08872(1) 0.09935(3) . 1.
+Na1 Na1+ 18 c 0.76374(19) -.2154(2) 0.6345(5) . 1.
+S1 S2- 9 b 0.94197(7) 0.05803(7) 0.5264(4) . 1.
+S2 S2- 18 c 0.76341(10) 0.06442(10) 0.2684(3) . 1.
+S3 S2- 9 b 0.83613(7) 0.16387(7) -.2638(4) . 1.
+S4 S2- 3 a 0 0 0.0860(7) . 1.
+S5 S2- 9 b 0.09876(7) 0.19752(15) 0.0063(4) . 1.
+P1 P5+ 9 b 0.82447(7) 0.17553(7) 0.4101(4) . 1.
+P2 P5+ 3 a 0 0 0.4174(7) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.01625(16) 0.01625(16) 0.01330(17) 0.01077(18) 0.00017(9) -.00017(9)
+Na1 Na1+ 0.0287(17) 0.041(2) 0.0203(17) 0.0234(16) -.0012(13) -.0070(14)
+S1 S2- 0.0152(9) 0.0152(9) 0.0137(12) 0.0111(10) 0.0007(4) -.0007(4)
+S2 S2- 0.0116(8) 0.0105(8) 0.0166(9) 0.0049(7) 0.0002(7) -.0018(6)
+S3 S2- 0.0209(10) 0.0209(10) 0.0079(11) 0.0131(11) -.0009(5) 0.0009(5)
+S4 S2- 0.0104(13) 0.0104(13) 0.010(2) 0.0052(6) 0 0
+S5 S2- 0.0131(9) 0.0085(11) 0.0203(13) 0.0043(6) 0.0002(5) 0.0004(10)
+P1 P5+ 0.0111(9) 0.0111(9) 0.0131(13) 0.0096(10) -.0009(5) 0.0009(5)
+P2 P5+ 0.0100(13) 0.0100(13) 0.011(2) 0.0050(6) 0 0
+#End of TTdata_280724-ICSD

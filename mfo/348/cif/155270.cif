@@ -1,0 +1,74 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_155270-ICSD
+_database_code_ICSD 155270
+_audit_creation_date 2007-04-01
+_chemical_name_common 'Sodium antimony(III) hexathioduo-diphosphate(IV) - beta'
+_chemical_formula_structural 'Na Sb (P2 S6)'
+_chemical_formula_sum 'Na1 P2 S6 Sb1'
+_chemical_name_structure_type KSbP2Se6
+_exptl_crystal_density_diffrn 2.74
+_citation_title
+
+;
+Preparation, crystal structure and characterization of alpha-(Na Sb P2 S6) and
+beta-(Na Sb P2 S6) phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 2006 41 1337 1344 MRBUAC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Manriquez, V.'
+primary 'Galdamez, A.'
+primary 'Ruiz-Leon, D.'
+_cell_length_a 6.6167(13)
+_cell_length_b 7.3993(15)
+_cell_length_c 9.895(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.12(3)
+_cell_angle_gamma 90.
+_cell_volume 484.12
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21 1'
+_space_group_IT_number 4
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+Na1+ 1
+P4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sb1 Sb3+ 2 a 0.20605(10) 0.21940(13) 0.02000(7) 0.0168(3) 1.
+Na1 Na1+ 2 a 0.3006(8) 0.9706(8) 0.4990(5) 0.0238(11) 1.
+P1 P4+ 2 a 0.3118(7) 0.6774(6) 0.1747(5) 0.0431(3) 1.
+P2 P4+ 2 a 0.2041(7) 0.4511(7) 0.2997(5) 0.0429(11) 1.
+S1 S2- 2 a 0.3412(8) 0.5644(7) 0.9864(5) 0.0483(11) 1.
+S2 S2- 2 a 0.0880(8) 0.8667(6) 0.1753(5) 0.0462(11) 1.
+S3 S2- 2 a 0.5741(7) 0.7656(6) 0.2552(5) 0.0462(12) 1.
+S4 S2- 2 a 0.9491(7) 0.3683(6) 0.1917(5) 0.0461(11) 1.
+S5 S2- 2 a 0.4177(8) 0.2588(7) 0.2689(5) 0.0525(14) 1.
+S6 S2- 2 a 0.1781(8) 0.5310(8) 0.4881(5) 0.0531(13) 1.
+#End of TTdata_155270-ICSD

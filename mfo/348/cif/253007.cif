@@ -1,0 +1,104 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253007-ICSD
+_database_code_ICSD 253007
+_audit_creation_date 2017-08-01
+_chemical_name_common 'Lithium gallium germanium selenide (1/1/2/6)'
+_chemical_formula_structural 'Li Ga Ge2 Se6'
+_chemical_formula_sum 'Ga1 Ge2 Li1 Se6'
+_exptl_crystal_density_diffrn 4.38
+_diffrn_ambient_temperature 150.
+_citation_title
+'Crystal growth, structure, and optical properties of LiGaGe2Se6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 8672 8680 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yelisseyev, Alexander P.'
+primary 'Isaenko, Ludmila I.'
+primary 'Krinitsin, Pavel'
+primary 'Liang, Fei'
+primary 'Goloshumova, Alina A.'
+primary 'Naumov, Dmitry Yu.'
+primary 'Lin, Zheshuai'
+_cell_length_a 12.5035(9)
+_cell_length_b 23.7101(11)
+_cell_length_c 7.1177(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2110.1
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'F d d 2'
+_space_group_IT_number 43
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se2- -2
+Ge4+ 4
+Ga3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Se1 Se2- 16 b 0.09006(3) 0.231440(17) 0.60436(7) 0.01296(10) 1
+Se2 Se2- 16 b 0.04597(3) 0.076658(18) 0.72996(6) 0.01040(9) 1
+Se3 Se2- 16 b 0.05668(3) 0.130200(18) 0.19656(5) 0.00918(9) 1
+Ge1 Ge4+ 16 b 0.12417(3) 0.138047(18) 0.50672(6) 0.00708(9) 1
+Ga1 Ga3+ 8 a 0.25 0.25 0.77848(9) 0.00642(11) 1
+Li1 Li1+ 16 b -0.057(3) 0.192(3) 0.827(9) 0.024(6) 0.12(4)
+Li2 Li1+ 16 b -0.082(2) 0.2050(15) 0.794(4) 0.024(6) 0.38(4)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se2- 0.00819(16) 0.00864(17) 0.0221(2) 0.00168(13) -0.00718(15) -0.00530(15)
+Se2 Se2- 0.01067(16) 0.01278(17) 0.00774(17) -0.00085(13) 0.00273(13)
+-0.00270(13)
+Se3 Se2- 0.00338(14) 0.01714(18) 0.00701(17) -0.00108(13) -0.00030(12)
+-0.00006(13)
+Ge1 Ge4+ 0.00372(15) 0.00837(16) 0.00914(19) -0.00030(12) -0.00171(13)
+-0.00122(14)
+Ga1 Ga3+ 0.0045(2) 0.0063(2) 0.0085(3) -0.00004(17) 0. 0.
+Li1 Li1+ 0.022(8) 0.027(8) 0.023(8) 0.002(6) 0.003(6) 0.004(6)
+Li2 Li1+ 0.022(8) 0.027(8) 0.023(8) 0.002(6) 0.003(6) 0.004(6)
+#End of TTdata_253007-ICSD

@@ -1,0 +1,81 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15674-ICSD
+_database_code_ICSD 15674
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_common 'Barium germanate'
+_chemical_formula_structural 'Ba Ge Ge3 O9'
+_chemical_formula_sum 'Ba1 Ge4 O9'
+_exptl_crystal_density_diffrn 5.15
+_citation_title
+'Crystal structure of Ba Ge Ge3 O9 and its relation to benitoite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of Research of the National Bureau of Standards, Section A: Physics
+and Chemistry
+; 1966 70 385 391 JNBAAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Robbins, C.'
+primary 'Perloff, A.'
+primary 'Block, S.'
+_cell_length_a 11.61
+_cell_length_b 11.61
+_cell_length_c 4.74
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 553.32
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'P 3'
+_space_group_IT_number 143
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 3 d 0.3341(4) 0.3334(5) 0 1.03 1.
+Ge1 Ge4+ 1 a 0 0 -.0928(34) 0.35 1.
+Ge2 Ge4+ 1 b 0.3333 0.6667 0.1024(31) 0.22 1.
+Ge3 Ge4+ 1 c 0.6667 0.3333 0.0062(38) 0.55 1.
+Ge4 Ge4+ 3 d 0.8148(7) 0.8200(6) 0.4111(25) 0.39 1.
+Ge5 Ge4+ 3 d 0.6674(7) 0.5131(6) 0.5051(34) 0.14 1.
+Ge6 Ge4+ 3 d 0.5180(6) 0.6719(7) 0.5929(25) 0.37 1.
+O1 O2- 3 d 0.8459(32) 0.9286(35) 0.1193(75) -.43 1.
+O2 O2- 3 d 0.5843(46) 0.4074(47) 0.216(11) 1.16 1.
+O3 O2- 3 d 0.7746(33) 0.6524(33) 0.3101(78) -.2 1.
+O4 O2- 3 d 0.5505(35) 0.5561(35) 0.6965(80) 0.07 1.
+O5 O2- 3 d 0.4743(56) 0.7350(58) 0.898(13) 2.25 1.
+O6 O2- 3 d 0.9264(38) 0.8428(36) 0.6430(82) 0 1.
+O7 O2- 3 d 0.6650(69) 0.8081(68) 0.493(18) 3.07 1.
+O8 O2- 3 d 0.4059(43) 0.5880(41) 0.3274(91) 1. 1.
+O9 O2- 3 d 0.7525(48) 0.4844(46) 0.747(10) 1.13 1.
+#End of TTdata_15674-ICSD

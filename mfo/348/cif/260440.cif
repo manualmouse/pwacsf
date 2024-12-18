@@ -1,0 +1,98 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260440-ICSD
+_database_code_ICSD 260440
+_audit_creation_date 2010-02-01
+_chemical_name_common 'Cesium difluoro diberyllium trioxoborate'
+_chemical_formula_structural 'Cs (F2 Be2 B O3)'
+_chemical_formula_sum 'B1 Be2 Cs1 F2 O3'
+_chemical_name_structure_type KBe2BO3F2
+_exptl_crystal_density_diffrn 3.37
+_diffrn_ambient_temperature 293.
+_citation_title 'Trigonal structures of A Be2 B O3 F2 (A = Rb, Cs, Tl) crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2009 65 445 449
+ASBSDK
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'McMillen, C.D.'
+primary 'Hu Jia'
+primary 'VanDerveer, D.'
+primary 'Kolis, J.W.'
+_cell_length_a 4.4575(6)
+_cell_length_b 4.4575(6)
+_cell_length_c 21.310(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 366.69
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 2 H'
+_space_group_IT_number 155
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+F1- -1
+B3+ 3
+O2- -2
+Be2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 3 a 1. 1. 1. 0.0238(3) 1
+F1 F1- 6 c 1.3333 0.6667 0.93099(12) 0.0214(5) 1
+B1 B3+ 3 b 0.6667 1.3333 0.8333 0.0101(10) 1
+O1 O2- 9 e 1.3596(6) 1.0262(6) 0.8333 0.0118(6) 1
+Be1 Be2+ 6 c 1.3333 0.6667 0.8594(2) 0.0088(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0201(3) 0.0201(3) 0.0314(4) 0.01004(15) 0. 0.
+F1 F1- 0.0253(8) 0.0253(8) 0.0137(11) 0.0126(4) 0. 0.
+B1 B3+ 0.0075(15) 0.0075(15) 0.015(3) 0.0037(7) 0. 0.
+O1 O2- 0.0060(9) 0.0060(9) 0.0230(15) 0.0026(11) -0.0003(6) 0.0003(6)
+Be1 Be2+ 0.0065(11) 0.0065(11) 0.014(2) 0.0032(6) 0. 0.
+#End of TTdata_260440-ICSD

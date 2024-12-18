@@ -1,0 +1,107 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428186-ICSD
+_database_code_ICSD 428186
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Tetraaluminium tris(hexathiohypodiphosphate)'
+_chemical_formula_structural 'Al4 (P2 S6)3'
+_chemical_formula_sum 'Al4 P6 S18'
+_exptl_crystal_density_diffrn 2.47
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+In search of aluminum hexathiohypodiphosphate: synthesis and structures of ht
+- Al P S4, lt- Al P S4, and Al4 (P2 S6)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 2663 2668 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kuhn, Alexander'
+primary 'Eger, Roland'
+primary 'Ganter, Pirmin'
+primary 'Duppel, Viola'
+primary 'Nuss, Juergen'
+primary 'Lotsch, Bettina V.'
+_cell_length_a 17.664(4)
+_cell_length_b 10.199(2)
+_cell_length_c 6.7787(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.64(3)
+_cell_angle_gamma 90.
+_cell_volume 1170.07
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2 1'
+_space_group_IT_number 5
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2- -2
+Al3+ 3
+P4+ 4
+Al3+ 3
+S2- -2
+Al3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+S1 S2- 4 c 0.0792(4) 0.3368(10) 0.7472(13) 0.047(2) 1
+S2 S2- 4 c 0.4146(4) 0.3268(6) 0.7343(13) 0.0397(19) 1
+S3 S2- 4 c 0.7449(3) 0.3266(7) 0.7469(12) 0.0355(19) 1
+S4 S2- 4 c 0.7517(4) 0.0026(7) 0.7486(13) 0.039(2) 1
+S5 S2- 4 c 0.4128(4) 0.0072(8) 0.7372(16) 0.046(2) 1
+S6 S2- 4 c 0.0795(4) 0.0046(8) 0.7431(16) 0.046(2) 1
+Al1 Al3+ 4 c 0.3264(6) 0.1691(11) 0.5015(17) 0.0346(19) 1
+P1 P4+ 4 c 0.8533(4) 0.0081(11) 0.6614(18) 0.055(3) 1
+P2 P4+ 4 c 0.5165(4) 0.0033(11) 0.6703(14) 0.040(2) 1
+P3 P4+ 4 c 0.1863(4) -0.0008(11) 0.6683(15) 0.042(2) 1
+Al2 Al3+ 2 b 0. 0.188(2) 0.5 0.075(6) 1
+S7 S2- 4 c 0.5866(4) 0.1685(7) 0.7436(13) 0.0344(17) 1
+S8 S2- 4 c 0.2496(4) 0.1581(7) 0.7424(17) 0.046(2) 1
+S9 S2- 4 c 0.9193(5) 0.1700(7) 0.7425(16) 0.046(2) 1
+Al3 Al3+ 2 b 0.5 0.3451(16) 0.5 0.042(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S2 S2- 0.051(4) 0.007(2) 0.074(6) 0.008(3) 0.038(4) 0.004(3)
+S3 S2- 0.014(2) 0.021(3) 0.084(6) 0.007(2) 0.035(3) 0.011(3)
+S4 S2- 0.028(3) 0.029(5) 0.063(5) 0.019(3) 0.021(3) 0.006(4)
+S5 S2- 0.034(3) 0.039(5) 0.081(6) 0.001(3) 0.042(4) 0.010(4)
+S6 S2- 0.031(3) 0.029(4) 0.095(7) 0.003(3) 0.044(4) -0.003(4)
+P1 P4+ 0.041(4) 0.020(4) 0.119(8) 0.005(3) 0.051(5) 0.004(4)
+P2 P4+ 0.036(3) 0.021(3) 0.074(6) -0.006(2) 0.034(4) 0.004(3)
+P3 P4+ 0.030(3) 0.027(4) 0.084(7) -0.001(2) 0.039(4) -0.006(4)
+S7 S2- 0.020(3) 0.032(3) 0.060(5) 0.000(2) 0.026(3) 0.000(3)
+S8 S2- 0.030(3) 0.010(3) 0.110(7) 0.011(2) 0.040(4) 0.009(3)
+S9 S2- 0.045(5) 0.021(3) 0.078(6) -0.006(3) 0.027(5) -0.009(4)
+#End of TTdata_428186-ICSD

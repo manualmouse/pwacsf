@@ -1,0 +1,84 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_86152-ICSD
+_database_code_ICSD 86152
+_audit_creation_date 1999-11-30
+_audit_update_record 2003-04-01
+_chemical_name_common 'Lithium sodium tetragermanate - LT'
+_chemical_formula_structural 'Li Na (Ge4 O9)'
+_chemical_formula_sum 'Ge4 Li1 Na1 O9'
+_exptl_crystal_density_diffrn 4.44
+_diffrn_ambient_temperature 30.
+_citation_title
+
+;
+A neutron diffraction study on the phase transition in ferroelectric Li Na Ge4
+O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Korean Physical Society' 1998 32 195 198 JKPSDV
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Iwata, A.'
+primary 'Koyano, N.'
+primary 'Machida, M.'
+primary 'Wada, M.'
+primary 'Sawada, A.'
+_cell_length_a 9.341(5)
+_cell_length_b 4.675(1)
+_cell_length_c 15.916(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 695.04
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 c a'
+_space_group_IT_number 29
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x+1/2, y, -z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+O2- -2
+Na1+ 1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ge1 Ge4+ 4 a 0 0.0014(3) 0.7938(1) 0.79(3) 1.
+Ge2 Ge4+ 4 a -.0011(1) 0.4996(3) 0.1550(1) 0.61(3) 1.
+Ge3 Ge4+ 4 a 0.7896(1) 0.0050(3) 0.0957(1) 0.75(4) 1.
+Ge4 Ge4+ 4 a 0.2072(1) 0.9909(3) 0.0977(1) 0.67(4) 1.
+O1 O2- 4 a 0.2629(2) 0.1574(5) 0.0039(1) 1.16(5) 1.
+O2 O2- 4 a 0.8670(1) 0.1703(4) 0.8580(1) 0.93(4) 1.
+O3 O2- 4 a 0.9121(1) 0.2783(5) 0.0735(1) 1.18(4) 1.
+O4 O2- 4 a 0.9155(2) 0.2815(5) 0.2417(1) 1.20(5) 1.
+O5 O2- 4 a 0.1630(2) 0.2781(5) 0.1625(1) 0.92(5) 1.
+O6 O2- 4 a 0.1244(1) 0.8544(5) 0.8685(1) 1.14(6) 1.
+O7 O2- 4 a 0.0828(1) 0.7289(5) 0.0710(1) 1.39(5) 1.
+O8 O2- 4 a 0.0864(1) 0.7377(6) 0.2374(1) 1.25(5) 1.
+O9 O2- 4 a 0.8371(2) 0.7394(5) 0.1637(1) 1.12(5) 1.
+Na1 Na1+ 4 a -.0152(3) 0.5181(7) 0.9542(1) 1.48(9) 1.
+Li1 Li1+ 4 a 0.7673(5) 0.4553(20) 0.7604(3) 2.28(21) 1.
+#End of TTdata_86152-ICSD
