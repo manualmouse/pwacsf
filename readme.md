@@ -22,6 +22,6 @@ Run **ndfsc.py** to split data and resample training set.
 ### 2.5 Train classification models
 Run **ndml2_gen.py** to generate job files for model training.
 
-Note that datasets directly for model training canbe found in `https://figshare.com/account/articles/28053213`
+Note that datasets directly for model training canbe found in `https://figshare.com/articles/dataset/pwacsf/28053213`
 
 Then copy **nd_ml2.py** to the job directory.
